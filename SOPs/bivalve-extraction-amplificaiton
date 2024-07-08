@@ -1,0 +1,715 @@
+\`![Logo, company name Description automatically
+generated](./image1.png){width="1.5in" height="1.125in"}
+
+**Tulane University Aw Lab**
+
+**STANDARD OPERATING PROCEDURE**
+
+**Bivalve Viral Enrichment and Allprep PowerViral DNA/RNA Kit
+Extraction**
+
+**REVISION \# 1 Effective date: 04/25/24**
+
+**APPROVED BY**
+
+**Signature
+[\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_]{.underline}**
+
+**Tiong Aw, Principle Investigator**
+
+**Signature**
+
+**Katie Vigil, Ph.D **
+
+**Huiyun Wu, Ph.D**
+
+1.  **SCOPE AND APPLICATION**
+
+This method is used to extract DNA/RNA viruses from bivalves for random
+PCR amplification and sequencing analysis with the Nanopore MinION
+portable real-time sequencing device or equivalent.
+
+2.  **SUMMARY OF METHOD**
+
+Bivalve hepatopancreas samples will be homogenized using 5 mm stainless
+steel grinding balls in elution buffer. The homogenized mixture is
+centrifuged down and the supernatant will be treated with DNase and
+RNase enzymes to degrade background DNA and/or RNA. Ceres Nanotrap beads
+are added to the enzyme treated samples, and final extraction will be
+conducted using the Qiagen All-Prep Viral kit. RNA and DNA isolated
+samples will be reverse transcribed using a random hexamer, then DNA
+will be amplified randomly amplified for library sequencing preparation
+using a different SOP.
+
+3.  **DEVIATIONS FROM METHOD**
+
+    3.1.  N/A
+
+4.  **SAFETY**
+
+    4.1.  Wear appropriate personal protective equipment (PPE) including
+        lab coats, gloves, eye protection and face shield, as needed.
+
+    4.2.  All procedures that can cause infection from aerosols or
+        splashes are performed within a biological safety cabinet (BSC).
+
+    4.3.  Make sure all BSC cabinets are UV'd before use and countertops
+        are wiped down with RNA-Away and/or DNA-away before proceeding
+        with sample processing.
+
+    4.4.  Process environmental samples in a separate hood to reagent
+        prep.
+
+    4.5.  Use an autoclave or an alternative method of decontamination for
+        proper disposals.
+
+    4.6.  A sink and eyewash station should be readily available.
+
+5.  **EQUIPTMENT AND SUPPLIES**
+
+    5.1.  Biosafety Cabinet Level 2 (BSC-II) with UV light
+
+    5.2.  Invitrogen Qubit 4 Fluorometer \-\-- ThermoFisher Scientific Cat
+        #Q33238, or equivalent.
+
+    5.3.  Eppendorf Centrifuge 5424
+
+    5.4.  2-20um sterile pipette tips \-\-- FisherBrand Cat #02-707-432
+
+    5.5.  10-100um sterile pipette tips \-\-- FisherBrand Cat #02-707-431
+
+    5.6.  20-200um sterile pipette tips \-\-- FisherBrand Cat #02-707-430
+
+    5.7.  100-1000um sterile pipette tips \-\-- FisherBrand Cat
+        #02-707-404
+
+    5.8.  Heat Block
+
+    5.9.  BD Luer-Lok® Sterile Syringe, 5mL \-\--FisherScientific
+        Cat#14-829-45
+
+    5.10. 5 mm Grinding Balls 440C Stainless Steel --OPS Diagnostics
+        SKU#GBSS 196-2500-10
+
+    5.11. Microcentrifuge (up to 13,000g), 2mL, 2.2 mL tubes
+
+    5.12. Ice block tube holder
+
+    5.13. Vortex Genie 2 --Scientific Industries, Inc SKU#SI-0236
+
+    5.14. Vortex Genie 2, Multi-tube
+
+6.  **REAGENTS AND STANDARDS**
+
+    6.1.  **Elution Solution**
+
+        6.1.1  To prepare 1 L of elution solution (0.1% Tween 20, 0.01%
+            > sodium hexametaphosphate, 0.001% antifoam Y-30, pH \~7)
+
+        6.1.2  Prepare a 10% solution of Tween-20:
+
+            > Add 1 ml of Tween-20 to 9 ml of sterile water. Vortex well. Filter
+            > sterilize with 0.2 µm filter
+
+        6.1.3.  Prepare a 10% solution of Y-30 antifoam:
+
+            > Add 1 ml of Y-30 antifoam to 9 ml of sterile water. Vortex well.
+            > Filter sterilize with 0.2 µm filter.
+
+        6.1.4.  Prepare Elution Solution (200 ml/sample)
+
+        6.1.5.  Add 0.1g sodium hexametaphosphate or sodium polyphosphate, 10 mL 10%
+            > Tween-80 and 100 µL10% Y-30 antifoam to 1L of Milli-Q water.
+
+        6.1.6  Check pH. Adjust to 7-7.5 if needed.
+
+        6.1.7.  Filter sterilize with 0.2 µm filter. Store at room temperature for
+            > up to 1 month.
+
+```{=html}
+<!-- -->
+```
+6.2.  Qubit dsDNA HS Assay Kit -- ThermoFisher Scientific 100 reactions
+    Cat#Q3285, 500 reactions #Q32854
+
+6.3.  Qubit RNA HS Assay Kit -- ThermoFisher Scientific 100 reactions
+    Cat#Q32852, 500 Cat#Q32855
+
+```{=html}
+<!-- -->
+```
+6.4.  AllPrep PowerViral DNA/RNA kit -- Qiagen Cat \# 28000-50
+
+6.5.  Sodium Chloride (Crystalline/Certified ACS), Fisher Chemical \-\--
+    FisherScientific Cat #S271-500, or equivalent.
+
+6.6.  Promega Tris EDTA buffer, 1X, Molecular Biology Grade \-\--
+    FisherScientific Cat #PRV6231, or equivalent.
+
+6.7.  Ambion DNase I (2U/uL) (RNase Free) \-\-- FisherScientific Cat
+    #AM2222, or equivalent.
+
+    6.7.1.  DNase I is an endonuclease that digests single and double
+        > stranded DNA. It hydrolizes phosphodiester bonds producing
+        > mono and oligodeoxyribonucleotides with 5'- phosphate and
+        > 3'-OH groups. The enzyme activity is strictly dependent on
+        > Ca^2+^ and is activated by Mg^2+^, DNase I cleaves each strand
+        > of DsDNA independently, in a statistically random fashion. In
+        > the presence of Mn^2+^, the enzyme cleaves both DNA strands at
+        > approximately the same site, producing DNA fragments with
+        > blunt ends or with one or two nucleotide overhangs.
+
+6.8  Ambion RNase I (100U/uL) (cloned)-- ThermoFisher Scientific Cat \#
+    AM2294, or equivalent.
+
+    6.8.1.  RNase I degrades all RNA dinucleotide bonds leaving a 5'
+        > hydroxyl and a 2', 3' cyclic monophosphate. It degrades any
+        > RNA to a mixture of mono-, di-, and trinucleotides and does
+        > not degrade DNA, although it does bind to DNA. It has a high
+        > specific activity which, coupled with its non-specificity,
+        > typically results in complete degradation of RNA using ng
+        > amounts of protein.
+
+6.9.  Turbo Dnase (2U/uL) \-- ThermoFisher Scientific Cat \# AM2238
+
+    6.9.1.  TURBO™ DNase cleaves double-stranded DNA nonspecifically to
+        > leave 5\' phosphorylated oligodeoxynucleotides. It has
+        > increased affinity for DNA-binding and remains active in the
+        > presence of salt.
+
+6.10.  Baseline Zero DNase (1U/uL) and Turbo DNase Buffer (10x)\-- Fisher
+    Scientific Cat#NC1424104
+
+    6.10.1.  Baseline-ZERO™ DNase\* is ideal for use when you need to be
+        > certain that ZERO DNA remains. Baseline-ZERO DNase hydrolyzes
+        > both double-stranded (ds) and single-stranded (ss) DNA to
+        > mononucleotides with the highest efficiency.
+
+6.11.  DEPC treated water --ThermoFisher Scientific Cat# R0601, or
+    equivalent.
+
+6.12. RNaseOUT Recombinant Ribonuclease Inhibitor (100mM) -- ThermoFisher
+    Scientific Cat#10777019
+
+    6.12.1.  RNaseOUT™ Recombinant Ribonuclease Inhibitor is a potent
+        noncompetitive inhibitor of pancreatic-type ribonucleases such
+        as RNase A, and is used to avoid RNA degradation in a variety of
+        applications. RNaseOUT™ Recombinant Ribonuclease Inhibitor is an
+        acidic protein with a molecular weight of ∼52 kDa. RNaseOUT™
+        inhibits RNase A, RNase B, and RNase C.
+
+6.13. Applied Biosystems Amplitaq Gold DNA Polymerase with Buffer II &
+    MgCl~2~ --ThermoFisher Scientific Cat#4311806
+
+6.14. RNase One (10U/uL)-ThermoFisher Cat#EN0601
+
+    6.14.1.  Thermo Scientific Ribonuclease I (RNase I) is an
+        endoribonuclease that preferentially hydrolyzes single-stranded
+        RNA to nucleoside 3\'-monophosphates via nucleoside 2\',
+        3\'-cyclic monophosphate intermediates.
+
+6.15. Superscript III reverse transcriptase -- Invitrogen Cat# 18080-044
+    50 reactions.
+
+6.16. dNTP Mix --FisherScientific Promega #U1515
+
+```{=html}
+<!-- -->
+```
+7.  **SAMPLE COLLECTION, PRESERVATION, SHIPMENT, AND STORAGE**
+
+    7.1.  Unpreserved bivalve samples will be collected on ice and stored
+        in 4 ^o^C for immediate processing (within 48 hours) or --80
+        ^o^C for long term storage.
+
+8.  **QUALITY CONTROL**
+
+    8.1.  **Before preparing any controls, ensure that all workstations
+        and BSCs are wiped with 10% bleach and 70% ETOH before use.  UV
+        all plastic consumables, grinding balls and appropriate reagents
+        before use.**
+
+    8.2.  **Grinding balls can be heat sterilized in the oven.**
+
+    8.3.  Extracted DNA/RNA purity will be checked using the Invitrogen
+        Qubit 4 Fluorometer (260 nm absorbance). Good quality DNA/RNA
+        will have an A~260~/A~280~ ration of 1.8-2.0 ng.
+
+    8.4.  **Negative control**
+
+    8.5.  Sterile elution buffer will be processed concurrently with
+        bivalve samples as a negative control during homogenization
+        process.
+
+    8.6.  Sterile elution water will be processed concurrently with
+        bivalve samples as a negative control during extraction process.
+    
+    8.7. All negative controls will be sequencing and excluded from final reads.
+
+    8.8.  **Positive Control**
+
+    8.9.  Spike 10\^5 +ssRNA MS2 phage stock into oyster tissue before
+        homogenization with grinding balls.
+
+        8.9.1.  +ssRNA MS2 RNA phage stock is an intact virus with its
+            > capsid. It will have the same behavior as other RNA
+            > viruses within their encapsules. 
+
+        8.9.2.  Measure recovery with RT-dPCR or RT-PCR and sequencing.
+
+9.  **CALIBRATION AND STANDARDIZATION**
+
+    9.1.  Calibrate the Invitrogen Qubit 4 Fluorometer according to the
+        manufacturer\'s instructions (Qubit™ 4 Fluorometer Manual
+        Revision C.0).
+
+10. **PROCEDURE**
+
+    10.1.  **Bivalve Sample Processing**
+
+    10.2.  **TURN ON THE** 37^o^C and 55^o^C water bathd. Put the PM-1
+        buffer in the 55^o^C cleaned water bath or incubator until
+        extraction.
+
+    10.3.  Measure height and width of each bivalve (cm) and record in lab
+        notebook before dissecting.
+
+    10.4.  Place 50 mL conical tube on a scale and add 4 grinding balls
+        then tare the scale and it is ready for tissue samples.
+
+    10.5.  Dissect hepatopancreas from 5 oysters, mussels or clams and pool
+        samples into one UV sterilized 50 mL conical tube. When
+        processing clams or mussels, more hepatopancreas can be added to
+        the 50 mL conical tube, do not add more than 15 mL of tissue at
+        a time.
+
+    10.6.  Fill the 50mL conical tube up to 30 mL elution solution
+        (**Section 6.1**) and close cap firmly.
+
+    10.7.  Vortex diluted samples for **1 hour at max speed (level 10)** at
+        4^o^C using the Fisherbrand Analog Vortex Mixer (it is better
+        than the Vortex-Genie 2) and the 50 mL adaptor.
+
+    10.8.  Centrifuge sample at **3,273g for 10 minutes at 4^o^C**, to
+        pellet large homogenized particles down.
+
+    10.9.  Without disturbing the pellet, pipette the supernatant off and
+        transfer to 200 mL flat bottom plastic conical tubes that have
+        been sterilized and UV'd.
+
+    10.10. Centrifuge the 200 mL sample at (14,000 rpm) **30,074 g at 4^o^C
+        for 45 minutes**.
+
+    10.11. Transfer supernatant to a 15 mL conical tube for viral
+        extraction, or store at -80C.
+
+    10.12. **Allprep PowerViral DNA/RNA Kit and Viral Enrichment**
+
+    10.13. Transfer 170uL of concentrated sample to 1.5mL tube and add 30
+        uL enzyme treatment mix from Section 10.15.
+
+    10.14. **Enzymatic treatment**
+
++-----------------+----------+----------------------+-----------------+
+| **Reagent**     | **1      | **Final              | **Mix to \_\_\_ |
+|                 | Reaction | Concentration**      | RNX**           |
+|                 | (µL)**   |                      |                 |
++=================+==========+======================+=================+
+| Turbo DNase (2  | 7        | 14 U                 |                 |
+| U/ µL)          |          |                      |                 |
++-----------------+----------+----------------------+-----------------+
+| Baseline zero   | 3        | 3 U                  |                 |
+| (1 U/ µL)       |          |                      |                 |
++-----------------+----------+----------------------+-----------------+
+| RNase One (100  | 0.2      | 20 U                 |                 |
+| U/ µL)          |          |                      |                 |
++-----------------+----------+----------------------+-----------------+
+| Turbo DNase     | 20       |                      |                 |
+| buffer (10X     |          |                      |                 |
+| reaction        |          |                      |                 |
+| buffer)         |          |                      |                 |
++-----------------+----------+----------------------+-----------------+
+| **Total         |          |                      |                 |
+| Volume**        |          |                      |                 |
++-----------------+----------+----------------------+-----------------+
+| Add 30 µL of    |          |                      |                 |
+| mix to new      |          |                      |                 |
+| tubes           |          |                      |                 |
++-----------------+----------+----------------------+-----------------+
+| Add 170 µL of   |          |                      |                 |
+| concentrated    |          |                      |                 |
+| samples         |          |                      |                 |
++-----------------+----------+----------------------+-----------------+
+| Incubate for 15 |          |                      |                 |
+| min at 37 °C    |          |                      |                 |
+|                 |          |                      |                 |
+|  and continue   |          |                      |                 |
+| with            |          |                      |                 |
+| incubation      |          |                      |                 |
++-----------------+----------+----------------------+-----------------+
+| Proceed         |          |                      |                 |
+| immediately to  |          |                      |                 |
+| viral           |          |                      |                 |
+| extraction      |          |                      |                 |
++-----------------+----------+----------------------+-----------------+
+
+ 
+
+Note: Manuscript from (Li et al., 2015; Victoria et al., 2008; Victoria et
+al., 2009): The viral multiplex reagent (200 µL) was centrifuged at
+12.000×g for 5min at 8 °C and the supernatant filtered through a 0.45 µM
+filter (Millipore, Billerica, MA, USA) to remove possible host cellular
+debris and bacteria. The filtrate was treated with a nuclease mixture of
+14 U turbo DNase (Ambion, Life Technologies, Grand Island, NY, USA), 3U
+Baseline-ZERO (Epicentre, Chicago, IL, USA) and 20 U RNase One (Promega,
+Madison, WI, USA) in1×DNase buffer (Ambion, Life Technologies, Grand
+Island, NY, USA) at 37 °C for 1.5 h to reduce background nucleic acids
+from the host cells and bacteria. Viral nucleic acids protected from
+digestion by viral capsids, were then extracted from ∼200 µL resulting
+solutions by different methods (Victoria etal.,2008,2009).
+
+10.15. **RNA Extraction Using the Qiagen Allprep Viral Kit**
+
+10.16. Add 200uL of enzyme treated viral concentrate and 600uL of Solution
+    PM1 to 1.5mL collection tube. Vortex mixture for 30s and incubate at
+    55^o^C on a heat block for viral lysis for 5 minutes.
+
+10.17. Add 150 uL of Solution IRS and vortex briefly to mix. Incubate at
+    4^o^ C for 5 min.
+
+10.18. Centrifuge the tubes at 13,000 x g for 1 min. Avoiding the pellet,
+    transfer the supernatant to a clean 2.2 mL Collection Tube. Do not
+    transfer more than 700 uL.
+
+10.19. Add 600 uL each of Solution PM3 and Solution PM4 to a 2.2mL
+    centrifuge tube (you should mix this together in a tube, then add to
+    2.2mL tubes).
+
+10.20. Vortex Briefly to mix and briefly spin down.
+
+Note: you can premix these solutions together in a conical tube of
+easier pipetting.
+
+10.21. Load 625 uL of super natant onto a MB Spin Column and centrifuge at
+    13,000 x g for 1 min. Discard the flow through and repeat until all
+    the supernatant has been loaded onto the Spin Column. Note: A total
+    of 3 loads is required for each sample processed.
+
+10.22. Shake and mix Solution PM5 and add 600 uL to MB Spin Column.
+    Centrifuge at 13,000 x g for 1 min.
+
+10.23. Discard flow through. Add 600 uL of Solution PM4. Centrifuge at
+    13,000 x g for 1 min.
+
+10.24. Discard flow through and centrifuge at 13,000 x g for 2 min.
+
+10.25. Place the MB Spin Column into a clean 2 mL Collection Tube
+    (provided).
+
+10.26. Add 100uL of RNase-free water to the center of the white column
+    membrane and incubate for at lease 1 min. Note: Eluting with 100uL
+    of RNase-free water will maximize DNA/RNA yield. For more
+    concentrated DNA/RNA, **a minimum of 50 uL of RNase-free water can
+    be used.**
+
+**Note: I have seen higher DNA concentrations on Qubit eluting with only
+50 uL.**
+
+10.27. Centrifuge at 13,000 x g for 1 min. Discard the MB Spin Column. The
+    DNA/RNA is now reading for downstream applications and should be
+    aliquoted into smaller volumes and stored at -80C.
+
+10.28. *Note: Multiple freeze-thaw cycles may cause degradation*.
+
+10.29. **First Strand cDNA Synthesis Overview**
+
+10.30. Random Reverse Transcription (Wang *et al.,* 2002)
+
+10.31. Random Amplification spreadsheet (one drive)
+
+10.32. **First Step Random Hexamer (Round A1)**
+
++----------------+----------+----------------------+-----------------+
+| **Reagent**    | **1      | **Final              | **Mix to \_\_\_ |
+|                | Reaction | Concentration**      | Rnx**           |
+|                | (µL)**   |                      |                 |
++================+==========+======================+=================+
+| Primer A (40   | 1        | 2uM                  |                 |
+| uM)            |          |                      |                 |
++----------------+----------+----------------------+-----------------+
+| Sample RNA     | 11       |                      |                 |
++----------------+----------+----------------------+-----------------+
+| DNTPs (10mM)   | 1        |                      |                 |
++----------------+----------+----------------------+-----------------+
+| **Total        | 13       |                      |                 |
+| Volume**       |          |                      |                 |
++----------------+----------+----------------------+-----------------+
+| 5 minutes at   |          |                      |                 |
+| 65 °C,         |          |                      |                 |
+|                |          |                      |                 |
+| Incubate on    |          |                      |                 |
+| ice for 2      |          |                      |                 |
+| minutes        |          |                      |                 |
++----------------+----------+----------------------+-----------------+
+
+10.33. **Reverse Transcription cDNA Synthesis (Round A2): Add cDNA master
+    mix to Round 1A,**
+
++----------------+----------+----------------------+-----------------+
+| **Reagent**    | **1      | **Final              | **Mix to \_\_\_ |
+|                | Reaction | Concentration**      | Rnx**           |
+|                | (µL)**   |                      |                 |
++================+==========+======================+=================+
+| Round A1       | 13       | N/A                  |                 |
++----------------+----------+----------------------+-----------------+
+| Invitorgen 5x  | 4        | 1X                   |                 |
+| RT buffer      |          |                      |                 |
++----------------+----------+----------------------+-----------------+
+| DTT(100mM)     | 1        | 5 mM                 |                 |
++----------------+----------+----------------------+-----------------+
+| RNAseOUT       | 1        |  5 uM                |                 |
+| Recombinant    |          |                      |                 |
+| Ribonuclease   |          |                      |                 |
+| Inhibitor      |          |                      |                 |
+| (100uM)        |          |                      |                 |
++----------------+----------+----------------------+-----------------+
+| SuperScript RT | 1        | 10 U                 |                 |
+| III            |          |                      |                 |
+|                |          |                      |                 |
+| (200 U/µL)     |          |                      |                 |
++----------------+----------+----------------------+-----------------+
+| Final Volume   | 20       |                      |                 |
+| (with RoundA1) |          |                      |                 |
++----------------+----------+----------------------+-----------------+
+| **Add 7 µL of  |          |                      |                 |
+| Mix to each    |          |                      |                 |
+| Round A1**     |          |                      |                 |
++----------------+----------+----------------------+-----------------+
+| 1 cycle of:    |          |                      |                 |
+|                |          |                      |                 |
+| 25°C for 5     |          |                      |                 |
+| minutes        |          |                      |                 |
+|                |          |                      |                 |
+| 50°C for 60    |          |                      |                 |
+| minutes        |          |                      |                 |
+|                |          |                      |                 |
+| 70°C for 15    |          |                      |                 |
+| minutes        |          |                      |                 |
+|                |          |                      |                 |
+| 4°C for        |          |                      |                 |
+| infinite       |          |                      |                 |
++----------------+----------+----------------------+-----------------+
+
+10.34. **Second strand DNA synthesis (Round A3): Add to Round A2 reaction
+    Total 30 uL**
+
++----------------+----------+----------------------+-----------------+
+| 1              | **1      | **Final**            | **Mix to \_\_\_ |
+| 1. **Reagent** | Reaction |                      | Rnx**           |
+|                | (µL)**   |                      |                 |
++================+==========+======================+=================+
+| 5X Sequenase   | 2        | 0.33X                |                 |
+| Reaction       |          |                      |                 |
+| Enzyme         |          |                      |                 |
+| Dilution       |          |                      |                 |
+| Buffer         |          |                      |                 |
++----------------+----------+----------------------+-----------------+
+| Nuclease free  | 7.7      | N/A                  |                 |
+| water          |          |                      |                 |
++----------------+----------+----------------------+-----------------+
+| Sequenase      | 0.3      | 0.13 U/uL            |                 |
+| Version 2 DNA  |          |                      |                 |
+| Polymerase (13 |          |                      |                 |
+| U/ µL)         |          |                      |                 |
++----------------+----------+----------------------+-----------------+
+| Total Volume   | 30       |                      |                 |
++----------------+----------+----------------------+-----------------+
+| **[Add 10 uL   |          |                      |                 |
+| of Mix to      |          |                      |                 |
+| Round          |          |                      |                 |
+| A2]            |          |                      |                 |
+| {.underline}** |          |                      |                 |
++----------------+----------+----------------------+-----------------+
+| ramp from 10°C |          |                      |                 |
+| to 37°C        |          |                      |                 |
+| (1°C/s) over 8 |          |                      |                 |
+| mins           |          |                      |                 |
+|                |          |                      |                 |
+| hold at 37°C   |          |                      |                 |
+| for 8 min      |          |                      |                 |
+| (Optimum       |          |                      |                 |
+| Temperature:   |          |                      |                 |
+| 37°C for       |          |                      |                 |
+| Sequenase)     |          |                      |                 |
+|                |          |                      |                 |
+| 94°C for 2     |          |                      |                 |
+| minutes        |          |                      |                 |
+|                |          |                      |                 |
+| ramp to 10°C   |          |                      |                 |
+| and hold for 5 |          |                      |                 |
+| minutes        |          |                      |                 |
+|                |          |                      |                 |
+| at this step   |          |                      |                 |
+| 6, add 1.2 µL  |          |                      |                 |
+| 1:4 Sequenase  |          |                      |                 |
+| buffer to each |          |                      |                 |
+| sample while   |          |                      |                 |
+| PCR machine is |          |                      |                 |
+| still running  |          |                      |                 |
+|                |          |                      |                 |
+| ramp from 10°C |          |                      |                 |
+| to 37°C        |          |                      |                 |
+| (1°C/s) over 8 |          |                      |                 |
+| minutes        |          |                      |                 |
+|                |          |                      |                 |
+| hold at 37°C   |          |                      |                 |
+| for 8 mins     |          |                      |                 |
+|                |          |                      |                 |
+| 94 °C, hold    |          |                      |                 |
+| for 8 mins     |          |                      |                 |
+|                |          |                      |                 |
+| hold at 4 °C   |          |                      |                 |
+| infinite       |          |                      |                 |
+|                |          |                      |                 |
+| Qubit for cDNA |          |                      |                 |
++----------------+----------+----------------------+-----------------+
+
+  ------------------------------------------------------------------------
+  **Reagent**                **1 Reaction      **Mix to \_\_\_ Rnx**
+                             (µL)**            
+  -------------------------- ----------------- ---------------------------
+  5X Sequenase Reaction      0.9               
+  Enzyme Dilution Buffer                       
+
+  Sequenase Version 2 DNA    0.3               
+  Polymerase (13 U/ µL)                        
+
+  Total Volume               1.2               
+  ------------------------------------------------------------------------
+
+10.35.  Clean up the cDNA produce 2x with 1x or 1.8x DNA AMPure bead clean up. Check
+    cDNA product on Tapestation or Bioanalyzer
+
+10.36.  **Random PCR (Round B) ONLY DO THIS STEP IF YOU ARE AMPLIFYING DNA
+    VIRUSES, you do not have to do round B if you PCR product is around
+    150 bp for Illumina sequencing.**
+
+10.37.  
+
++-------------------+------------+----------+------------+------------+
+| 12. **Reagent**   | **1        | **Stock  | **Final    | **Mix to   |
+|                   | Reaction   | Conc.**  | Conc.**    | \_\_\_     |
+|                   | (µL)**     |          |            | Rnx**      |
++===================+============+==========+============+============+
+| Round A Template  | 6          |          |            |            |
++-------------------+------------+----------+------------+------------+
+| MgCl~2~ (25 mM)   | 8          | 50 mM    | 2mM        |            |
++-------------------+------------+----------+------------+------------+
+| Amplitaq Gold     | 10         | 10X      | 1U         |            |
+| buffer 10 X       |            |          |            |            |
++-------------------+------------+----------+------------+------------+
+| dNTPs (10 mM)     | 1          | 25 mM    | 0.25 mM    |            |
++-------------------+------------+----------+------------+------------+
+| Primer RA01 B     | 1          | 100 µM   | 1 µM       |            |
+| (100 µM)          |            |          |            |            |
++-------------------+------------+----------+------------+------------+
+| Amplitaq Gold     | 1          | 5 U/ µL  | 5 U        |            |
+| polymerase        |            |          |            |            |
+|                   |            |          |            |            |
+| (5 U/ µL)         |            |          |            |            |
++-------------------+------------+----------+------------+------------+
+| H~2~O DEPC        | 73         |          |            |            |
+| treated           |            |          |            |            |
++-------------------+------------+----------+------------+------------+
+| **Total Volume**  | 100        |          |            |            |
++-------------------+------------+----------+------------+------------+
+| Add 94 µL of Mix  |            |          |            |            |
+| per tube          |            |          |            |            |
++-------------------+------------+----------+------------+------------+
+| Add 6 µL cDNA per |            |          |            |            |
+| tube              |            |          |            |            |
++-------------------+------------+----------+------------+------------+
+| 1 cycle of:       |            |          |            |            |
+|                   |            |          |            |            |
+| 95 °C for 15      |            |          |            |            |
+| minutes           |            |          |            |            |
+|                   |            |          |            |            |
+| 40 cycles of:     |            |          |            |            |
+|                   |            |          |            |            |
+| 94 °C for 30      |            |          |            |            |
+| seconds           |            |          |            |            |
+|                   |            |          |            |            |
+| 40 °C for 30      |            |          |            |            |
+| seconds           |            |          |            |            |
+|                   |            |          |            |            |
+| 50 °C for 30      |            |          |            |            |
+| seconds           |            |          |            |            |
+|                   |            |          |            |            |
+| 72 °C for 1       |            |          |            |            |
+| minutes           |            |          |            |            |
+|                   |            |          |            |            |
+| 4 °C for infinite |            |          |            |            |
++-------------------+------------+----------+------------+------------+
+| Quantify with     |            |          |            |            |
+| Qubit             |            |          |            |            |
++-------------------+------------+----------+------------+------------+
+
+[The PCR products were purified by Agencourt AMPure XP beads (Beckman
+Coulter, Brea, CA, United States) with 0.8:1 ratio of beads to
+sample]{.mark}.
+
+10.38 Clean up the cDNA produce 2x with 1x or 1.8x bead clean up. Check
+cDNA product on Tapestation or Bioanalyzer and nanodrop 260/280 and
+260/230.
+
+260/280: assess the purity of DNA or RNA by comparing the absorbance at
+260 nm (where nucleic acids absorb light) to the absorbance at 280 nm
+(where proteins absorb light). A ratio around 1.8 for DNA and 2.0 for
+RNA is considered pure, indicating minimal protein contamination.
+
+260/230: to evaluate the presence of contaminants such as phenol,
+guanidine, carbohydrates, or other organic molecules that may absorb at
+230 nm. A ratio around 2.0 is ideal for DNA, while 1.8 is for RNA.
+
+11. **POLLUTION PREVENTION AND WASTE MANAGEMENT**
+
+    11.1.  Dispose of all biological reagents and consumables into the
+        biohazardous waste container.
+
+12. **REFERENCES**
+
+    12.1.  Ambion® DNase I (RNase free) Pub. No. 4393898, Rev. B.
+
+    12.2.  Ambion® RNase I (Cloned) Pub. No. 4393867, Rev. 8.
+
+    12.3.  Qubit™ 4 Fluorometer Manual Revision C.0
+
+    12.4.  Wang, D., Coscoy, L., Zylberberg, M., Avila, P. C., Boushey, H.
+        A., Ganem, D., & DeRisi, J. L. (2002). Microarray-based
+        detection and genotyping of viral pathogens. *Proceedings of the
+        National Academy of Sciences*, *99*(24), 15687-15692.
+
+13. **CHANGES FROM LAST REVISION**
+
+  -----------------------------------------------------------------------
+  Date                    Name                    Revision History
+  ----------------------- ----------------------- -----------------------
+  10/3/23                 Katie Vigil             New SOP
+
+  4/25/24                 Katie Vigil             Added 55C heat block
+                                                  for PM-1 instead of
+                                                  heating it in a
+                                                  waterbath to minimize
+                                                  waterbath
+                                                  contamination. Took out
+                                                  in-column DNase
+                                                  treatment, because I
+                                                  saw lower viral reads
+                                                  from preliminary data.
+
+                                                  
+
+                                                  
+
+                                                  
+  -----------------------------------------------------------------------
