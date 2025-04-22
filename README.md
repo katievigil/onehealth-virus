@@ -1,5 +1,4 @@
 # onehealth-virus
-Metagenomic analysis of viruses associated with bivalves, seawater and marine mammals using a nanopore end-to-end sequencing workflow to address One Health surveillance
 
 Publication Title: 
 Metagenomic sequencing of zoonotic viruses from oysters, mussels and seawater to address One Health surveillance
@@ -10,6 +9,7 @@ Katie Vigil1, Tiong Gim Aw1*
 * Correspondence: 
 Tiong Gim Aw
 taw@tulane.edu
+
 Keywords: nanopore sequencing, metagenomics, viruses, oyster, mussel, One Health
 
 Abstract
