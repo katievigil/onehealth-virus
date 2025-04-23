@@ -1,0 +1,55 @@
+{
+    "files": {
+        "workflow-checkpoints": "./checkpoints.json",
+        "alignment": {
+            "bams": "bams.reads2ref.bam"
+        },
+        "alignment-index": {
+            "bams": "bams.reads2ref.bam.bai"
+        },
+        "sample-data": {
+            "bams": "bams/seqs.fastq.gz"
+        },
+        "read-stats-per-file": {
+            "bams": "bams/fastcat_stats/per-file-stats.tsv"
+        },
+        "read-stats-per-read": {
+            "bams": "bams/fastcat_stats/per-read-stats.tsv.gz"
+        },
+        "variants": {
+            "bams": "bams.medaka.vcf.gz"
+        },
+        "assembly": {
+            "bams": "bams.medaka.fasta.gz"
+        },
+        "annotation": {
+            "bams": "bams.prokka.gff"
+        },
+        "workflow-report": "wf-bacterial-genomes-report.html",
+        "workflow-results": "results.json"
+    },
+    "checkpoints": {
+        "reads": {
+            "bams": "complete"
+        },
+        "alignment": {
+            "bams": "complete"
+        },
+        "assembly": {
+            "bams": "complete"
+        },
+        "variant-calling": {
+            "bams": "complete"
+        },
+        "annotation": {
+            "bams": "complete"
+        },
+        "amr": {
+            "bams": "not-met"
+        },
+        "reporting": "complete",
+        "per-sample-report": {
+            "bams": "not-met"
+        }
+    }
+}

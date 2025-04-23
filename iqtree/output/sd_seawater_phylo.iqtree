@@ -1,0 +1,214 @@
+IQ-TREE 2.1.4-beta COVID-edition built Jun 24 2021
+
+Input file name: sd_seawater_trimmed.fasta
+Type of analysis: ModelFinder + tree reconstruction
+Random seed number: 389410
+
+REFERENCES
+----------
+
+To cite IQ-TREE please use:
+
+Bui Quang Minh, Heiko A. Schmidt, Olga Chernomor, Dominik Schrempf,
+Michael D. Woodhams, Arndt von Haeseler, and Robert Lanfear (2020)
+IQ-TREE 2: New models and efficient methods for phylogenetic inference
+in the genomic era. Mol. Biol. Evol., in press.
+https://doi.org/10.1093/molbev/msaa015
+
+To cite ModelFinder please use: 
+
+Subha Kalyaanamoorthy, Bui Quang Minh, Thomas KF Wong, Arndt von Haeseler,
+and Lars S Jermiin (2017) ModelFinder: Fast model selection for
+accurate phylogenetic estimates. Nature Methods, 14:587–589.
+https://doi.org/10.1038/nmeth.4285
+
+SEQUENCE ALIGNMENT
+------------------
+
+Input data: 16 sequences with 1682 nucleotide sites
+Number of constant sites: 15 (= 0.891795% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 15 (= 0.891795% of all sites)
+Number of parsimony informative sites: 1492
+Number of distinct site patterns: 1681
+
+ModelFinder
+-----------
+
+Best-fit model according to BIC: TPM3+F+G4
+
+List of models sorted by BIC scores: 
+
+Model                  LogL         AIC      w-AIC        AICc     w-AICc         BIC      w-BIC
+TPM3+F+G4        -22158.097   44386.194 -   0.0308   44387.725 -   0.0343   44576.165 +    0.374
+TPM3u+F+G4       -22158.100   44386.200 -   0.0307   44387.731 -   0.0342   44576.171 +    0.373
+TPM2+F+G4        -22159.712   44389.424 -  0.00612   44390.955 -  0.00682   44579.395 +   0.0743
+TPM2u+F+G4       -22159.712   44389.424 -  0.00612   44390.955 -  0.00682   44579.395 +   0.0743
+HKY+F+G4         -22164.218   44396.435 - 0.000184   44397.880 - 0.000214   44580.978 -   0.0337
+TVM+F+G4         -22153.513   44381.027 +    0.408   44382.737 +    0.415   44581.853 -   0.0217
+TIM3+F+G4        -22158.048   44388.095 -   0.0119   44389.715 -   0.0127   44583.494 -  0.00957
+TPM3u+F+I+G4     -22158.192   44388.384 -   0.0103   44390.004 -    0.011   44583.783 -  0.00829
+TPM3+F+I+G4      -22158.194   44388.387 -   0.0103   44390.007 -    0.011   44583.786 -  0.00827
+K3Pu+F+G4        -22162.425   44394.850 - 0.000406   44396.381 - 0.000452   44584.821 -  0.00493
+TPM3u+F+R2       -22158.974   44389.948 -  0.00471   44391.567 -  0.00502   44585.346 -  0.00379
+TPM3+F+R2        -22158.974   44389.948 -  0.00471   44391.567 -  0.00502   44585.346 -  0.00379
+TIM2+F+G4        -22159.590   44391.179 -  0.00255   44392.799 -  0.00271   44586.578 -  0.00205
+TPM2+F+I+G4      -22159.798   44391.597 -  0.00207   44393.216 -   0.0022   44586.995 -  0.00166
+TPM2u+F+I+G4     -22159.798   44391.597 -  0.00207   44393.216 -   0.0022   44586.995 -  0.00166
+TN+F+G4          -22164.137   44398.275 - 7.33e-05   44399.806 - 8.16e-05   44588.245 -  0.00089
+TPM2u+F+R2       -22160.471   44392.942 -  0.00105   44394.561 -  0.00112   44588.340 - 0.000849
+TPM2+F+R2        -22160.471   44392.942 -  0.00105   44394.561 -  0.00112   44588.340 - 0.000849
+HKY+F+I+G4       -22164.307   44398.614 - 6.19e-05   44400.145 - 6.89e-05   44588.585 - 0.000751
+GTR+F+G4         -22153.528   44383.055 +    0.148   44384.859 +    0.144   44589.309 - 0.000523
+TVM+F+I+G4       -22153.581   44383.161 +     0.14   44384.965 +    0.136   44589.416 - 0.000496
+HKY+F+R2         -22165.149   44400.299 - 2.66e-05   44401.830 - 2.97e-05   44590.269 - 0.000323
+TVM+F+R2         -22154.201   44384.402 +   0.0754   44386.206 +   0.0732   44590.656 - 0.000267
+TIM3+F+I+G4      -22158.143   44390.287 -  0.00398   44391.997 -  0.00405   44591.113 - 0.000212
+TIM+F+G4         -22162.347   44396.695 - 0.000161   44398.314 - 0.000172   44592.093 -  0.00013
+K3Pu+F+I+G4      -22162.519   44397.039 - 0.000136   44398.658 - 0.000145   44592.437 - 0.000109
+TIM3+F+R2        -22158.935   44391.870 -   0.0018   44393.580 -  0.00183   44592.696 - 9.61e-05
+K3Pu+F+R2        -22163.343   44398.685 - 5.97e-05   44400.305 - 6.36e-05   44594.084 -  4.8e-05
+TIM2+F+I+G4      -22159.683   44393.366 - 0.000853   44395.077 - 0.000868   44594.193 - 4.55e-05
+TIM2+F+R2        -22160.417   44394.834 - 0.000409   44396.544 - 0.000417   44595.660 - 2.18e-05
+TN+F+I+G4        -22164.229   44400.458 - 2.46e-05   44402.077 - 2.62e-05   44595.856 - 1.98e-05
+GTR+F+I+G4       -22153.580   44385.160 +   0.0516   44387.061 -   0.0478   44596.842 - 1.21e-05
+TN+F+R2          -22165.095   44402.191 - 1.03e-05   44403.810 -  1.1e-05   44597.589 - 8.32e-06
+GTR+F+R2         -22154.206   44386.412 -   0.0276   44388.312 -   0.0256   44598.093 - 6.47e-06
+TIM+F+I+G4       -22162.436   44398.872 - 5.44e-05   44400.582 - 5.53e-05   44599.698 -  2.9e-06
+TIM+F+R2         -22163.294   44400.589 -  2.3e-05   44402.299 - 2.34e-05   44601.415 - 1.23e-06
+GTR+F+R3         -22152.701   44387.402 -   0.0168   44389.502 -   0.0141   44609.939 - 1.73e-08
+GTR+F            -22189.381   44452.762 - 1.08e-16   44454.472 -  1.1e-16   44653.588 - 5.76e-18
+GTR+F+I          -22187.665   44451.330 - 2.21e-16   44453.134 - 2.15e-16   44657.584 - 7.81e-19
+K2P+G4           -22257.614   44577.228 - 1.01e-43   44578.430 - 1.33e-43   44745.487 - 6.38e-38
+TNe+G4           -22255.413   44574.825 - 3.37e-43   44576.106 - 4.25e-43   44748.513 -  1.4e-38
+TIM3e+G4         -22251.954   44569.908 - 3.94e-42   44571.269 - 4.77e-42   44749.023 - 1.09e-38
+K3P+G4           -22257.152   44578.305 - 5.92e-44   44579.586 - 7.46e-44   44751.992 - 2.47e-39
+K2P+I+G4         -22257.668   44579.336 - 3.53e-44   44580.617 - 4.46e-44   44753.024 - 1.47e-39
+TIMe+G4          -22254.940   44575.880 - 1.99e-43   44577.242 - 2.41e-43   44754.995 -  5.5e-40
+K2P+R2           -22258.752   44581.504 - 1.19e-44   44582.785 - 1.51e-44   44755.192 - 4.98e-40
+TIM2e+G4         -22255.454   44576.907 - 1.19e-43   44578.269 - 1.44e-43   44756.023 - 3.29e-40
+TNe+I+G4         -22255.465   44576.931 - 1.18e-43   44578.292 - 1.42e-43   44756.046 - 3.25e-40
+TIM3e+I+G4       -22251.985   44571.970 -  1.4e-42   44573.415 - 1.63e-42   44756.513 - 2.57e-40
+TNe+R2           -22256.610   44579.219 - 3.75e-44   44580.581 - 4.54e-44   44758.335 - 1.03e-40
+TIM3e+R2         -22253.273   44574.545 - 3.88e-43   44575.990 -  4.5e-43   44759.088 -  7.1e-41
+K3P+I+G4         -22257.212   44580.424 - 2.05e-44   44581.786 - 2.48e-44   44759.540 - 5.67e-41
+TVMe+G4          -22254.077   44576.154 - 1.73e-43   44577.599 - 2.01e-43   44760.697 - 3.18e-41
+K3P+R2           -22258.289   44582.578 - 6.98e-45   44583.940 - 8.46e-45   44761.694 - 1.93e-41
+TIMe+I+G4        -22255.020   44578.040 - 6.75e-44   44579.485 - 7.85e-44   44762.583 - 1.24e-41
+SYM+G4           -22251.699   44573.398 - 6.88e-43   44574.929 - 7.66e-43   44763.369 - 8.35e-42
+TIM2e+I+G4       -22255.474   44578.948 - 4.29e-44   44580.393 - 4.98e-44   44763.491 - 7.85e-42
+TIMe+R2          -22256.156   44580.312 - 2.17e-44   44581.758 - 2.52e-44   44764.856 - 3.97e-42
+TIM2e+R2         -22256.722   44581.443 - 1.23e-44   44582.888 - 1.43e-44   44765.986 - 2.26e-42
+TVMe+I+G4        -22254.094   44578.188 - 6.27e-44   44579.719 - 6.98e-44   44768.159 - 7.61e-43
+TVMe+R2          -22255.426   44580.852 - 1.66e-44   44582.383 - 1.84e-44   44770.823 - 2.01e-43
+SYM+I+G4         -22251.723   44575.446 - 2.47e-43   44577.066 - 2.63e-43   44770.845 - 1.99e-43
+SYM+R2           -22253.032   44578.064 - 6.67e-44   44579.684 - 7.11e-44   44773.463 - 5.37e-44
+F81+F+G4         -22688.182   45442.364 - 1.39e-231   45443.726 - 1.69e-231   45621.479 - 3.85e-228
+F81+F+I+G4       -22688.222   45444.444 - 4.92e-232   45445.889 - 5.72e-232   45628.987 - 9.02e-230
+F81+F+R2         -22689.338   45446.675 - 1.61e-232   45448.120 - 1.88e-232   45631.218 - 2.96e-230
+JC+G4            -22708.755   45477.511 - 3.25e-239   45478.638 - 4.43e-239   45640.343 - 3.08e-232
+JC+I+G4          -22708.804   45479.608 - 1.14e-239   45480.810 - 1.49e-239   45647.868 - 7.17e-234
+JC+R2            -22709.604   45481.208 - 5.12e-240   45482.410 - 6.72e-240   45649.467 - 3.22e-234
+
+AIC, w-AIC   : Akaike information criterion scores and weights.
+AICc, w-AICc : Corrected AIC scores and weights.
+BIC, w-BIC   : Bayesian information criterion scores and weights.
+
+Plus signs denote the 95% confidence sets.
+Minus signs denote significant exclusion.
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: TPM3+F+G4
+
+Rate parameter R:
+
+  A-C: 1.2797
+  A-G: 3.7231
+  A-T: 1.0000
+  C-G: 1.2797
+  C-T: 3.7231
+  G-T: 1.0000
+
+State frequencies: (empirical counts from alignment)
+
+  pi(A) = 0.273
+  pi(C) = 0.1939
+  pi(G) = 0.2221
+  pi(T) = 0.311
+
+Rate matrix Q:
+
+  A    -0.953    0.1707    0.5685    0.2138
+  C    0.2403    -1.232    0.1954    0.7962
+  G     0.699    0.1707    -1.084    0.2138
+  T    0.1878    0.4965    0.1527    -0.837
+
+Model of rate heterogeneity: Gamma with 4 categories
+Gamma shape alpha: 5.604
+
+ Category  Relative_rate  Proportion
+  1         0.5254         0.25
+  2         0.8171         0.25
+  3         1.082          0.25
+  4         1.575          0.25
+Relative rates are computed as MEAN of the portion of the Gamma distribution falling in the category.
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -22158.0967 (s.e. 135.9906)
+Unconstrained log-likelihood (without tree): -12492.0704
+Number of free parameters (#branches + #model parameters): 35
+Akaike information criterion (AIC) score: 44386.1934
+Corrected Akaike information criterion (AICc) score: 44387.7244
+Bayesian information criterion (BIC) score: 44576.1643
+
+Total tree length (sum of branch lengths): 8.5957
+Sum of internal branch lengths: 1.4957 (17.4004% of tree length)
+
+NOTE: Tree is UNROOTED although outgroup taxon 'SD_SEAWATER|SAN_DIEGO|2024-02-21' is drawn at root
+
++--SD_SEAWATER|SAN_DIEGO|2024-02-21
+|
+|                                        +---------MW588038.1_Avon-Heathcote_Estuary_associated_circular_virus_25_strain_Abbotsbury/A/2016
+|                                +-------|
+|                                |       +---------OM154747.1_MAG_Cressdnaviricota_sp._isolate_Miresoil_virus_74
+|                           +----|
+|                           |    +----------------------MW697732.1_MAG_Arizlama_virus_isolate_AZLM_186
+|                      +----|
+|                      |    +-----------ON456889.1_Tick-associated_circular_virus-6_isolate_Tick114CressC11
+|                   +--|
+|                   |  +----------------------------MN891809.1_Kummerowia_striata_CRESS_virus_strain_pt119-cre-7
+|               +---|
+|               |   |     +-------------------------MK433220.1_Blackfly_DNA_Virus_6_isolate_SF01_308
+|               |   |  +--|
+|               |   |  |  +-----------------------MN103538.1_Beaked_whale_circovirus_strain_IP13001
+|               |   +--|
+|               |      |  +----------------------------MK012455.1_MAG_Cressdnaviricota_sp._isolate_ctjj384
+|               |      +--|
+|               |         +-----------------------------OR270673.1_MAG_Chemarfal_virus_13_isolate_CWS06
+|            +--|
+|            |  +----------------------MN891823.1_Lactuca_sativa_CRESS_virus_strain_pt151-nep-10
+|         +--|
+|         |  +----------------KM598398.1_Odonata-associated_circular_virus-15_isolate_OdasCV-15-US-1640LM1-12
++---------|
+|         +-----------MK012475.1_MAG_Circoviridae_sp._isolate_ctcc28
+|
+|  +--KM874355.1_Avon-Heathcote_Estuary_associated_circular_virus_25_isolate_AHEaCV-25-NZ-2942CO-2012
++--|
+   |  +**KM874357.1_Avon-Heathcote_Estuary_associated_circular_virus_25_isolate_AHEaCV-25-NZ-1935SG-2012
+   +--|
+      +**NC_026654.1_Avon-Heathcote_Estuary_associated_circular_virus_25_isolate_AHEaCV-25-NZ-1935SG-2012
+
+Tree in newick format:
+
+(SD_SEAWATER|SAN_DIEGO|2024-02-21:0.0703813757,((((((((MW588038.1_Avon-Heathcote_Estuary_associated_circular_virus_25_strain_Abbotsbury/A/2016:0.2986622596,OM154747.1_MAG_Cressdnaviricota_sp._isolate_Miresoil_virus_74:0.2975899646):0.2241298009,MW697732.1_MAG_Arizlama_virus_isolate_AZLM_186:0.6637708038):0.1652935757,ON456889.1_Tick-associated_circular_virus-6_isolate_Tick114CressC11:0.3376871820):0.1569877394,MN891809.1_Kummerowia_striata_CRESS_virus_strain_pt119-cre-7:0.8157004218):0.0892021910,((MK433220.1_Blackfly_DNA_Virus_6_isolate_SF01_308:0.7426347981,MN103538.1_Beaked_whale_circovirus_strain_IP13001:0.6884770400):0.0576459779,(MK012455.1_MAG_Cressdnaviricota_sp._isolate_ctjj384:0.8167541417,OR270673.1_MAG_Chemarfal_virus_13_isolate_CWS06:0.8617753427):0.0814614937):0.0520303996):0.1344140187,MN891823.1_Lactuca_sativa_CRESS_virus_strain_pt151-nep-10:0.6620779335):0.0668570301,KM598398.1_Odonata-associated_circular_virus-15_isolate_OdasCV-15-US-1640LM1-12:0.4917225004):0.1078805046,MK012475.1_MAG_Circoviridae_sp._isolate_ctcc28:0.3478293616):0.2933851207,(KM874355.1_Avon-Heathcote_Estuary_associated_circular_virus_25_isolate_AHEaCV-25-NZ-2942CO-2012:0.0013435613,(KM874357.1_Avon-Heathcote_Estuary_associated_circular_virus_25_isolate_AHEaCV-25-NZ-1935SG-2012:0.0000010041,NC_026654.1_Avon-Heathcote_Estuary_associated_circular_virus_25_isolate_AHEaCV-25-NZ-1935SG-2012:0.0000010041):0.0036008743):0.0663997898);
+
+TIME STAMP
+----------
+
+Date and time: Fri Apr 11 09:18:19 2025
+Total CPU time used: 8.83022 seconds (0h:0m:8s)
+Total wall-clock time used: 8.33554 seconds (0h:0m:8s)
+

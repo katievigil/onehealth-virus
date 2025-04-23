@@ -1,0 +1,4 @@
+sample,index,reference,startpos,ref length,number of reads,covbases,pc coverage,meandepth,meanbaseq,meanmapq,taxid,superkingdom,kingdom,phylum,class,order,family,genus,species,mean,sd,Coefficient of Variance,pcreads
+oy61,0,NC_008168.1,1,104710,62181,185,0.176678,49.7904,38.5,8.35,56947,Viruses,unclassified Viruses kingdom,unclassified Viruses phylum,Naldaviricetes,Lefavirales,Baculoviridae,Betabaculovirus,Betabaculovirus chofumiferanae,49.79041161,1716.949895,34.4835449,99.98
+oy61,1,NC_019491.1,1,291144,2,418,0.143572,0.00143572,34.4,0,317858,Viruses,Heunggongvirae,Peploviricota,Herviviricetes,Herpesvirales,Alloherpesviridae,Cyvirus,Cyvirus cyprinidallo1,0.001435716,0.037863629,26.37265149,0
+oy61,2,NC_024489.1,1,8842,10,3912,44.2434,1.40941,41,30.9,1522179,Viruses,Orthornavirae,Pisuviricota,Pisoniviricetes,Picornavirales,Marnaviridae,Kusarnavirus,Astarnavirus,1.409409636,2.037755403,1.445821961,0.02

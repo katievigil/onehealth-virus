@@ -1,0 +1,840 @@
+{
+    "reference": {
+        "id": "ref",
+        "name": "ref",
+        "wholeGenomeView": false,
+        "fastaURL": "igv_reference/reduced_reference.fasta.gz",
+        "indexURL": "igv_reference/reduced_reference.fasta.gz.fai",
+        "compressedIndexURL": "igv_reference/reduced_reference.fasta.gz.gzi"
+    },
+    "tracks": [
+        {
+            "name": "04_sealion_serum_SQK-NBD114-24_barcode18.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/04_sealion_serum_SQK-NBD114-24_barcode18.reference.bam",
+            "indexURL": "bams/04_sealion_serum_SQK-NBD114-24_barcode18.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "m19_SQK-NBD114-24_barcode18.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/m19_SQK-NBD114-24_barcode18.reference.bam",
+            "indexURL": "bams/m19_SQK-NBD114-24_barcode18.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "S31_SQK-NBD114-24_barcode09.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/S31_SQK-NBD114-24_barcode09.reference.bam",
+            "indexURL": "bams/S31_SQK-NBD114-24_barcode09.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "m04_SQK-NBD114-24_barcode03.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/m04_SQK-NBD114-24_barcode03.reference.bam",
+            "indexURL": "bams/m04_SQK-NBD114-24_barcode03.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "m36_SQK-NBD114-24_barcode14.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/m36_SQK-NBD114-24_barcode14.reference.bam",
+            "indexURL": "bams/m36_SQK-NBD114-24_barcode14.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "oy31_SQK-NBD114-24_barcode17.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/oy31_SQK-NBD114-24_barcode17.reference.bam",
+            "indexURL": "bams/oy31_SQK-NBD114-24_barcode17.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "m08_SQK-NBD114-24_barcode07.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/m08_SQK-NBD114-24_barcode07.reference.bam",
+            "indexURL": "bams/m08_SQK-NBD114-24_barcode07.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "S19_SQK-NBD114-24_barcode06.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/S19_SQK-NBD114-24_barcode06.reference.bam",
+            "indexURL": "bams/S19_SQK-NBD114-24_barcode06.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "oy51_SQK-NBD114-24_barcode10.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/oy51_SQK-NBD114-24_barcode10.reference.bam",
+            "indexURL": "bams/oy51_SQK-NBD114-24_barcode10.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "oy24_SQK-NBD114-24_barcode13.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/oy24_SQK-NBD114-24_barcode13.reference.bam",
+            "indexURL": "bams/oy24_SQK-NBD114-24_barcode13.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "oy26_SQK-NBD114-24_barcode15.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/oy26_SQK-NBD114-24_barcode15.reference.bam",
+            "indexURL": "bams/oy26_SQK-NBD114-24_barcode15.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "oy59_SQK-NBD114-24_barcode17.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/oy59_SQK-NBD114-24_barcode17.reference.bam",
+            "indexURL": "bams/oy59_SQK-NBD114-24_barcode17.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "oy25_SQK-NBD114-24_barcode14.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/oy25_SQK-NBD114-24_barcode14.reference.bam",
+            "indexURL": "bams/oy25_SQK-NBD114-24_barcode14.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "oy44_SQK-NBD114-24_barcode04.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/oy44_SQK-NBD114-24_barcode04.reference.bam",
+            "indexURL": "bams/oy44_SQK-NBD114-24_barcode04.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "oy32_SQK-NBD114-24_barcode18.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/oy32_SQK-NBD114-24_barcode18.reference.bam",
+            "indexURL": "bams/oy32_SQK-NBD114-24_barcode18.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "sd2_SQK-NBD114-24_barcode17.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/sd2_SQK-NBD114-24_barcode17.reference.bam",
+            "indexURL": "bams/sd2_SQK-NBD114-24_barcode17.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "oy33_SQK-NBD114-24_barcode19.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/oy33_SQK-NBD114-24_barcode19.reference.bam",
+            "indexURL": "bams/oy33_SQK-NBD114-24_barcode19.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "oy42_SQK-NBD114-24_barcode02.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/oy42_SQK-NBD114-24_barcode02.reference.bam",
+            "indexURL": "bams/oy42_SQK-NBD114-24_barcode02.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "S17_SQK-NBD114-24_barcode05.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/S17_SQK-NBD114-24_barcode05.reference.bam",
+            "indexURL": "bams/S17_SQK-NBD114-24_barcode05.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "oy35_SQK-NBD114-24_barcode21.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/oy35_SQK-NBD114-24_barcode21.reference.bam",
+            "indexURL": "bams/oy35_SQK-NBD114-24_barcode21.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "m05_SQK-NBD114-24_barcode04.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/m05_SQK-NBD114-24_barcode04.reference.bam",
+            "indexURL": "bams/m05_SQK-NBD114-24_barcode04.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "oy36_SQK-NBD114-24_barcode22.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/oy36_SQK-NBD114-24_barcode22.reference.bam",
+            "indexURL": "bams/oy36_SQK-NBD114-24_barcode22.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "m12_SQK-NBD114-24_barcode11.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/m12_SQK-NBD114-24_barcode11.reference.bam",
+            "indexURL": "bams/m12_SQK-NBD114-24_barcode11.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "oy47_SQK-NBD114-24_barcode07.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/oy47_SQK-NBD114-24_barcode07.reference.bam",
+            "indexURL": "bams/oy47_SQK-NBD114-24_barcode07.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "S20_SQK-NBD114-24_barcode07.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/S20_SQK-NBD114-24_barcode07.reference.bam",
+            "indexURL": "bams/S20_SQK-NBD114-24_barcode07.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "oy23_SQK-NBD114-24_barcode12.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/oy23_SQK-NBD114-24_barcode12.reference.bam",
+            "indexURL": "bams/oy23_SQK-NBD114-24_barcode12.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "oy46_SQK-NBD114-24_barcode06.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/oy46_SQK-NBD114-24_barcode06.reference.bam",
+            "indexURL": "bams/oy46_SQK-NBD114-24_barcode06.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "m13_SQK-NBD114-24_barcode12.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/m13_SQK-NBD114-24_barcode12.reference.bam",
+            "indexURL": "bams/m13_SQK-NBD114-24_barcode12.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "oy45_SQK-NBD114-24_barcode05.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/oy45_SQK-NBD114-24_barcode05.reference.bam",
+            "indexURL": "bams/oy45_SQK-NBD114-24_barcode05.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "oy15_SQK-NBD114-24_barcode07.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/oy15_SQK-NBD114-24_barcode07.reference.bam",
+            "indexURL": "bams/oy15_SQK-NBD114-24_barcode07.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "m09_SQK-NBD114-24_barcode08.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/m09_SQK-NBD114-24_barcode08.reference.bam",
+            "indexURL": "bams/m09_SQK-NBD114-24_barcode08.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "oy52_SQK-NBD114-24_barcode11.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/oy52_SQK-NBD114-24_barcode11.reference.bam",
+            "indexURL": "bams/oy52_SQK-NBD114-24_barcode11.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "oy22_SQK-NBD114-24_barcode11.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/oy22_SQK-NBD114-24_barcode11.reference.bam",
+            "indexURL": "bams/oy22_SQK-NBD114-24_barcode11.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "oy43_SQK-NBD114-24_barcode03.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/oy43_SQK-NBD114-24_barcode03.reference.bam",
+            "indexURL": "bams/oy43_SQK-NBD114-24_barcode03.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "oy27_SQK-NBD114-24_barcode16.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/oy27_SQK-NBD114-24_barcode16.reference.bam",
+            "indexURL": "bams/oy27_SQK-NBD114-24_barcode16.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "m31_SQK-NBD114-24_barcode09.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/m31_SQK-NBD114-24_barcode09.reference.bam",
+            "indexURL": "bams/m31_SQK-NBD114-24_barcode09.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "m27_SQK-NBD114-24_barcode05.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/m27_SQK-NBD114-24_barcode05.reference.bam",
+            "indexURL": "bams/m27_SQK-NBD114-24_barcode05.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "oy09_SQK-NBD114-24_barcode01.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/oy09_SQK-NBD114-24_barcode01.reference.bam",
+            "indexURL": "bams/oy09_SQK-NBD114-24_barcode01.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "m11_SQK-NBD114-24_barcode10.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/m11_SQK-NBD114-24_barcode10.reference.bam",
+            "indexURL": "bams/m11_SQK-NBD114-24_barcode10.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "m26_SQK-NBD114-24_barcode04.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/m26_SQK-NBD114-24_barcode04.reference.bam",
+            "indexURL": "bams/m26_SQK-NBD114-24_barcode04.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "m32_SQK-NBD114-24_barcode10.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/m32_SQK-NBD114-24_barcode10.reference.bam",
+            "indexURL": "bams/m32_SQK-NBD114-24_barcode10.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "oy61_SQK-NBD114-24_barcode19.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/oy61_SQK-NBD114-24_barcode19.reference.bam",
+            "indexURL": "bams/oy61_SQK-NBD114-24_barcode19.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "oy11_SQK-NBD114-24_barcode03.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/oy11_SQK-NBD114-24_barcode03.reference.bam",
+            "indexURL": "bams/oy11_SQK-NBD114-24_barcode03.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "S09_SQK-NBD114-24_barcode03.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/S09_SQK-NBD114-24_barcode03.reference.bam",
+            "indexURL": "bams/S09_SQK-NBD114-24_barcode03.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "S20_d_EXP-NBD104_barcode04.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/S20_d_EXP-NBD104_barcode04.reference.bam",
+            "indexURL": "bams/S20_d_EXP-NBD104_barcode04.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "S07_SQK-NBD114-24_barcode02.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/S07_SQK-NBD114-24_barcode02.reference.bam",
+            "indexURL": "bams/S07_SQK-NBD114-24_barcode02.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "oy13_SQK-NBD114-24_barcode05.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/oy13_SQK-NBD114-24_barcode05.reference.bam",
+            "indexURL": "bams/oy13_SQK-NBD114-24_barcode05.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "oy63_SQK-NBD114-24_barcode21.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/oy63_SQK-NBD114-24_barcode21.reference.bam",
+            "indexURL": "bams/oy63_SQK-NBD114-24_barcode21.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "sd3_SQK-NBD114-24_barcode18.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/sd3_SQK-NBD114-24_barcode18.reference.bam",
+            "indexURL": "bams/sd3_SQK-NBD114-24_barcode18.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "m07_SQK-NBD114-24_barcode06.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/m07_SQK-NBD114-24_barcode06.reference.bam",
+            "indexURL": "bams/m07_SQK-NBD114-24_barcode06.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "S26_SQK-NBD114-24_barcode08.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/S26_SQK-NBD114-24_barcode08.reference.bam",
+            "indexURL": "bams/S26_SQK-NBD114-24_barcode08.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "m17_SQK-NBD114-24_barcode16.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/m17_SQK-NBD114-24_barcode16.reference.bam",
+            "indexURL": "bams/m17_SQK-NBD114-24_barcode16.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "m29_SQK-NBD114-24_barcode07.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/m29_SQK-NBD114-24_barcode07.reference.bam",
+            "indexURL": "bams/m29_SQK-NBD114-24_barcode07.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "m06_SQK-NBD114-24_barcode05.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/m06_SQK-NBD114-24_barcode05.reference.bam",
+            "indexURL": "bams/m06_SQK-NBD114-24_barcode05.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "m33_SQK-NBD114-24_barcode11.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/m33_SQK-NBD114-24_barcode11.reference.bam",
+            "indexURL": "bams/m33_SQK-NBD114-24_barcode11.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "m15_SQK-NBD114-24_barcode14.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/m15_SQK-NBD114-24_barcode14.reference.bam",
+            "indexURL": "bams/m15_SQK-NBD114-24_barcode14.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "S32_SQK-NBD114-24_barcode10.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/S32_SQK-NBD114-24_barcode10.reference.bam",
+            "indexURL": "bams/S32_SQK-NBD114-24_barcode10.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "oy49_SQK-NBD114-24_barcode08.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/oy49_SQK-NBD114-24_barcode08.reference.bam",
+            "indexURL": "bams/oy49_SQK-NBD114-24_barcode08.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "m14_SQK-NBD114-24_barcode13.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/m14_SQK-NBD114-24_barcode13.reference.bam",
+            "indexURL": "bams/m14_SQK-NBD114-24_barcode13.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "oy50_SQK-NBD114-24_barcode09.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/oy50_SQK-NBD114-24_barcode09.reference.bam",
+            "indexURL": "bams/oy50_SQK-NBD114-24_barcode09.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "oy60_SQK-NBD114-24_barcode18.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/oy60_SQK-NBD114-24_barcode18.reference.bam",
+            "indexURL": "bams/oy60_SQK-NBD114-24_barcode18.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "oy55_SQK-NBD114-24_barcode14.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/oy55_SQK-NBD114-24_barcode14.reference.bam",
+            "indexURL": "bams/oy55_SQK-NBD114-24_barcode14.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "S14_SQK-NBD114-24_barcode04.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/S14_SQK-NBD114-24_barcode04.reference.bam",
+            "indexURL": "bams/S14_SQK-NBD114-24_barcode04.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "m03_SQK-NBD114-24_barcode02.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/m03_SQK-NBD114-24_barcode02.reference.bam",
+            "indexURL": "bams/m03_SQK-NBD114-24_barcode02.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "oy53_SQK-NBD114-24_barcode12.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/oy53_SQK-NBD114-24_barcode12.reference.bam",
+            "indexURL": "bams/oy53_SQK-NBD114-24_barcode12.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "oy37_SQK-NBD114-24_barcode23.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/oy37_SQK-NBD114-24_barcode23.reference.bam",
+            "indexURL": "bams/oy37_SQK-NBD114-24_barcode23.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "m24_SQK-NBD114-24_barcode02.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/m24_SQK-NBD114-24_barcode02.reference.bam",
+            "indexURL": "bams/m24_SQK-NBD114-24_barcode02.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "sd1_SQK-NBD114-24_barcode16.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/sd1_SQK-NBD114-24_barcode16.reference.bam",
+            "indexURL": "bams/sd1_SQK-NBD114-24_barcode16.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "oy20_SQK-NBD114-24_barcode09.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/oy20_SQK-NBD114-24_barcode09.reference.bam",
+            "indexURL": "bams/oy20_SQK-NBD114-24_barcode09.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "oy34_SQK-NBD114-24_barcode20.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/oy34_SQK-NBD114-24_barcode20.reference.bam",
+            "indexURL": "bams/oy34_SQK-NBD114-24_barcode20.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "oy58_SQK-NBD114-24_barcode16.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/oy58_SQK-NBD114-24_barcode16.reference.bam",
+            "indexURL": "bams/oy58_SQK-NBD114-24_barcode16.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "oy10_SQK-NBD114-24_barcode02.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/oy10_SQK-NBD114-24_barcode02.reference.bam",
+            "indexURL": "bams/oy10_SQK-NBD114-24_barcode02.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "oy54_SQK-NBD114-24_barcode13.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/oy54_SQK-NBD114-24_barcode13.reference.bam",
+            "indexURL": "bams/oy54_SQK-NBD114-24_barcode13.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "m25_SQK-NBD114-24_barcode03.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/m25_SQK-NBD114-24_barcode03.reference.bam",
+            "indexURL": "bams/m25_SQK-NBD114-24_barcode03.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "oy14_SQK-NBD114-24_barcode06.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/oy14_SQK-NBD114-24_barcode06.reference.bam",
+            "indexURL": "bams/oy14_SQK-NBD114-24_barcode06.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "03_dolphin_serum_SQK-NBD114-24_barcode17.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/03_dolphin_serum_SQK-NBD114-24_barcode17.reference.bam",
+            "indexURL": "bams/03_dolphin_serum_SQK-NBD114-24_barcode17.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "oy21_SQK-NBD114-24_barcode10.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/oy21_SQK-NBD114-24_barcode10.reference.bam",
+            "indexURL": "bams/oy21_SQK-NBD114-24_barcode10.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "sd4_SQK-NBD114-24_barcode19.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/sd4_SQK-NBD114-24_barcode19.reference.bam",
+            "indexURL": "bams/sd4_SQK-NBD114-24_barcode19.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "oy12_SQK-NBD114-24_barcode04.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/oy12_SQK-NBD114-24_barcode04.reference.bam",
+            "indexURL": "bams/oy12_SQK-NBD114-24_barcode04.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "oy16_SQK-NBD114-24_barcode08.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/oy16_SQK-NBD114-24_barcode08.reference.bam",
+            "indexURL": "bams/oy16_SQK-NBD114-24_barcode08.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "02_sealion_feces_SQK-NBD114-24_barcode16.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/02_sealion_feces_SQK-NBD114-24_barcode16.reference.bam",
+            "indexURL": "bams/02_sealion_feces_SQK-NBD114-24_barcode16.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "m16_SQK-NBD114-24_barcode15.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/m16_SQK-NBD114-24_barcode15.reference.bam",
+            "indexURL": "bams/m16_SQK-NBD114-24_barcode15.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "m10_SQK-NBD114-24_barcode09.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/m10_SQK-NBD114-24_barcode09.reference.bam",
+            "indexURL": "bams/m10_SQK-NBD114-24_barcode09.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "oy38_SQK-NBD114-24_barcode24.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/oy38_SQK-NBD114-24_barcode24.reference.bam",
+            "indexURL": "bams/oy38_SQK-NBD114-24_barcode24.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "m30_SQK-NBD114-24_barcode08.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/m30_SQK-NBD114-24_barcode08.reference.bam",
+            "indexURL": "bams/m30_SQK-NBD114-24_barcode08.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "01_dolphin_feces_SQK-NBD114-24_barcode15.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/01_dolphin_feces_SQK-NBD114-24_barcode15.reference.bam",
+            "indexURL": "bams/01_dolphin_feces_SQK-NBD114-24_barcode15.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "m28_SQK-NBD114-24_barcode06.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/m28_SQK-NBD114-24_barcode06.reference.bam",
+            "indexURL": "bams/m28_SQK-NBD114-24_barcode06.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "S02_SQK-NBD114-24_barcode01.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/S02_SQK-NBD114-24_barcode01.reference.bam",
+            "indexURL": "bams/S02_SQK-NBD114-24_barcode01.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "oy56_SQK-NBD114-24_barcode15.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/oy56_SQK-NBD114-24_barcode15.reference.bam",
+            "indexURL": "bams/oy56_SQK-NBD114-24_barcode15.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "m34_SQK-NBD114-24_barcode12.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/m34_SQK-NBD114-24_barcode12.reference.bam",
+            "indexURL": "bams/m34_SQK-NBD114-24_barcode12.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "m35_SQK-NBD114-24_barcode13.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/m35_SQK-NBD114-24_barcode13.reference.bam",
+            "indexURL": "bams/m35_SQK-NBD114-24_barcode13.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        },
+        {
+            "name": "oy64_SQK-NBD114-24_barcode22.reference.bam",
+            "type": "alignment",
+            "format": "bam",
+            "url": "bams/oy64_SQK-NBD114-24_barcode22.reference.bam",
+            "indexURL": "bams/oy64_SQK-NBD114-24_barcode22.reference.bam.bai",
+            "displayMode": "SQUISHED",
+            "colorBy": "strand"
+        }
+    ]
+}

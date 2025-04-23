@@ -1,0 +1,228 @@
+task_id	hash	native_id	name	status	exit	submit	duration	realtime	%cpu	peak_rss	peak_vmem	rchar	wchar
+2	cb/6a8fdd	2158607	calling_pipeline:getParams	COMPLETED	0	2025-02-23 09:05:50.683	557ms	20ms	28.1%	0	0	77.4 KB	2.2 KB
+1	8d/45a1bc	2158631	calling_pipeline:prokkaVersion	COMPLETED	0	2025-02-23 09:05:50.706	910ms	482ms	36.3%	4.7 MB	13.4 MB	1.5 MB	267 B
+4	4a/27afcb	2159341	calling_pipeline:medakaVersion	COMPLETED	0	2025-02-23 09:05:51.662	7.3s	6.6s	61.5%	405.1 MB	4.2 GB	20.3 MB	346 B
+5	9e/13bd79	2160407	calling_pipeline:mlstVersion	COMPLETED	0	2025-02-23 09:05:58.975	781ms	354ms	43.6%	3.4 MB	7.7 MB	946.3 KB	290 B
+6	90/116dcf	2160649	calling_pipeline:getVersions	COMPLETED	0	2025-02-23 09:05:59.813	1.2s	916ms	66.9%	2.7 MB	3.8 MB	3.8 MB	387 B
+3	11/8d0ca5	2158655	checkBamHeaders (1)	COMPLETED	0	2025-02-23 09:05:50.741	11.6s	11s	59.4%	50.7 MB	68.9 MB	23.3 MB	540 B
+7	eb/759422	2160917	fastcat (1)	COMPLETED	0	2025-02-23 09:06:02.363	11m 48s	11m 47s	275.6%	131 MB	566.3 MB	160.9 GB	118.9 GB
+10	46/a73bdd	2194960	calling_pipeline:alignReads (1)	COMPLETED	0	2025-02-23 09:17:50.144	8m	8m	411.2%	2.6 GB	11.7 GB	114.5 GB	81.2 GB
+8	6f/bde910	2208879	calling_pipeline:collectFastqIngressResultsInDir (1)	COMPLETED	0	2025-02-23 09:25:50.700	340ms	15ms	78.0%	0	0	93.9 KB	562 B
+11	43/4fe7e4	2208798	calling_pipeline:perSampleReportingCheckpoint (1)	COMPLETED	0	2025-02-23 09:25:50.620	466ms	21ms	25.6%	0	0	78.7 KB	399 B
+12	a2/fcdedf	2208852	calling_pipeline:amrCheckpoint (1)	COMPLETED	0	2025-02-23 09:25:50.678	427ms	15ms	60.7%	0	0	78.6 KB	385 B
+9	e3/a2e61b	2208806	calling_pipeline:ingressCheckpoint (1)	COMPLETED	0	2025-02-23 09:25:50.643	471ms	12ms	85.9%	0	0	78.8 KB	578 B
+16	17/22ba12	2208989	calling_pipeline:alignmentCheckpoint (1)	COMPLETED	0	2025-02-23 09:25:50.754	361ms	16ms	59.8%	0	0	78.7 KB	482 B
+17	5a/d3edc9	2209796	calling_pipeline:accumulateCheckpoints (1)	COMPLETED	0	2025-02-23 09:25:51.115	843ms	568ms	31.1%	1020 KB	3.8 MB	1 MB	1.2 KB
+15	6c/38d3d8	2208907	calling_pipeline:readStats (1)	COMPLETED	0	2025-02-23 09:25:50.732	1.4s	1.1s	89.6%	167.9 MB	332.4 MB	62.8 MB	10.7 MB
+13	ef/a6553f	2209082	calling_pipeline:coverStats (1)	COMPLETED	0	2025-02-23 09:25:50.772	1.6s	1.3s	157.9%	10.4 MB	26 MB	233.2 MB	1.3 MB
+18	a2/8e2bb5	2210022	calling_pipeline:accumulateCheckpoints (2)	COMPLETED	0	2025-02-23 09:25:51.980	588ms	215ms	83.9%	2.9 MB	3.8 MB	1 MB	1.2 KB
+14	20/ca1f3b	2209127	calling_pipeline:splitRegions (1)	COMPLETED	0	2025-02-23 09:25:50.797	2s	1.4s	100.9%	37.9 MB	1.2 GB	5.9 MB	3.1 KB
+19	f0/e28436	2210308	calling_pipeline:accumulateCheckpoints (3)	COMPLETED	0	2025-02-23 09:25:52.604	608ms	231ms	77.3%	10.7 MB	14.8 MB	1 MB	1.4 KB
+204	33/aeab14	2211142	calling_pipeline:accumulateCheckpoints (4)	COMPLETED	0	2025-02-23 09:25:54.236	459ms	178ms	94.9%	6.2 MB	11.4 MB	1 MB	1.7 KB
+22	09/7ff019	2210449	calling_pipeline:medakaInference_variant (2)	COMPLETED	0	2025-02-23 09:25:52.933	8.3s	7.8s	85.5%	398.3 MB	4.3 GB	46.5 MB	1.6 MB
+23	6c/517100	2210425	calling_pipeline:medakaInference_consensus (2)	COMPLETED	0	2025-02-23 09:25:52.897	8.3s	7.9s	84.8%	400.8 MB	4.3 GB	46.5 MB	1.6 MB
+25	25/8a93e8	2210472	calling_pipeline:medakaInference_consensus (3)	COMPLETED	0	2025-02-23 09:25:52.945	8.8s	8.4s	89.8%	399.4 MB	4.3 GB	46.6 MB	1.6 MB
+26	60/a5b2ad	2210484	calling_pipeline:medakaInference_variant (4)	COMPLETED	0	2025-02-23 09:25:52.957	8.9s	8.5s	92.5%	478.3 MB	4.7 GB	62.7 MB	1.6 MB
+24	23/4abb53	2213131	calling_pipeline:medakaInference_variant (3)	COMPLETED	0	2025-02-23 09:26:01.255	6.6s	6.2s	120.8%	404.7 MB	4.3 GB	46.6 MB	1.6 MB
+34	d1/858cbf	2213151	calling_pipeline:medakaInference_variant (10)	COMPLETED	0	2025-02-23 09:26:01.278	6.6s	6.2s	124.1%	407.9 MB	4.3 GB	46.6 MB	1.6 MB
+36	8d/3b4fc2	2213494	calling_pipeline:medakaInference_variant (11)	COMPLETED	0	2025-02-23 09:26:01.754	6.3s	6s	127.5%	400.9 MB	4.3 GB	46.6 MB	1.6 MB
+27	11/652360	2213559	calling_pipeline:medakaInference_consensus (4)	COMPLETED	0	2025-02-23 09:26:01.887	6.6s	6.2s	128.7%	424 MB	4.7 GB	62.7 MB	1.6 MB
+40	08/b3adb8	2215273	calling_pipeline:medakaInference_variant (14)	COMPLETED	0	2025-02-23 09:26:07.871	6.2s	5.8s	121.1%	399.5 MB	4.3 GB	46.6 MB	1.6 MB
+28	fb/44c978	2215343	calling_pipeline:medakaInference_variant (5)	COMPLETED	0	2025-02-23 09:26:07.944	6.3s	5.9s	130.5%	408.7 MB	4.7 GB	46.9 MB	1.6 MB
+29	e4/e08942	2215493	calling_pipeline:medakaInference_variant (6)	COMPLETED	0	2025-02-23 09:26:08.097	6.5s	6.2s	129.9%	455.1 MB	4.7 GB	46.9 MB	1.6 MB
+30	9f/042539	2215744	calling_pipeline:medakaInference_variant (7)	COMPLETED	0	2025-02-23 09:26:08.517	7.1s	6.5s	126.6%	443.8 MB	4.7 GB	48.1 MB	1.7 MB
+31	9a/494b6f	2217385	calling_pipeline:medakaInference_variant (8)	COMPLETED	0	2025-02-23 09:26:14.266	6s	5.7s	129.5%	405.6 MB	4.7 GB	46.7 MB	1.6 MB
+21	d3/df9ed7	2217224	calling_pipeline:medakaInference_consensus (1)	COMPLETED	0	2025-02-23 09:26:14.049	6.3s	5.9s	132.6%	408.1 MB	4.7 GB	46.6 MB	1.6 MB
+32	31/ff5816	2217716	calling_pipeline:medakaInference_consensus (5)	COMPLETED	0	2025-02-23 09:26:14.651	6.9s	6.5s	122.4%	439.6 MB	4.7 GB	46.9 MB	1.6 MB
+35	2b/494dfa	2218070	calling_pipeline:medakaInference_consensus (6)	COMPLETED	0	2025-02-23 09:26:15.656	6.8s	6.5s	124.3%	446.9 MB	4.7 GB	46.9 MB	1.6 MB
+33	1c/89f052	2219438	calling_pipeline:medakaInference_variant (9)	COMPLETED	0	2025-02-23 09:26:20.327	5.9s	5.5s	129.9%	406.6 MB	4.7 GB	46.7 MB	1.6 MB
+39	62/4ced6e	2219490	calling_pipeline:medakaInference_variant (13)	COMPLETED	0	2025-02-23 09:26:20.402	6.7s	6.4s	132.6%	453.1 MB	4.7 GB	47.2 MB	1.7 MB
+38	22/24e8c1	2219949	calling_pipeline:medakaInference_variant (12)	COMPLETED	0	2025-02-23 09:26:21.540	6.4s	6s	128.5%	405.5 MB	4.3 GB	46.6 MB	1.6 MB
+37	b1/6cca6f	2220281	calling_pipeline:medakaInference_consensus (7)	COMPLETED	0	2025-02-23 09:26:22.529	6.9s	6.6s	125.0%	440.6 MB	4.7 GB	48.1 MB	1.7 MB
+20	87/b49804	2221441	calling_pipeline:medakaInference_variant (1)	COMPLETED	0	2025-02-23 09:26:26.207	6.3s	6s	131.7%	409.2 MB	4.7 GB	46.6 MB	1.6 MB
+43	34/c61a4f	2221854	calling_pipeline:medakaInference_consensus (8)	COMPLETED	0	2025-02-23 09:26:27.158	6.2s	5.8s	130.4%	410.9 MB	4.7 GB	46.7 MB	1.6 MB
+41	6f/7c0b01	2222145	calling_pipeline:medakaInference_variant (15)	COMPLETED	0	2025-02-23 09:26:27.963	6s	5.7s	131.7%	411.2 MB	4.5 GB	46.6 MB	1.6 MB
+47	ab/0300e8	2222705	calling_pipeline:medakaInference_variant (17)	COMPLETED	0	2025-02-23 09:26:29.481	6.4s	6.1s	125.0%	396.3 MB	4.2 GB	46.6 MB	1.6 MB
+60	41/4fd773	2223585	calling_pipeline:medakaInference_variant (23)	COMPLETED	0	2025-02-23 09:26:32.540	6.3s	5.9s	127.9%	424.7 MB	4.5 GB	46.9 MB	1.6 MB
+57	98/ed01a0	2223882	calling_pipeline:medakaInference_consensus (16)	COMPLETED	0	2025-02-23 09:26:33.381	5.9s	5.5s	133.7%	410.7 MB	4.5 GB	46.6 MB	1.6 MB
+45	6d/bd3f8a	2224219	calling_pipeline:medakaInference_consensus (10)	COMPLETED	0	2025-02-23 09:26:34.026	6.2s	5.8s	130.5%	409.2 MB	4.7 GB	46.6 MB	1.6 MB
+62	ae/b99dae	2224796	calling_pipeline:medakaInference_variant (25)	COMPLETED	0	2025-02-23 09:26:35.917	5.8s	5.5s	125.4%	406.4 MB	4.7 GB	46.4 MB	1.6 MB
+52	0a/907f3e	2225908	calling_pipeline:medakaInference_variant (21)	COMPLETED	0	2025-02-23 09:26:39.254	6.1s	5.7s	125.3%	408.5 MB	4.7 GB	46.5 MB	1.6 MB
+54	1e/f9b987	2225686	calling_pipeline:medakaInference_consensus (13)	COMPLETED	0	2025-02-23 09:26:38.819	6.6s	6.2s	133.9%	407.5 MB	4.7 GB	47.2 MB	1.7 MB
+56	e5/1f2ad6	2226268	calling_pipeline:medakaInference_consensus (15)	COMPLETED	0	2025-02-23 09:26:40.216	6.1s	5.7s	128.6%	405.9 MB	4.7 GB	46.6 MB	1.6 MB
+66	5e/6679f0	2226828	calling_pipeline:medakaInference_variant (28)	COMPLETED	0	2025-02-23 09:26:41.736	6.3s	6s	126.4%	400.8 MB	4.3 GB	46.9 MB	1.6 MB
+44	3d/933338	2227980	calling_pipeline:medakaInference_consensus (9)	COMPLETED	0	2025-02-23 09:26:45.472	6.3s	5.9s	124.3%	398 MB	4.3 GB	46.7 MB	1.6 MB
+67	82/d7ae58	2227896	calling_pipeline:medakaInference_consensus (20)	COMPLETED	0	2025-02-23 09:26:45.370	6.4s	6s	127.6%	409.8 MB	4.7 GB	46.9 MB	1.6 MB
+42	c7/b508fa	2228402	calling_pipeline:medakaInference_variant (16)	COMPLETED	0	2025-02-23 09:26:46.342	5.9s	5.6s	130.6%	409 MB	4.5 GB	46.6 MB	1.6 MB
+49	c2/911e0a	2228973	calling_pipeline:medakaInference_variant (18)	COMPLETED	0	2025-02-23 09:26:48.060	6.2s	5.9s	127.6%	407.6 MB	4.7 GB	46.5 MB	1.6 MB
+46	ab/46e01f	2230109	calling_pipeline:medakaInference_consensus (11)	COMPLETED	0	2025-02-23 09:26:51.760	6s	5.7s	130.4%	406.7 MB	4.7 GB	46.6 MB	1.6 MB
+59	70/7b50e6	2230133	calling_pipeline:medakaInference_consensus (18)	COMPLETED	0	2025-02-23 09:26:51.782	6.3s	6s	124.2%	402.6 MB	4.2 GB	46.5 MB	1.6 MB
+61	0a/310619	2230420	calling_pipeline:medakaInference_variant (24)	COMPLETED	0	2025-02-23 09:26:52.315	6.4s	5.9s	131.1%	411.2 MB	4.7 GB	46.7 MB	1.6 MB
+53	ab/dd8f20	2231060	calling_pipeline:medakaInference_variant (22)	COMPLETED	0	2025-02-23 09:26:54.312	6.1s	5.8s	128.9%	397.9 MB	4.3 GB	46.7 MB	1.6 MB
+58	92/dc1bb8	2232183	calling_pipeline:medakaInference_consensus (17)	COMPLETED	0	2025-02-23 09:26:57.789	5.9s	5.5s	133.0%	409.2 MB	4.7 GB	46.6 MB	1.6 MB
+48	85/2c770c	2232349	calling_pipeline:medakaInference_consensus (12)	COMPLETED	0	2025-02-23 09:26:58.139	6.2s	5.7s	129.4%	409.8 MB	4.7 GB	46.6 MB	1.6 MB
+51	ff/ac1c6e	2232584	calling_pipeline:medakaInference_variant (20)	COMPLETED	0	2025-02-23 09:26:58.699	6.2s	5.9s	131.9%	409 MB	4.7 GB	46.9 MB	1.6 MB
+69	0c/8db988	2233109	calling_pipeline:medakaInference_variant (29)	COMPLETED	0	2025-02-23 09:27:00.428	5.9s	5.6s	124.6%	398.6 MB	4.3 GB	46.6 MB	1.6 MB
+72	4e/fa7fc9	2234170	calling_pipeline:medakaInference_consensus (23)	COMPLETED	0	2025-02-23 09:27:03.761	6.2s	5.9s	131.6%	409.1 MB	4.7 GB	46.9 MB	1.6 MB
+65	fa/845e0f	2234450	calling_pipeline:medakaInference_variant (27)	COMPLETED	0	2025-02-23 09:27:04.332	6.1s	5.6s	125.9%	398.7 MB	4.3 GB	46.4 MB	1.6 MB
+50	ff/9ce459	2234679	calling_pipeline:medakaInference_variant (19)	COMPLETED	0	2025-02-23 09:27:04.917	6.2s	5.8s	128.1%	401.8 MB	4.3 GB	46.6 MB	1.6 MB
+64	e9/c2f427	2235194	calling_pipeline:medakaInference_consensus (19)	COMPLETED	0	2025-02-23 09:27:06.344	6.1s	5.7s	130.8%	408.5 MB	4.7 GB	46.6 MB	1.6 MB
+68	4a/fb93f6	2236248	calling_pipeline:medakaInference_consensus (21)	COMPLETED	0	2025-02-23 09:27:09.983	6s	5.6s	130.1%	405.9 MB	4.7 GB	46.5 MB	1.6 MB
+63	9c/aebfc1	2236541	calling_pipeline:medakaInference_variant (26)	COMPLETED	0	2025-02-23 09:27:10.423	5.7s	5.5s	133.1%	406.8 MB	4.5 GB	46.5 MB	1.6 MB
+55	2c/548fd5	2236776	calling_pipeline:medakaInference_consensus (14)	COMPLETED	0	2025-02-23 09:27:11.167	6s	5.7s	129.6%	408.1 MB	4.7 GB	46.6 MB	1.6 MB
+71	89/8f9806	2237277	calling_pipeline:medakaInference_variant (30)	COMPLETED	0	2025-02-23 09:27:12.418	6.1s	5.8s	124.0%	398.3 MB	4.3 GB	46.4 MB	1.6 MB
+70	4d/722d1d	2238336	calling_pipeline:medakaInference_consensus (22)	COMPLETED	0	2025-02-23 09:27:16.000	6.3s	5.9s	122.5%	400.8 MB	4.3 GB	46.7 MB	1.6 MB
+81	a3/0f1159	2238419	calling_pipeline:medakaInference_variant (35)	COMPLETED	0	2025-02-23 09:27:16.175	6.9s	6.5s	127.8%	447 MB	4.7 GB	50.3 MB	1.7 MB
+87	1a/0a7ce9	2239385	calling_pipeline:medakaInference_consensus (31)	COMPLETED	0	2025-02-23 09:27:18.562	6s	5.7s	127.2%	399 MB	4.3 GB	46.6 MB	1.6 MB
+80	56/75fd09	2238866	calling_pipeline:medakaInference_variant (34)	COMPLETED	0	2025-02-23 09:27:17.213	8.2s	7.9s	143.5%	466.5 MB	4.7 GB	118.8 MB	1.9 MB
+79	ee/183dd3	2240437	calling_pipeline:medakaInference_consensus (27)	COMPLETED	0	2025-02-23 09:27:22.333	6s	5.5s	130.1%	408 MB	4.7 GB	46.4 MB	1.6 MB
+82	0f/f21048	2240836	calling_pipeline:medakaInference_consensus (28)	COMPLETED	0	2025-02-23 09:27:23.063	6.4s	6s	125.6%	410.3 MB	4.7 GB	46.9 MB	1.6 MB
+83	f3/ea1276	2241374	calling_pipeline:medakaInference_consensus (29)	COMPLETED	0	2025-02-23 09:27:24.633	5.8s	5.5s	131.4%	400.3 MB	4.3 GB	46.6 MB	1.6 MB
+75	03/06a58a	2241652	calling_pipeline:medakaInference_consensus (25)	COMPLETED	0	2025-02-23 09:27:25.486	5.9s	5.6s	127.4%	398.6 MB	4.3 GB	46.4 MB	1.6 MB
+73	51/969bd7	2242515	calling_pipeline:medakaInference_variant (31)	COMPLETED	0	2025-02-23 09:27:28.334	6.2s	5.8s	126.3%	409.2 MB	4.5 GB	46.6 MB	1.6 MB
+77	94/7661ea	2242887	calling_pipeline:medakaInference_consensus (26)	COMPLETED	0	2025-02-23 09:27:29.481	5.9s	5.4s	132.7%	414.6 MB	4.5 GB	46.5 MB	1.6 MB
+88	96/699601	2243286	calling_pipeline:medakaInference_consensus (32)	COMPLETED	0	2025-02-23 09:27:30.492	6s	5.7s	128.9%	411.1 MB	4.7 GB	46.6 MB	1.6 MB
+78	e8/e99d08	2243686	calling_pipeline:medakaInference_variant (33)	COMPLETED	0	2025-02-23 09:27:31.379	6.1s	5.7s	129.3%	408.1 MB	4.5 GB	46.5 MB	1.6 MB
+89	4d/b88021	2244556	calling_pipeline:medakaInference_variant (38)	COMPLETED	0	2025-02-23 09:27:34.623	6.2s	5.8s	130.3%	408.5 MB	4.7 GB	46.6 MB	1.6 MB
+96	8d/4369cb	2244965	calling_pipeline:medakaInference_variant (43)	COMPLETED	0	2025-02-23 09:27:35.424	6.4s	5.8s	127.9%	406.6 MB	4.5 GB	46.7 MB	1.6 MB
+98	05/88cbc5	2245370	calling_pipeline:medakaInference_consensus (36)	COMPLETED	0	2025-02-23 09:27:36.537	6.3s	5.8s	132.9%	412.6 MB	4.7 GB	46.8 MB	1.6 MB
+76	1e/d40d62	2245764	calling_pipeline:medakaInference_variant (32)	COMPLETED	0	2025-02-23 09:27:37.464	6s	5.7s	125.9%	403.6 MB	4.3 GB	46.6 MB	1.6 MB
+101	52/f75a30	2246760	calling_pipeline:medakaInference_consensus (39)	COMPLETED	0	2025-02-23 09:27:40.846	6.2s	5.8s	126.9%	399 MB	4.3 GB	46.6 MB	1.6 MB
+102	b6/06ceb5	2247168	calling_pipeline:medakaInference_variant (44)	COMPLETED	0	2025-02-23 09:27:41.844	6s	5.7s	131.3%	409 MB	4.5 GB	46.5 MB	1.6 MB
+105	1a/05c3c2	2247578	calling_pipeline:medakaInference_consensus (41)	COMPLETED	0	2025-02-23 09:27:42.858	5.9s	5.4s	132.4%	408.1 MB	4.7 GB	46.5 MB	1.6 MB
+107	27/2308f3	2247851	calling_pipeline:medakaInference_consensus (42)	COMPLETED	0	2025-02-23 09:27:43.537	6.4s	5.9s	128.8%	407.6 MB	4.7 GB	46.8 MB	1.6 MB
+108	e0/6e6ead	2248845	calling_pipeline:medakaInference_variant (47)	COMPLETED	0	2025-02-23 09:27:47.024	5.9s	5.6s	133.2%	408.2 MB	4.5 GB	46.5 MB	1.6 MB
+86	e1/ca7a8e	2249138	calling_pipeline:medakaInference_consensus (30)	COMPLETED	0	2025-02-23 09:27:47.900	5.7s	5.3s	133.4%	406.1 MB	4.6 GB	46.4 MB	1.6 MB
+84	db/7f1a65	2249603	calling_pipeline:medakaInference_variant (36)	COMPLETED	0	2025-02-23 09:27:48.776	6.4s	6s	128.0%	401.2 MB	4.3 GB	46.8 MB	1.6 MB
+110	9d/a09e1c	2249945	calling_pipeline:medakaInference_consensus (43)	COMPLETED	0	2025-02-23 09:27:49.947	6.2s	5.8s	126.4%	409.4 MB	4.5 GB	46.7 MB	1.6 MB
+112	dd/a80d07	2250870	calling_pipeline:medakaInference_consensus (44)	COMPLETED	0	2025-02-23 09:27:52.962	6.3s	5.8s	128.0%	410 MB	4.5 GB	46.5 MB	1.6 MB
+74	08/f9fd5b	2251196	calling_pipeline:medakaInference_consensus (24)	COMPLETED	0	2025-02-23 09:27:53.674	6.6s	6.1s	128.5%	405 MB	4.3 GB	46.7 MB	1.6 MB
+93	3e/4c7196	2251733	calling_pipeline:medakaInference_variant (41)	COMPLETED	0	2025-02-23 09:27:55.220	5.8s	5.4s	131.6%	406.5 MB	4.7 GB	46.5 MB	1.6 MB
+94	e4/ffa98c	2252073	calling_pipeline:medakaInference_consensus (34)	COMPLETED	0	2025-02-23 09:27:56.145	8s	7.6s	145.0%	487.2 MB	4.7 GB	118.8 MB	1.9 MB
+92	6b/1bb968	2253010	calling_pipeline:medakaInference_consensus (33)	COMPLETED	0	2025-02-23 09:27:59.259	5.8s	5.4s	131.1%	419.3 MB	4.5 GB	46.5 MB	1.6 MB
+90	dc/41d637	2253381	calling_pipeline:medakaInference_variant (39)	COMPLETED	0	2025-02-23 09:28:00.301	6.3s	5.9s	128.4%	399.8 MB	4.3 GB	46.6 MB	1.6 MB
+85	24/ad9885	2253798	calling_pipeline:medakaInference_variant (37)	COMPLETED	0	2025-02-23 09:28:01.018	6.1s	5.7s	128.8%	400.9 MB	4.3 GB	46.5 MB	1.6 MB
+97	fd/8812b5	2254663	calling_pipeline:medakaInference_consensus (35)	COMPLETED	0	2025-02-23 09:28:04.120	6.9s	6.5s	128.8%	439.2 MB	4.7 GB	50.3 MB	1.7 MB
+100	3b/db25e3	2255074	calling_pipeline:medakaInference_consensus (38)	COMPLETED	0	2025-02-23 09:28:05.054	6.3s	5.8s	126.9%	404.2 MB	4.3 GB	46.6 MB	1.6 MB
+99	28/4c72f7	2255717	calling_pipeline:medakaInference_consensus (37)	COMPLETED	0	2025-02-23 09:28:06.630	5.9s	5.5s	131.9%	409 MB	4.5 GB	46.5 MB	1.6 MB
+95	95/290ada	2255878	calling_pipeline:medakaInference_variant (42)	COMPLETED	0	2025-02-23 09:28:07.147	6.4s	6s	130.5%	400 MB	4.3 GB	46.8 MB	1.6 MB
+103	ff/9479bd	2257095	calling_pipeline:medakaInference_variant (45)	COMPLETED	0	2025-02-23 09:28:11.014	6.1s	5.8s	125.6%	409.7 MB	4.7 GB	46.7 MB	1.6 MB
+104	ff/9de5f4	2257314	calling_pipeline:medakaInference_consensus (40)	COMPLETED	0	2025-02-23 09:28:11.367	6.4s	5.9s	129.1%	408 MB	4.7 GB	46.7 MB	1.6 MB
+91	59/19f0ce	2257783	calling_pipeline:medakaInference_variant (40)	COMPLETED	0	2025-02-23 09:28:12.562	6s	5.7s	132.8%	407.6 MB	4.5 GB	46.7 MB	1.6 MB
+109	dc/72b68c	2258127	calling_pipeline:medakaInference_variant (48)	COMPLETED	0	2025-02-23 09:28:13.516	6.1s	5.7s	129.7%	408 MB	4.5 GB	46.6 MB	1.6 MB
+124	8a/a346a3	2259233	calling_pipeline:medakaInference_variant (54)	COMPLETED	0	2025-02-23 09:28:17.165	6s	5.7s	129.2%	427.2 MB	4.5 GB	46.5 MB	1.6 MB
+106	64/fb4b74	2259466	calling_pipeline:medakaInference_variant (46)	COMPLETED	0	2025-02-23 09:28:17.774	6.1s	5.7s	135.3%	409.6 MB	4.5 GB	46.5 MB	1.6 MB
+111	75/13118d	2259817	calling_pipeline:medakaInference_variant (49)	COMPLETED	0	2025-02-23 09:28:18.617	6.5s	6.1s	126.7%	397.6 MB	4.2 GB	46.5 MB	1.6 MB
+113	80/0df271	2260210	calling_pipeline:medakaInference_consensus (45)	COMPLETED	0	2025-02-23 09:28:19.660	6s	5.7s	131.1%	406.8 MB	4.6 GB	46.7 MB	1.6 MB
+117	e2/05fde4	2261306	calling_pipeline:medakaInference_consensus (47)	COMPLETED	0	2025-02-23 09:28:23.223	5.8s	5.5s	134.8%	418.1 MB	4.5 GB	46.5 MB	1.6 MB
+114	ba/6b52ad	2261487	calling_pipeline:medakaInference_variant (50)	COMPLETED	0	2025-02-23 09:28:23.936	6.5s	6s	131.2%	406.9 MB	4.3 GB	46.5 MB	1.6 MB
+126	da/d8fb28	2262012	calling_pipeline:medakaInference_variant (55)	COMPLETED	0	2025-02-23 09:28:25.107	6.2s	5.8s	128.9%	401.4 MB	4.3 GB	46.6 MB	1.6 MB
+116	51/16ba6c	2262278	calling_pipeline:medakaInference_consensus (46)	COMPLETED	0	2025-02-23 09:28:25.700	6.1s	5.7s	130.3%	424.1 MB	4.5 GB	46.5 MB	1.6 MB
+118	af/5dde5e	2263144	calling_pipeline:medakaInference_consensus (48)	COMPLETED	0	2025-02-23 09:28:29.079	6.3s	5.8s	127.2%	409.6 MB	4.5 GB	46.6 MB	1.6 MB
+119	27/ae67c7	2263690	calling_pipeline:medakaInference_consensus (49)	COMPLETED	0	2025-02-23 09:28:30.469	6.2s	5.8s	130.5%	407.9 MB	4.5 GB	46.5 MB	1.6 MB
+123	0c/a7b8f5	2264062	calling_pipeline:medakaInference_variant (53)	COMPLETED	0	2025-02-23 09:28:31.340	5.9s	5.6s	130.5%	409 MB	4.5 GB	46.5 MB	1.6 MB
+120	61/79d834	2264350	calling_pipeline:medakaInference_variant (52)	COMPLETED	0	2025-02-23 09:28:31.802	6.2s	5.8s	132.0%	409.2 MB	4.5 GB	46.6 MB	1.6 MB
+122	b0/08912b	2265279	calling_pipeline:medakaInference_consensus (51)	COMPLETED	0	2025-02-23 09:28:35.407	6.2s	5.8s	127.2%	409.8 MB	4.7 GB	46.6 MB	1.6 MB
+129	e9/72f737	2265811	calling_pipeline:medakaInference_consensus (55)	COMPLETED	0	2025-02-23 09:28:36.727	6.2s	5.8s	127.4%	408.9 MB	4.7 GB	46.6 MB	1.6 MB
+115	f4/e7a015	2266147	calling_pipeline:medakaInference_variant (51)	COMPLETED	0	2025-02-23 09:28:37.281	6.4s	6s	126.0%	404.1 MB	4.3 GB	46.6 MB	1.6 MB
+121	de/eadf1e	2266377	calling_pipeline:medakaInference_consensus (50)	COMPLETED	0	2025-02-23 09:28:37.973	6.4s	6s	129.5%	408.4 MB	4.5 GB	46.5 MB	1.6 MB
+128	2e/6a85bb	2267360	calling_pipeline:medakaInference_consensus (54)	COMPLETED	0	2025-02-23 09:28:41.636	5.9s	5.5s	129.5%	409.8 MB	4.5 GB	46.5 MB	1.6 MB
+142	fa/b7231c	2267953	calling_pipeline:medakaInference_consensus (60)	COMPLETED	0	2025-02-23 09:28:42.933	6.3s	5.9s	129.2%	407.6 MB	4.3 GB	47.2 MB	1.6 MB
+130	e6/d9d731	2268249	calling_pipeline:medakaInference_variant (56)	COMPLETED	0	2025-02-23 09:28:43.748	5.9s	5.5s	131.0%	409.2 MB	4.5 GB	46.6 MB	1.6 MB
+127	f4/bc6f68	2268519	calling_pipeline:medakaInference_consensus (53)	COMPLETED	0	2025-02-23 09:28:44.427	6.2s	5.7s	130.1%	410.1 MB	4.5 GB	46.5 MB	1.6 MB
+135	43/52200b	2269378	calling_pipeline:medakaInference_variant (61)	COMPLETED	0	2025-02-23 09:28:47.544	6.2s	5.8s	130.5%	407.9 MB	4.7 GB	46.6 MB	1.6 MB
+138	ab/dbd484	2270040	calling_pipeline:medakaInference_variant (62)	COMPLETED	0	2025-02-23 09:28:49.220	6.3s	6s	132.7%	409.6 MB	4.7 GB	47.1 MB	1.6 MB
+132	12/03813c	2270201	calling_pipeline:medakaInference_variant (58)	COMPLETED	0	2025-02-23 09:28:49.629	6s	5.6s	129.3%	410.2 MB	4.5 GB	46.5 MB	1.6 MB
+146	e4/d1cc03	2270606	calling_pipeline:medakaInference_variant (64)	COMPLETED	0	2025-02-23 09:28:50.610	6.4s	6.1s	128.3%	414.7 MB	4.7 GB	51.9 MB	1.6 MB
+145	66/37598d	2271477	calling_pipeline:medakaInference_consensus (63)	COMPLETED	0	2025-02-23 09:28:53.713	6.2s	5.9s	121.7%	410.2 MB	4.7 GB	46.6 MB	1.6 MB
+143	dc/5a3dc0	2272145	calling_pipeline:medakaInference_consensus (61)	COMPLETED	0	2025-02-23 09:28:55.648	6.2s	5.8s	121.0%	410.1 MB	4.7 GB	46.6 MB	1.6 MB
+134	50/34aa04	2272152	calling_pipeline:medakaInference_variant (60)	COMPLETED	0	2025-02-23 09:28:55.679	6.4s	6.1s	121.0%	395.5 MB	4.2 GB	47.2 MB	1.6 MB
+136	ca/05ec99	2272752	calling_pipeline:medakaInference_consensus (56)	COMPLETED	0	2025-02-23 09:28:57.012	6.2s	5.8s	118.9%	399.3 MB	4.3 GB	46.6 MB	1.6 MB
+125	de/e9d9f7	2273624	calling_pipeline:medakaInference_consensus (52)	COMPLETED	0	2025-02-23 09:29:00.018	6s	5.6s	130.1%	406.1 MB	4.5 GB	46.6 MB	1.6 MB
+140	c2/7704dc	2274223	calling_pipeline:medakaInference_consensus (58)	COMPLETED	0	2025-02-23 09:29:01.833	6.1s	5.7s	127.9%	409.2 MB	4.5 GB	46.5 MB	1.6 MB
+152	b5/fe4e3a	2274382	calling_pipeline:medakaInference_variant (67)	COMPLETED	0	2025-02-23 09:29:02.150	5.9s	5.6s	131.3%	398 MB	4.3 GB	46.5 MB	1.6 MB
+149	38/dc785c	2274786	calling_pipeline:medakaInference_variant (66)	COMPLETED	0	2025-02-23 09:29:03.244	6.5s	6.2s	128.6%	469 MB	4.6 GB	46.5 MB	1.6 MB
+154	1c/0574be	2275585	calling_pipeline:medakaInference_variant (69)	COMPLETED	0	2025-02-23 09:29:06.016	6s	5.5s	132.7%	433.4 MB	4.5 GB	46.5 MB	1.6 MB
+150	dc/cffe52	2276291	calling_pipeline:medakaInference_consensus (65)	COMPLETED	0	2025-02-23 09:29:07.932	6s	5.7s	130.3%	410 MB	4.5 GB	46.6 MB	1.6 MB
+157	e8/fddec4	2276447	calling_pipeline:medakaInference_consensus (68)	COMPLETED	0	2025-02-23 09:29:08.139	6s	5.6s	129.3%	400.4 MB	4.3 GB	46.5 MB	1.6 MB
+151	17/ebe2dd	2277022	calling_pipeline:medakaInference_consensus (66)	COMPLETED	0	2025-02-23 09:29:09.823	6.3s	5.8s	134.2%	407.3 MB	4.5 GB	46.6 MB	1.6 MB
+155	63/40ec8d	2277657	calling_pipeline:medakaInference_variant (70)	COMPLETED	0	2025-02-23 09:29:12.017	6.5s	6.1s	129.9%	405.4 MB	4.3 GB	46.7 MB	1.6 MB
+139	de/f06b5d	2278382	calling_pipeline:medakaInference_variant (63)	COMPLETED	0	2025-02-23 09:29:13.978	6s	5.7s	125.9%	409.8 MB	4.5 GB	46.6 MB	1.6 MB
+147	52/967e0c	2278449	calling_pipeline:medakaInference_consensus (64)	COMPLETED	0	2025-02-23 09:29:14.095	6.4s	6.1s	128.0%	398.5 MB	4.3 GB	51.9 MB	1.6 MB
+133	c5/faf1f6	2279108	calling_pipeline:medakaInference_variant (59)	COMPLETED	0	2025-02-23 09:29:16.157	6.2s	5.8s	128.1%	399.4 MB	4.3 GB	46.5 MB	1.6 MB
+148	51/c611bf	2279919	calling_pipeline:medakaInference_variant (65)	COMPLETED	0	2025-02-23 09:29:18.535	6s	5.6s	132.4%	407.4 MB	4.7 GB	46.6 MB	1.6 MB
+156	e7/13ec85	2280681	calling_pipeline:medakaInference_consensus (67)	COMPLETED	0	2025-02-23 09:29:20.549	5.9s	5.5s	132.3%	408.8 MB	4.5 GB	46.5 MB	1.6 MB
+144	ec/104a8f	2280456	calling_pipeline:medakaInference_consensus (62)	COMPLETED	0	2025-02-23 09:29:20.039	6.6s	6.2s	130.5%	409.2 MB	4.7 GB	47.1 MB	1.6 MB
+166	0d/1e5dc0	2281203	calling_pipeline:medakaInference_consensus (72)	COMPLETED	0	2025-02-23 09:29:22.331	6.3s	5.9s	132.2%	409.5 MB	4.7 GB	46.8 MB	1.6 MB
+153	97/d0a8a3	2281911	calling_pipeline:medakaInference_variant (68)	COMPLETED	0	2025-02-23 09:29:24.541	5.7s	5.4s	132.3%	424.5 MB	4.5 GB	46.5 MB	1.6 MB
+137	14/75e483	2282557	calling_pipeline:medakaInference_consensus (57)	COMPLETED	0	2025-02-23 09:29:26.432	6.3s	5.9s	126.6%	398.3 MB	4.3 GB	46.6 MB	1.6 MB
+131	2d/9030e3	2282689	calling_pipeline:medakaInference_variant (57)	COMPLETED	0	2025-02-23 09:29:26.675	6.1s	5.7s	131.7%	408.8 MB	4.7 GB	46.6 MB	1.6 MB
+159	9d/3d4ee0	2283306	calling_pipeline:medakaInference_consensus (69)	COMPLETED	0	2025-02-23 09:29:28.629	6s	5.6s	128.9%	400.5 MB	4.3 GB	46.5 MB	1.6 MB
+163	30/fca27f	2283923	calling_pipeline:medakaInference_variant (73)	COMPLETED	0	2025-02-23 09:29:30.282	5.9s	5.5s	128.8%	405.1 MB	4.7 GB	46.4 MB	1.6 MB
+141	8c/e5da37	2284677	calling_pipeline:medakaInference_consensus (59)	COMPLETED	0	2025-02-23 09:29:32.780	6s	5.6s	128.0%	408.4 MB	4.5 GB	46.5 MB	1.6 MB
+158	e4/06bce2	2284668	calling_pipeline:medakaInference_variant (71)	COMPLETED	0	2025-02-23 09:29:32.747	6.1s	5.8s	124.1%	402.9 MB	4.3 GB	46.7 MB	1.6 MB
+160	8d/10b10b	2285388	calling_pipeline:medakaInference_variant (72)	COMPLETED	0	2025-02-23 09:29:34.695	6.2s	5.9s	131.2%	407.8 MB	4.7 GB	46.8 MB	1.6 MB
+174	16/9fc767	2286003	calling_pipeline:medakaInference_variant (79)	COMPLETED	0	2025-02-23 09:29:36.230	6.1s	5.8s	127.0%	410.4 MB	4.7 GB	46.6 MB	1.6 MB
+169	57/9fef48	2286803	calling_pipeline:medakaInference_consensus (74)	COMPLETED	0	2025-02-23 09:29:38.777	5.9s	5.6s	127.7%	407.1 MB	4.5 GB	46.5 MB	1.6 MB
+161	da/478438	2286864	calling_pipeline:medakaInference_consensus (70)	COMPLETED	0	2025-02-23 09:29:38.897	6.6s	6.2s	122.7%	399.3 MB	4.2 GB	46.7 MB	1.6 MB
+162	99/92f272	2287533	calling_pipeline:medakaInference_consensus (71)	COMPLETED	0	2025-02-23 09:29:40.963	6.1s	5.8s	125.3%	401.4 MB	4.3 GB	46.7 MB	1.6 MB
+168	d2/b10088	2288100	calling_pipeline:medakaInference_consensus (73)	COMPLETED	0	2025-02-23 09:29:42.357	5.8s	5.5s	123.7%	409.2 MB	4.5 GB	46.4 MB	1.6 MB
+170	f4/84458e	2288862	calling_pipeline:medakaInference_variant (77)	COMPLETED	0	2025-02-23 09:29:44.693	6s	5.7s	136.0%	406.3 MB	4.7 GB	46.8 MB	1.6 MB
+164	c3/d28006	2289157	calling_pipeline:medakaInference_variant (74)	COMPLETED	0	2025-02-23 09:29:45.495	5.9s	5.6s	127.5%	407.6 MB	4.5 GB	46.5 MB	1.6 MB
+171	15/3f522f	2289733	calling_pipeline:medakaInference_consensus (75)	COMPLETED	0	2025-02-23 09:29:47.092	6.4s	6s	130.9%	406.8 MB	4.7 GB	46.8 MB	1.6 MB
+172	c5/977845	2290132	calling_pipeline:medakaInference_variant (78)	COMPLETED	0	2025-02-23 09:29:48.136	6.4s	6.1s	122.1%	404.8 MB	4.7 GB	46.6 MB	1.6 MB
+182	90/b5f652	2290949	calling_pipeline:medakaInference_variant (85)	COMPLETED	0	2025-02-23 09:29:50.746	5.6s	5.3s	135.2%	414.1 MB	4.7 GB	46.5 MB	1.6 MB
+185	e6/579c09	2291187	calling_pipeline:medakaInference_consensus (81)	COMPLETED	0	2025-02-23 09:29:51.458	6.2s	5.8s	123.0%	402.6 MB	4.3 GB	46.6 MB	1.6 MB
+186	56/809993	2291879	calling_pipeline:medakaInference_variant (86)	COMPLETED	0	2025-02-23 09:29:53.510	5.9s	5.6s	131.1%	406.8 MB	4.7 GB	46.6 MB	1.6 MB
+173	4d/8ed4fe	2292233	calling_pipeline:medakaInference_consensus (76)	COMPLETED	0	2025-02-23 09:29:54.542	6.1s	5.7s	124.0%	401.1 MB	4.3 GB	46.5 MB	1.6 MB
+175	df/0ed401	2292861	calling_pipeline:medakaInference_consensus (77)	COMPLETED	0	2025-02-23 09:29:56.375	6.4s	6.1s	127.1%	404.6 MB	4.3 GB	46.8 MB	1.6 MB
+180	e7/23316e	2293333	calling_pipeline:medakaInference_variant (83)	COMPLETED	0	2025-02-23 09:29:57.687	6s	5.5s	127.9%	400.5 MB	4.3 GB	46.5 MB	1.6 MB
+178	17/f071e9	2293916	calling_pipeline:medakaInference_variant (81)	COMPLETED	0	2025-02-23 09:29:59.494	5.9s	5.6s	132.4%	405.8 MB	4.5 GB	46.6 MB	1.6 MB
+190	4f/d39dad	2294330	calling_pipeline:medakaInference_consensus (83)	COMPLETED	0	2025-02-23 09:30:00.682	6s	5.6s	127.0%	399.3 MB	4.3 GB	46.5 MB	1.6 MB
+194	16/7fac81	2294962	calling_pipeline:medakaInference_variant (89)	COMPLETED	0	2025-02-23 09:30:02.742	6.5s	6.1s	136.8%	407.4 MB	4.5 GB	46.5 MB	1.7 MB
+177	07/d35eb3	2295375	calling_pipeline:medakaInference_variant (80)	COMPLETED	0	2025-02-23 09:30:03.690	6s	5.8s	128.6%	400.4 MB	4.3 GB	46.6 MB	1.6 MB
+179	70/a753ef	2296009	calling_pipeline:medakaInference_variant (82)	COMPLETED	0	2025-02-23 09:30:05.443	5.9s	5.6s	130.7%	408.2 MB	4.7 GB	46.4 MB	1.6 MB
+181	b9/1264d4	2296410	calling_pipeline:medakaInference_variant (84)	COMPLETED	0	2025-02-23 09:30:06.679	6.2s	5.9s	127.5%	407.4 MB	4.3 GB	46.6 MB	1.6 MB
+176	d9/496734	2297285	calling_pipeline:medakaInference_consensus (78)	COMPLETED	0	2025-02-23 09:30:09.233	6.4s	6s	125.9%	409 MB	4.5 GB	46.6 MB	1.6 MB
+196	4c/53836b	2297458	calling_pipeline:medakaInference_variant (90)	COMPLETED	0	2025-02-23 09:30:09.737	6s	5.7s	130.8%	408.9 MB	4.5 GB	46.5 MB	1.6 MB
+184	77/ef3c3c	2298038	calling_pipeline:medakaInference_consensus (80)	COMPLETED	0	2025-02-23 09:30:11.400	6.1s	5.8s	127.3%	400 MB	4.3 GB	46.6 MB	1.6 MB
+195	10/cf63fe	2298551	calling_pipeline:medakaInference_consensus (87)	COMPLETED	0	2025-02-23 09:30:12.995	6.8s	6.5s	130.1%	459.9 MB	4.7 GB	46.8 MB	1.7 MB
+167	3b/65edf0	2299394	calling_pipeline:medakaInference_variant (76)	COMPLETED	0	2025-02-23 09:30:15.660	5.8s	5.5s	129.4%	409.4 MB	4.7 GB	46.5 MB	1.6 MB
+183	96/e6bde8	2299509	calling_pipeline:medakaInference_consensus (79)	COMPLETED	0	2025-02-23 09:30:15.770	6s	5.6s	132.7%	410.1 MB	4.7 GB	46.6 MB	1.6 MB
+165	5e/5975bb	2300124	calling_pipeline:medakaInference_variant (75)	COMPLETED	0	2025-02-23 09:30:17.555	6.4s	6.1s	130.8%	401.3 MB	4.3 GB	46.7 MB	1.6 MB
+189	f6/7ea77b	2300823	calling_pipeline:medakaInference_consensus (82)	COMPLETED	0	2025-02-23 09:30:19.834	5.6s	5.3s	132.0%	409.3 MB	4.7 GB	46.4 MB	1.6 MB
+188	36/285a24	2301460	calling_pipeline:medakaInference_variant (88)	COMPLETED	0	2025-02-23 09:30:21.469	6.1s	5.7s	129.1%	406.8 MB	4.7 GB	46.5 MB	1.6 MB
+187	64/e90a2f	2301567	calling_pipeline:medakaInference_variant (87)	COMPLETED	0	2025-02-23 09:30:21.742	6.8s	6.4s	132.4%	460.6 MB	4.7 GB	46.8 MB	1.7 MB
+193	94/9532b3	2302258	calling_pipeline:medakaInference_consensus (86)	COMPLETED	0	2025-02-23 09:30:23.910	6s	5.7s	127.1%	402.1 MB	4.3 GB	46.6 MB	1.6 MB
+197	99/a5a325	2302848	calling_pipeline:medakaInference_consensus (88)	COMPLETED	0	2025-02-23 09:30:25.554	6.2s	5.7s	127.0%	400.6 MB	4.3 GB	46.5 MB	1.6 MB
+191	f4/0e9840	2303551	calling_pipeline:medakaInference_consensus (84)	COMPLETED	0	2025-02-23 09:30:27.612	6.1s	5.8s	131.0%	408 MB	4.7 GB	46.6 MB	1.6 MB
+192	74/7be01f	2303894	calling_pipeline:medakaInference_consensus (85)	COMPLETED	0	2025-02-23 09:30:28.531	5.8s	5.5s	128.4%	403.2 MB	4.3 GB	46.5 MB	1.6 MB
+199	f5/dc15fb	2304473	calling_pipeline:medakaInference_consensus (89)	COMPLETED	0	2025-02-23 09:30:29.977	6.5s	6.1s	134.7%	401.6 MB	4.3 GB	46.5 MB	1.7 MB
+200	d7/1ee579	2304943	calling_pipeline:medakaInference_variant (92)	COMPLETED	0	2025-02-23 09:30:31.727	5.8s	5.5s	125.7%	415.2 MB	4.5 GB	46.4 MB	1.6 MB
+203	63/ab2720	2305576	calling_pipeline:medakaInference_consensus (92)	COMPLETED	0	2025-02-23 09:30:33.718	6.2s	5.7s	129.0%	400.2 MB	4.3 GB	46.4 MB	1.6 MB
+198	83/c9c55f	2305974	calling_pipeline:medakaInference_variant (91)	COMPLETED	0	2025-02-23 09:30:34.322	5.8s	5.5s	130.1%	408.4 MB	4.5 GB	46.5 MB	1.6 MB
+201	1f/fbe585	2306605	calling_pipeline:medakaInference_consensus (90)	COMPLETED	0	2025-02-23 09:30:36.504	6.1s	5.7s	131.1%	402.8 MB	4.3 GB	46.5 MB	1.6 MB
+202	02/82560c	2307060	calling_pipeline:medakaInference_consensus (91)	COMPLETED	0	2025-02-23 09:30:37.591	5.9s	5.6s	131.1%	399.8 MB	4.3 GB	46.5 MB	1.6 MB
+205	d1/aaeed7	2307895	calling_pipeline:medakaVariant (1)	COMPLETED	0	2025-02-23 09:30:40.218	8.7s	8.1s	131.1%	602.1 MB	4.4 GB	253.3 MB	1.4 MB
+206	9d/f28423	2308804	calling_pipeline:medakaConsensus (1)	COMPLETED	0	2025-02-23 09:30:43.533	5.7s	5.1s	112.4%	399.5 MB	4.4 GB	71.2 MB	24.1 MB
+208	99/7377ef	2309876	calling_pipeline:variantCheckpoint (1)	COMPLETED	0	2025-02-23 09:30:49.025	298ms	3ms	66.0%	0	0	78.7 KB	430 B
+209	c3/ea14ba	2309841	output (2)	COMPLETED	0	2025-02-23 09:30:48.980	459ms	3ms	50.8%	0	0	75.4 KB	259 B
+207	3d/80b46b	2309863	output (1)	COMPLETED	0	2025-02-23 09:30:49.005	443ms	3ms	50.8%	0	0	75.4 KB	259 B
+212	69/e076dc	2310093	output (3)	COMPLETED	0	2025-02-23 09:30:49.239	284ms	2ms	75.3%	0	0	75.4 KB	259 B
+211	91/bde036	2310159	calling_pipeline:assemblyCheckpoint (1)	COMPLETED	0	2025-02-23 09:30:49.301	297ms	13ms	81.0%	0	0	78.7 KB	425 B
+213	36/61297f	2310416	calling_pipeline:accumulateCheckpoints (5)	COMPLETED	0	2025-02-23 09:30:49.453	498ms	199ms	85.5%	1.1 MB	3.8 MB	1 MB	1.7 KB
+210	b9/00f2b4	2310623	calling_pipeline:runProkka (1)	COMPLETED	0	2025-02-23 09:30:49.969	3m 29s	3m 28s	678.0%	1.6 GB	34.4 GB	375.3 GB	337.1 MB
+215	be/c77b91	2337147	calling_pipeline:annotationCheckpoint (1)	COMPLETED	0	2025-02-23 09:34:18.699	321ms	34ms	22.4%	1.1 MB	3.8 MB	78.7 KB	424 B
+214	be/e18ef7	2337110	calling_pipeline:accumulateCheckpoints (6)	COMPLETED	0	2025-02-23 09:34:18.663	522ms	225ms	76.6%	1.1 MB	3.8 MB	1 MB	1.8 KB
+218	2f/8e6b5d	2337717	calling_pipeline:accumulateCheckpoints (7)	COMPLETED	0	2025-02-23 09:34:19.216	506ms	220ms	77.2%	4.5 MB	11.2 MB	1 MB	1.9 KB
+217	cb/dd9795	2337176	calling_pipeline:collect_results (1)	COMPLETED	0	2025-02-23 09:34:18.717	3.5s	3.1s	102.1%	141.9 MB	1.3 GB	13.5 MB	4.4 MB
+219	57/d2c746	2338251	calling_pipeline:createRunModel	COMPLETED	0	2025-02-23 09:34:22.221	1.1s	814ms	96.9%	6.6 MB	11.6 MB	6.5 MB	5.4 MB
+216	27/4a2df8	2337248	calling_pipeline:makeReport	COMPLETED	0	2025-02-23 09:34:18.757	1m 42s	1m 42s	99.2%	7.1 GB	8.4 GB	2 GB	9.7 MB
+222	80/c24325	2339830	output (5)	COMPLETED	0	2025-02-23 09:36:01.228	273ms	2ms	74.4%	0	0	75.4 KB	259 B
+223	30/e5f6b0	2339857	output (6)	COMPLETED	0	2025-02-23 09:36:01.260	292ms	2ms	78.0%	0	0	75.4 KB	259 B
+224	f8/9ee68a	2339887	output (7)	COMPLETED	0	2025-02-23 09:36:01.280	305ms	3ms	71.9%	0	0	75.4 KB	259 B
+220	3d/8f6284	2339907	calling_pipeline:reportingCheckpoint	COMPLETED	0	2025-02-23 09:36:01.298	309ms	30ms	23.4%	1.1 MB	3.8 MB	78.7 KB	489 B
+221	a9/005b55	2339977	output (4)	COMPLETED	0	2025-02-23 09:36:01.330	298ms	2ms	71.1%	0	0	75.4 KB	259 B
+225	29/faec1f	2340072	output (8)	COMPLETED	0	2025-02-23 09:36:01.361	276ms	2ms	142.2%	0	0	75.4 KB	260 B
+226	14/477800	2340165	output (9)	COMPLETED	0	2025-02-23 09:36:01.405	312ms	2ms	78.0%	0	0	75.4 KB	259 B
+227	c1/1b32d3	2340712	calling_pipeline:accumulateCheckpoints (8)	COMPLETED	0	2025-02-23 09:36:01.627	1.3s	197ms	86.3%	1.1 MB	3.8 MB	1 MB	2 KB

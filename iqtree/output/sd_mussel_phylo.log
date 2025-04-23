@@ -1,0 +1,210 @@
+IQ-TREE multicore version 2.1.4-beta COVID-edition for Linux 64-bit built Jun 24 2021
+Developed by Bui Quang Minh, James Barbetti, Nguyen Lam Tung,
+Olga Chernomor, Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    ONT-9Z6B674 (AVX2, FMA3, 15 GB RAM)
+Command: iqtree -s sd_mussel_trimmed.fasta -nt AUTO -pre sd_mussel_phylo
+Seed:    272087 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Fri Apr 11 16:21:42 2025
+Kernel:  AVX+FMA - auto-detect threads (14 CPU cores detected)
+
+Reading alignment file sd_mussel_trimmed.fasta ... Fasta format detected
+Alignment most likely contains DNA/RNA sequences
+Alignment has 20 sequences with 3628 columns, 3413 distinct patterns
+3206 parsimony-informative, 328 singleton sites, 94 constant sites
+                                                                   Gap/Ambiguity  Composition  p-value
+   1  MUSSEL|SD_SEAWATER|SAN_DIEGO|2024-02-21                              0.28%    failed      1.71%
+   2  NC_077036.1_Uncultured_densovirus_clone_AfDV                         0.00%    passed     49.10%
+   3  MT733051.1_Uncultured_densovirus_clone_SSaDV                         0.00%    passed     24.72%
+   4  NC_038532.1_Sea_star-associated_densovirus                           1.52%    failed      0.00%
+   5  MT733024.1_Uncultured_densovirus_clone_MaaDV1                        0.00%    failed      4.14%
+   6  MT733031.1_Uncultured_densovirus_clone_PhaDV1                        0.00%    passed     16.72%
+   7  MT733037.1_Uncultured_densovirus_clone_PoaDV1                        0.00%    passed     15.26%
+   8  MT733017.1_Uncultured_densovirus_clone_LaaDV1                        1.93%    failed      2.57%
+   9  MT733049.1_Uncultured_densovirus_clone_PoaDV13                       0.55%    failed      0.00%
+  10  MW073793.1_Densovirinae_sp._isolate_Densovirus_like_sequence_2401    3.09%    failed      0.00%
+  11  BK066577.1_MAG_TPA_asm_Parvovirus_homo6198_isolate_Parvo6198         0.30%    failed      0.00%
+  12  MT733038.1_Uncultured_densovirus_clone_PoaDV2                        0.41%    failed      0.82%
+  13  MT733043.1_Uncultured_densovirus_clone_PoaDV7                        3.22%    failed      0.17%
+  14  KY548840.1_Crassostrea_ariakensis_ambidensovirus_1_strain_CH-OY-1    0.55%    passed     16.05%
+  15  OK236393.1_Zander_parvovirus_strain_zander/M5/2015/HUN              19.43%    failed      0.00%
+  16  KU561552.1_Sea_otter_parvovirus_1_isolate_4850-06                   18.11%    failed      0.00%
+  17  MN982959.1_California_sea_lion_parvovirus_strain_Hanchett_2         19.93%    failed      0.00%
+  18  KM052275.1_Sea_star-associated_densovirus                            1.52%    failed      0.00%
+  19  KP410261.1_Cherax_quadricarinatus_densovirus                         0.06%    passed     23.30%
+  20  MT734805.1_Bat-associated_densovirus_2_isolate                       8.88%    failed      2.15%
+****  TOTAL                                                                3.99%  14 sequences failed composition chi2 test (p-value<5%; df=3)
+NOTE: KM052275.1_Sea_star-associated_densovirus is identical to NC_038532.1_Sea_star-associated_densovirus but kept for subsequent analysis
+
+Creating fast initial parsimony tree by random order stepwise addition...
+21.963 seconds, parsimony score: 13994 (based on 3534 sites)
+Measuring multi-threading efficiency up to 14 CPU cores
+Increase to 10 rounds for branch lengths
+227 trees examined
+Threads: 1 / Time: 14.042 sec / Speedup: 1.000 / Efficiency: 100% / LogL: -62047
+Threads: 2 / Time: 8.278 sec / Speedup: 1.696 / Efficiency: 85% / LogL: -62047
+Threads: 3 / Time: 15.226 sec / Speedup: 0.922 / Efficiency: 31% / LogL: -62047
+BEST NUMBER OF THREADS: 2
+
+Perform fast likelihood tree search using GTR+I+G model...
+Estimate model parameters (epsilon = 5.000)
+Perform nearest neighbor interchange...
+Estimate model parameters (epsilon = 1.000)
+1. Initial log-likelihood: -53483.302
+2. Current log-likelihood: -53482.083
+Optimal log-likelihood: -53481.354
+Rate parameters:  A-C: 0.95394  A-G: 2.58758  A-T: 1.23230  C-G: 1.30615  C-T: 2.90033  G-T: 1.00000
+Base frequencies:  A: 0.324  C: 0.190  G: 0.199  T: 0.287
+Proportion of invariable sites: 0.003
+Gamma shape alpha: 1.957
+Parameters optimization took 2 rounds (0.046 sec)
+Time for fast ML tree search: 0.490 seconds
+
+NOTE: ModelFinder requires 22 MB RAM!
+ModelFinder will test up to 286 DNA models (sample size: 3628) ...
+ No. Model         -LnL         df  AIC          AICc         BIC
+  1  GTR+F         54111.494    45  108312.989   108314.144   108591.828
+  2  GTR+F+I       54037.905    46  108167.809   108169.016   108452.845
+  3  GTR+F+G4      53479.661    46  107051.321   107052.529   107336.357
+  4  GTR+F+I+G4    53480.082    47  107054.164   107055.424   107345.396
+  5  GTR+F+R2      53460.986    47  107015.971   107017.232   107307.204
+  6  GTR+F+R3      53443.688    49  106985.375   106986.745   107289.001
+  7  GTR+F+R4      53442.439    51  106986.877   106988.360   107302.895
+ 19  SYM+R3        53715.959    46  107523.919   107525.126   107808.955
+ 32  TVM+F+R3      53448.802    48  106993.603   106994.918   107291.032
+ 45  TVMe+R3       53716.270    45  107522.541   107523.697   107801.381
+ 58  TIM3+F+R3     53457.803    47  107009.605   107010.865   107300.838
+ 71  TIM3e+R3      53797.988    44  107683.977   107685.082   107956.620
+ 84  TIM2+F+R3     53458.441    47  107010.882   107012.142   107302.114
+ 97  TIM2e+R3      53814.347    44  107716.693   107717.798   107989.336
+110  TIM+F+R3      53444.679    47  106983.358   106984.619   107274.591
+123  TIMe+R3       53805.311    44  107698.622   107699.727   107971.265
+136  TPM3u+F+R3    53462.995    46  107017.989   107019.197   107303.025
+149  TPM3+F+R3     53462.995    46  107017.989   107019.197   107303.025
+162  TPM2u+F+R3    53463.672    46  107019.344   107020.552   107304.380
+175  TPM2+F+R3     53463.672    46  107019.344   107020.552   107304.380
+188  K3Pu+F+R3     53449.889    46  106991.778   106992.986   107276.814
+201  K3P+R3        53805.586    43  107697.172   107698.228   107963.619
+214  TN+F+R3       53458.421    46  107008.843   107010.050   107293.879
+227  TNe+R3        53868.631    43  107823.263   107824.318   108089.709
+240  HKY+F+R3      53463.749    45  107017.497   107018.653   107296.337
+253  K2P+R3        53868.990    42  107821.980   107822.987   108082.230
+266  F81+F+R3      54116.911    44  108321.822   108322.927   108594.465
+279  JC+R3         54390.112    41  108862.223   108863.183   109116.277
+Akaike Information Criterion:           TIM+F+R3
+Corrected Akaike Information Criterion: TIM+F+R3
+Bayesian Information Criterion:         TIM+F+R3
+Best-fit model: TIM+F+R3 chosen according to BIC
+
+All model information printed to sd_mussel_phylo.model.gz
+CPU time for ModelFinder: 380.554 seconds (0h:6m:20s)
+Wall-clock time for ModelFinder: 63.604 seconds (0h:1m:3s)
+
+NOTE: 6 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -53444.679
+Optimal log-likelihood: -53444.633
+Rate parameters:  A-C: 1.00000  A-G: 2.64559  A-T: 1.26912  C-G: 1.26912  C-T: 2.99572  G-T: 1.00000
+Base frequencies:  A: 0.324  C: 0.190  G: 0.199  T: 0.287
+Site proportion and rates:  (0.325,0.341) (0.430,0.755) (0.245,2.302)
+Parameters optimization took 1 rounds (0.034 sec)
+Computing ML distances based on estimated model parameters...
+Computing ML distances took 0.002569 sec (of wall-clock time) 0.001626 sec(of CPU time)
+Computing RapidNJ tree took 0.009246 sec (of wall-clock time) 0.000000 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -53450.453
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 0.095 second
+Computing log-likelihood of 98 initial trees ... 0.284 seconds
+Current best score: -53444.633
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -53444.590
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 2: -53433.953
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 5: -53431.219
+Iteration 10 / LogL: -53441.972 / Time: 0h:0m:1s
+Iteration 20 / LogL: -53441.829 / Time: 0h:0m:1s
+Finish initializing candidate tree set (5)
+Current best tree score: -53431.219 / CPU time: 2.007
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Iteration 30 / LogL: -53444.000 / Time: 0h:0m:3s (0h:0m:7s left)
+Iteration 40 / LogL: -53438.548 / Time: 0h:0m:3s (0h:0m:6s left)
+Iteration 50 / LogL: -53433.429 / Time: 0h:0m:4s (0h:0m:4s left)
+Iteration 60 / LogL: -53431.717 / Time: 0h:0m:4s (0h:0m:3s left)
+Iteration 70 / LogL: -53434.682 / Time: 0h:0m:5s (0h:0m:2s left)
+Iteration 80 / LogL: -53431.583 / Time: 0h:0m:6s (0h:0m:2s left)
+Iteration 90 / LogL: -53434.115 / Time: 0h:0m:7s (0h:0m:1s left)
+Iteration 100 / LogL: -53434.375 / Time: 0h:0m:8s (0h:0m:0s left)
+TREE SEARCH COMPLETED AFTER 106 ITERATIONS / Time: 0h:0m:8s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -53431.219
+2. Current log-likelihood: -53431.198
+3. Current log-likelihood: -53431.182
+4. Current log-likelihood: -53431.168
+5. Current log-likelihood: -53431.150
+6. Current log-likelihood: -53431.133
+7. Current log-likelihood: -53431.117
+8. Current log-likelihood: -53431.102
+9. Current log-likelihood: -53431.088
+10. Current log-likelihood: -53431.073
+11. Current log-likelihood: -53431.057
+12. Current log-likelihood: -53431.042
+13. Current log-likelihood: -53431.029
+14. Current log-likelihood: -53431.013
+15. Current log-likelihood: -53430.998
+16. Current log-likelihood: -53430.983
+17. Current log-likelihood: -53430.969
+18. Current log-likelihood: -53430.956
+19. Current log-likelihood: -53430.944
+20. Current log-likelihood: -53430.929
+21. Current log-likelihood: -53430.914
+22. Current log-likelihood: -53430.900
+23. Current log-likelihood: -53430.888
+24. Current log-likelihood: -53430.875
+25. Current log-likelihood: -53430.863
+26. Current log-likelihood: -53430.851
+27. Current log-likelihood: -53430.838
+28. Current log-likelihood: -53430.827
+29. Current log-likelihood: -53430.815
+30. Current log-likelihood: -53430.803
+31. Current log-likelihood: -53430.789
+32. Current log-likelihood: -53430.778
+33. Current log-likelihood: -53430.767
+34. Current log-likelihood: -53430.756
+35. Current log-likelihood: -53430.744
+36. Current log-likelihood: -53430.734
+37. Current log-likelihood: -53430.723
+38. Current log-likelihood: -53430.712
+Optimal log-likelihood: -53430.700
+Rate parameters:  A-C: 1.00000  A-G: 2.64201  A-T: 1.26775  C-G: 1.26775  C-T: 2.94891  G-T: 1.00000
+Base frequencies:  A: 0.324  C: 0.190  G: 0.199  T: 0.287
+Site proportion and rates:  (0.380,0.362) (0.396,0.827) (0.224,2.392)
+Parameters optimization took 38 rounds (1.135 sec)
+BEST SCORE FOUND : -53430.700
+Total tree length: 9.119
+
+Total number of iterations: 106
+CPU time used for tree search: 15.300 sec (0h:0m:15s)
+Wall-clock time used for tree search: 8.648 sec (0h:0m:8s)
+Total CPU time used: 17.638 sec (0h:0m:17s)
+Total wall-clock time used: 9.902 sec (0h:0m:9s)
+
+Analysis results written to: 
+  IQ-TREE report:                sd_mussel_phylo.iqtree
+  Maximum-likelihood tree:       sd_mussel_phylo.treefile
+  Likelihood distances:          sd_mussel_phylo.mldist
+  Screen log file:               sd_mussel_phylo.log
+
+Date and Time: Fri Apr 11 16:22:56 2025

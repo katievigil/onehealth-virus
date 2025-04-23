@@ -1,0 +1,8 @@
+prokka,1.14.5
+medaka,2.0.0
+mlst,2.23.0
+pysam,0.22.0
+fastcat,0.18.6
+mosdepth,0.3.7
+flye,2.9.5-b1801
+pomoxis,0.3.15

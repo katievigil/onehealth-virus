@@ -1,0 +1,179 @@
+IQ-TREE 2.1.4-beta COVID-edition built Jun 24 2021
+
+Input file name: sd_mussel_trimmed.fasta
+Type of analysis: ModelFinder + tree reconstruction
+Random seed number: 272087
+
+REFERENCES
+----------
+
+To cite IQ-TREE please use:
+
+Bui Quang Minh, Heiko A. Schmidt, Olga Chernomor, Dominik Schrempf,
+Michael D. Woodhams, Arndt von Haeseler, and Robert Lanfear (2020)
+IQ-TREE 2: New models and efficient methods for phylogenetic inference
+in the genomic era. Mol. Biol. Evol., in press.
+https://doi.org/10.1093/molbev/msaa015
+
+To cite ModelFinder please use: 
+
+Subha Kalyaanamoorthy, Bui Quang Minh, Thomas KF Wong, Arndt von Haeseler,
+and Lars S Jermiin (2017) ModelFinder: Fast model selection for
+accurate phylogenetic estimates. Nature Methods, 14:587–589.
+https://doi.org/10.1038/nmeth.4285
+
+SEQUENCE ALIGNMENT
+------------------
+
+Input data: 20 sequences with 3628 nucleotide sites
+Number of constant sites: 94 (= 2.59096% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 94 (= 2.59096% of all sites)
+Number of parsimony informative sites: 3206
+Number of distinct site patterns: 3413
+
+ModelFinder
+-----------
+
+Best-fit model according to BIC: TIM+F+R3
+
+List of models sorted by BIC scores: 
+
+Model                  LogL         AIC      w-AIC        AICc     w-AICc         BIC      w-BIC
+TIM+F+R3         -53444.679  106983.358 +    0.642  106984.619 +    0.658  107274.591 +    0.752
+K3Pu+F+R3        -53449.889  106991.778 -  0.00953  106992.986 -     0.01  107276.814 +    0.247
+GTR+F+R3         -53443.688  106985.375 +    0.234  106986.745 +    0.227  107289.001 - 0.000559
+TVM+F+R3         -53448.802  106993.603 -  0.00383  106994.918 -  0.00382  107291.032 - 0.000202
+TN+F+R3          -53458.421  107008.843 - 1.88e-06  107010.050 - 1.98e-06  107293.879 - 4.87e-05
+HKY+F+R3         -53463.749  107017.497 - 2.48e-08  107018.653 - 2.68e-08  107296.337 - 1.43e-05
+TIM3+F+R3        -53457.803  107009.605 - 1.28e-06  107010.865 - 1.31e-06  107300.838 -  1.5e-06
+TIM2+F+R3        -53458.441  107010.882 - 6.77e-07  107012.142 - 6.94e-07  107302.114 - 7.93e-07
+GTR+F+R4         -53442.439  106986.877 +    0.111  106988.360 +    0.101  107302.895 - 5.37e-07
+TPM3+F+R3        -53462.995  107017.989 - 1.94e-08  107019.197 - 2.04e-08  107303.025 - 5.03e-07
+TPM3u+F+R3       -53462.995  107017.989 - 1.94e-08  107019.197 - 2.04e-08  107303.025 - 5.03e-07
+TPM2u+F+R3       -53463.672  107019.344 - 9.85e-09  107020.552 - 1.04e-08  107304.380 - 2.55e-07
+TPM2+F+R3        -53463.672  107019.344 - 9.85e-09  107020.552 - 1.04e-08  107304.380 - 2.55e-07
+GTR+F+R2         -53460.986  107015.971 - 5.32e-08  107017.232 - 5.45e-08  107307.204 - 6.23e-08
+GTR+F+G4         -53479.661  107051.321 - 1.12e-15  107052.529 - 1.18e-15  107336.357 - 2.91e-14
+GTR+F+I+G4       -53480.082  107054.164 - 2.71e-16  107055.424 - 2.77e-16  107345.396 - 3.17e-16
+TVMe+R3          -53716.270  107522.541 - 5.31e-118  107523.697 - 5.74e-118  107801.381 - 3.06e-115
+SYM+R3           -53715.959  107523.919 - 2.67e-118  107525.126 - 2.81e-118  107808.955 - 6.93e-117
+TIM3e+R3         -53797.988  107683.977 - 4.68e-153  107685.082 - 5.18e-153  107956.620 - 5.96e-149
+K3P+R3           -53805.586  107697.172 - 6.38e-156  107698.228 - 7.24e-156  107963.619 - 1.8e-150
+TIMe+R3          -53805.311  107698.622 - 3.09e-156  107699.727 - 3.42e-156  107971.265 - 3.94e-152
+TIM2e+R3         -53814.347  107716.693 - 3.68e-160  107717.798 - 4.07e-160  107989.336 - 4.69e-156
+K2P+R3           -53868.990  107821.980 - 5.05e-183  107822.987 - 5.87e-183  108082.230 - 3.16e-176
+TNe+R3           -53868.631  107823.263 - 2.66e-183  107824.318 - 3.02e-183  108089.709 - 7.51e-178
+GTR+F+I          -54037.905  108167.809 - 4.05e-258  108169.017 - 4.26e-258  108452.845 - 1.05e-256
+GTR+F            -54111.494  108312.989 - 1.21e-289  108314.144 - 1.3e-289  108591.828 - 6.94e-287
+F81+F+R3         -54116.911  108321.822 - 1.46e-291  108322.927 - 1.61e-291  108594.465 - 1.86e-287
+JC+R3            -54390.111  108862.223 -        0  108863.183 -        0  109116.277 -        0
+
+AIC, w-AIC   : Akaike information criterion scores and weights.
+AICc, w-AICc : Corrected AIC scores and weights.
+BIC, w-BIC   : Bayesian information criterion scores and weights.
+
+Plus signs denote the 95% confidence sets.
+Minus signs denote significant exclusion.
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: TIM+F+R3
+
+Rate parameter R:
+
+  A-C: 1.0000
+  A-G: 2.6420
+  A-T: 1.2677
+  C-G: 1.2677
+  C-T: 2.9489
+  G-T: 1.0000
+
+State frequencies: (empirical counts from alignment)
+
+  pi(A) = 0.3238
+  pi(C) = 0.1897
+  pi(G) = 0.199
+  pi(T) = 0.2874
+
+Rate matrix Q:
+
+  A   -0.8772    0.1541    0.4271    0.2959
+  C     0.263    -1.156    0.2049    0.6884
+  G    0.6949    0.1954    -1.124    0.2334
+  T    0.3334    0.4544    0.1617   -0.9495
+
+Model of rate heterogeneity: FreeRate with 3 categories
+Site proportion and rates:  (0.3803,0.3618) (0.3962,0.8273) (0.2235,2.392)
+
+ Category  Relative_rate  Proportion
+  1         0.3618         0.3803
+  2         0.8273         0.3962
+  3         2.392          0.2235
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -53430.6998 (s.e. 330.0729)
+Unconstrained log-likelihood (without tree): -29338.6801
+Number of free parameters (#branches + #model parameters): 47
+Akaike information criterion (AIC) score: 106955.3995
+Corrected Akaike information criterion (AICc) score: 106956.6599
+Bayesian information criterion (BIC) score: 107246.6321
+
+Total tree length (sum of branch lengths): 9.1189
+Sum of internal branch lengths: 3.2821 (35.9925% of tree length)
+
+NOTE: Tree is UNROOTED although outgroup taxon 'MUSSEL|SD_SEAWATER|SAN_DIEGO|2024-02-21' is drawn at root
+
++--MUSSEL|SD_SEAWATER|SAN_DIEGO|2024-02-21
+|
+|     +--NC_077036.1_Uncultured_densovirus_clone_AfDV
+|  +--|
+|  |  +---MT733051.1_Uncultured_densovirus_clone_SSaDV
++--|
+|  |  +--MT733024.1_Uncultured_densovirus_clone_MaaDV1
+|  +--|
+|     |  +--MT733031.1_Uncultured_densovirus_clone_PhaDV1
+|     +--|
+|        +--MT733037.1_Uncultured_densovirus_clone_PoaDV1
+|
+|                                                        +**NC_038532.1_Sea_star-associated_densovirus
+|                                                  +-----|
+|                                                  |     +**KM052275.1_Sea_star-associated_densovirus
+|                +---------------------------------|
+|                |                                 +-----MW073793.1_Densovirinae_sp._isolate_Densovirus_like_sequence_2401
+|            +---|
+|            |   +---------------------------------------OK236393.1_Zander_parvovirus_strain_zander/M5/2015/HUN
+|        +---|
+|        |   |                                      +--------KU561552.1_Sea_otter_parvovirus_1_isolate_4850-06
+|        |   +--------------------------------------|
+|        |                                          +------------MN982959.1_California_sea_lion_parvovirus_strain_Hanchett_2
+|     +--|
+|     |  |        +-----MT733017.1_Uncultured_densovirus_clone_LaaDV1
+|     |  |     +--|
+|     |  |     |  |  +------------MT733043.1_Uncultured_densovirus_clone_PoaDV7
+|     |  |     |  +--|
+|     |  |     |     +-----------------------------MT734805.1_Bat-associated_densovirus_2_isolate
+|     |  |  +--|
+|     |  |  |  |  +----BK066577.1_MAG_TPA_asm_Parvovirus_homo6198_isolate_Parvo6198
+|     |  |  |  +--|
+|     |  |  |     +---MT733038.1_Uncultured_densovirus_clone_PoaDV2
+|     |  +--|
+|     |     +-------KP410261.1_Cherax_quadricarinatus_densovirus
+|  +--|
+|  |  +------MT733049.1_Uncultured_densovirus_clone_PoaDV13
++--|
+   +-----------KY548840.1_Crassostrea_ariakensis_ambidensovirus_1_strain_CH-OY-1
+
+Tree in newick format:
+
+(MUSSEL|SD_SEAWATER|SAN_DIEGO|2024-02-21:0.1321871465,((NC_077036.1_Uncultured_densovirus_clone_AfDV:0.0563453790,MT733051.1_Uncultured_densovirus_clone_SSaDV:0.1542175074):0.0192452175,(MT733024.1_Uncultured_densovirus_clone_MaaDV1:0.0050743951,(MT733031.1_Uncultured_densovirus_clone_PhaDV1:0.0048742877,MT733037.1_Uncultured_densovirus_clone_PoaDV1:0.0024925718):0.0068329982):0.0884302217):0.0496323635,(((((((NC_038532.1_Sea_star-associated_densovirus:0.0000009717,KM052275.1_Sea_star-associated_densovirus:0.0000009717):0.2205667188,MW073793.1_Densovirinae_sp._isolate_Densovirus_like_sequence_2401:0.2007300137):1.1567300972,OK236393.1_Zander_parvovirus_strain_zander/M5/2015/HUN:1.3384868931):0.1347736173,(KU561552.1_Sea_otter_parvovirus_1_isolate_4850-06:0.3241029817,MN982959.1_California_sea_lion_parvovirus_strain_Hanchett_2:0.4362982729):1.3025785637):0.1589082713,(((MT733017.1_Uncultured_densovirus_clone_LaaDV1:0.2286548498,(MT733043.1_Uncultured_densovirus_clone_PoaDV7:0.4456225650,MT734805.1_Bat-associated_densovirus_2_isolate:1.0201238062):0.1282325721):0.0267202623,(BK066577.1_MAG_TPA_asm_Parvovirus_homo6198_isolate_Parvo6198:0.1735302115,MT733038.1_Uncultured_densovirus_clone_PoaDV2:0.1638443201):0.0692184282):0.0203740436,KP410261.1_Cherax_quadricarinatus_densovirus:0.2704486746):0.0226888166):0.0193385271,MT733049.1_Uncultured_densovirus_clone_PoaDV13:0.2356924165):0.0255343017,KY548840.1_Crassostrea_ariakensis_ambidensovirus_1_strain_CH-OY-1:0.4234594631):0.0528638814);
+
+TIME STAMP
+----------
+
+Date and time: Fri Apr 11 16:22:56 2025
+Total CPU time used: 17.6378 seconds (0h:0m:17s)
+Total wall-clock time used: 10.1009 seconds (0h:0m:10s)
+

@@ -1,0 +1,205 @@
+IQ-TREE multicore version 2.1.4-beta COVID-edition for Linux 64-bit built Jun 24 2021
+Developed by Bui Quang Minh, James Barbetti, Nguyen Lam Tung,
+Olga Chernomor, Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    ONT-9Z6B674 (AVX2, FMA3, 15 GB RAM)
+Command: iqtree -s sd_seawater_trimmed.fasta -nt AUTO -pre sd_seawater_phylo
+Seed:    389410 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Fri Apr 11 09:17:04 2025
+Kernel:  AVX+FMA - auto-detect threads (14 CPU cores detected)
+
+Reading alignment file sd_seawater_trimmed.fasta ... Fasta format detected
+Alignment most likely contains DNA/RNA sequences
+Alignment has 16 sequences with 1682 columns, 1681 distinct patterns
+1492 parsimony-informative, 175 singleton sites, 15 constant sites
+                                                                                                  Gap/Ambiguity  Composition  p-value
+   1  SD_SEAWATER|SAN_DIEGO|2024-02-21                                                                    2.73%    failed      1.78%
+   2  MW588038.1_Avon-Heathcote_Estuary_associated_circular_virus_25_strain_Abbotsbury/A/2016            37.75%    failed      0.00%
+   3  KM874355.1_Avon-Heathcote_Estuary_associated_circular_virus_25_isolate_AHEaCV-25-NZ-2942CO-2012     2.73%    failed      1.68%
+   4  KM874357.1_Avon-Heathcote_Estuary_associated_circular_virus_25_isolate_AHEaCV-25-NZ-1935SG-2012     2.73%    failed      1.14%
+   5  NC_026654.1_Avon-Heathcote_Estuary_associated_circular_virus_25_isolate_AHEaCV-25-NZ-1935SG-2012    2.73%    failed      1.14%
+   6  MK433220.1_Blackfly_DNA_Virus_6_isolate_SF01_308                                                   32.22%    passed     31.08%
+   7  MN103538.1_Beaked_whale_circovirus_strain_IP13001                                                  42.87%    failed      3.05%
+   8  ON456889.1_Tick-associated_circular_virus-6_isolate_Tick114CressC11                                18.43%    failed      0.00%
+   9  MK012475.1_MAG_Circoviridae_sp._isolate_ctcc28                                                      4.64%    failed      0.00%
+  10  OM154747.1_MAG_Cressdnaviricota_sp._isolate_Miresoil_virus_74                                       2.26%    failed      0.00%
+  11  KM598398.1_Odonata-associated_circular_virus-15_isolate_OdasCV-15-US-1640LM1-12                    10.52%    failed      3.94%
+  12  MN891809.1_Kummerowia_striata_CRESS_virus_strain_pt119-cre-7                                       14.09%    failed      0.00%
+  13  MW697732.1_MAG_Arizlama_virus_isolate_AZLM_186                                                     11.06%    failed      0.00%
+  14  MK012455.1_MAG_Cressdnaviricota_sp._isolate_ctjj384                                                31.99%    failed      0.00%
+  15  OR270673.1_MAG_Chemarfal_virus_13_isolate_CWS06                                                    16.41%    failed      0.00%
+  16  MN891823.1_Lactuca_sativa_CRESS_virus_strain_pt151-nep-10                                           8.09%    failed      0.05%
+****  TOTAL                                                                                              15.08%  15 sequences failed composition chi2 test (p-value<5%; df=3)
+NOTE: NC_026654.1_Avon-Heathcote_Estuary_associated_circular_virus_25_isolate_AHEaCV-25-NZ-1935SG-2012 is identical to KM874357.1_Avon-Heathcote_Estuary_associated_circular_virus_25_isolate_AHEaCV-25-NZ-1935SG-2012 but kept for subsequent analysis
+
+Creating fast initial parsimony tree by random order stepwise addition...
+13.925 seconds, parsimony score: 6421 (based on 1667 sites)
+Measuring multi-threading efficiency up to 14 CPU cores
+Increase to 10 rounds for branch lengths
+594 trees examined
+Threads: 1 / Time: 14.008 sec / Speedup: 1.000 / Efficiency: 100% / LogL: -23513
+Threads: 2 / Time: 7.817 sec / Speedup: 1.792 / Efficiency: 90% / LogL: -23513
+Threads: 3 / Time: 26.082 sec / Speedup: 0.537 / Efficiency: 18% / LogL: -23513
+BEST NUMBER OF THREADS: 2
+
+Perform fast likelihood tree search using GTR+I+G model...
+Estimate model parameters (epsilon = 5.000)
+Perform nearest neighbor interchange...
+Estimate model parameters (epsilon = 1.000)
+1. Initial log-likelihood: -22154.733
+Optimal log-likelihood: -22153.827
+Rate parameters:  A-C: 1.04622  A-G: 3.37693  A-T: 0.77266  C-G: 1.23114  C-T: 3.29534  G-T: 1.00000
+Base frequencies:  A: 0.273  C: 0.194  G: 0.222  T: 0.311
+Proportion of invariable sites: 0.000
+Gamma shape alpha: 5.100
+Parameters optimization took 1 rounds (0.030 sec)
+Time for fast ML tree search: 0.165 seconds
+
+NOTE: ModelFinder requires 8 MB RAM!
+ModelFinder will test up to 286 DNA models (sample size: 1682) ...
+ No. Model         -LnL         df  AIC          AICc         BIC
+  1  GTR+F         22189.381    37  44452.762    44454.472    44653.588
+  2  GTR+F+I       22187.665    38  44451.330    44453.134    44657.584
+  3  GTR+F+G4      22153.528    38  44383.055    44384.859    44589.309
+  4  GTR+F+I+G4    22153.580    39  44385.161    44387.061    44596.842
+  5  GTR+F+R2      22154.206    39  44386.412    44388.312    44598.093
+  6  GTR+F+R3      22152.701    41  44387.402    44389.502    44609.939
+ 16  SYM+G4        22251.699    35  44573.398    44574.929    44763.369
+ 17  SYM+I+G4      22251.723    36  44575.446    44577.066    44770.845
+ 18  SYM+R2        22253.032    36  44578.064    44579.684    44773.463
+ 29  TVM+F+G4      22153.513    37  44381.027    44382.737    44581.853
+ 30  TVM+F+I+G4    22153.581    38  44383.161    44384.965    44589.416
+ 31  TVM+F+R2      22154.201    38  44384.402    44386.206    44590.656
+ 42  TVMe+G4       22254.077    34  44576.154    44577.599    44760.697
+ 43  TVMe+I+G4     22254.094    35  44578.188    44579.719    44768.159
+ 44  TVMe+R2       22255.426    35  44580.852    44582.383    44770.823
+ 55  TIM3+F+G4     22158.048    36  44388.095    44389.715    44583.494
+ 56  TIM3+F+I+G4   22158.143    37  44390.287    44391.997    44591.113
+ 57  TIM3+F+R2     22158.935    37  44391.870    44393.580    44592.696
+ 68  TIM3e+G4      22251.954    33  44569.908    44571.269    44749.023
+ 69  TIM3e+I+G4    22251.985    34  44571.970    44573.415    44756.513
+ 70  TIM3e+R2      22253.273    34  44574.545    44575.990    44759.088
+ 81  TIM2+F+G4     22159.590    36  44391.179    44392.799    44586.578
+ 82  TIM2+F+I+G4   22159.683    37  44393.366    44395.077    44594.193
+ 83  TIM2+F+R2     22160.417    37  44394.834    44396.544    44595.660
+ 94  TIM2e+G4      22255.454    33  44576.907    44578.269    44756.023
+ 95  TIM2e+I+G4    22255.474    34  44578.948    44580.393    44763.491
+ 96  TIM2e+R2      22256.722    34  44581.443    44582.888    44765.986
+107  TIM+F+G4      22162.347    36  44396.695    44398.314    44592.093
+108  TIM+F+I+G4    22162.436    37  44398.872    44400.582    44599.698
+109  TIM+F+R2      22163.294    37  44400.589    44402.299    44601.415
+120  TIMe+G4       22254.940    33  44575.880    44577.242    44754.995
+121  TIMe+I+G4     22255.020    34  44578.040    44579.485    44762.583
+122  TIMe+R2       22256.156    34  44580.312    44581.758    44764.856
+133  TPM3u+F+G4    22158.100    35  44386.200    44387.731    44576.171
+134  TPM3u+F+I+G4  22158.192    36  44388.384    44390.004    44583.783
+135  TPM3u+F+R2    22158.974    36  44389.948    44391.567    44585.346
+146  TPM3+F+G4     22158.097    35  44386.194    44387.725    44576.165
+147  TPM3+F+I+G4   22158.194    36  44388.387    44390.007    44583.786
+148  TPM3+F+R2     22158.974    36  44389.948    44391.567    44585.346
+159  TPM2u+F+G4    22159.712    35  44389.424    44390.955    44579.395
+160  TPM2u+F+I+G4  22159.798    36  44391.597    44393.216    44586.995
+161  TPM2u+F+R2    22160.471    36  44392.942    44394.561    44588.340
+172  TPM2+F+G4     22159.712    35  44389.424    44390.955    44579.395
+173  TPM2+F+I+G4   22159.798    36  44391.597    44393.216    44586.995
+174  TPM2+F+R2     22160.471    36  44392.942    44394.561    44588.340
+185  K3Pu+F+G4     22162.425    35  44394.850    44396.381    44584.821
+186  K3Pu+F+I+G4   22162.519    36  44397.039    44398.658    44592.437
+187  K3Pu+F+R2     22163.343    36  44398.685    44400.305    44594.084
+198  K3P+G4        22257.152    32  44578.305    44579.586    44751.992
+199  K3P+I+G4      22257.212    33  44580.424    44581.786    44759.540
+200  K3P+R2        22258.289    33  44582.578    44583.940    44761.694
+211  TN+F+G4       22164.137    35  44398.275    44399.806    44588.245
+212  TN+F+I+G4     22164.229    36  44400.458    44402.077    44595.856
+213  TN+F+R2       22165.095    36  44402.191    44403.810    44597.589
+224  TNe+G4        22255.413    32  44574.825    44576.106    44748.513
+225  TNe+I+G4      22255.465    33  44576.931    44578.292    44756.046
+226  TNe+R2        22256.610    33  44579.219    44580.581    44758.335
+237  HKY+F+G4      22164.218    34  44396.435    44397.880    44580.978
+238  HKY+F+I+G4    22164.307    35  44398.614    44400.145    44588.585
+239  HKY+F+R2      22165.149    35  44400.299    44401.830    44590.270
+250  K2P+G4        22257.614    31  44577.227    44578.430    44745.487
+251  K2P+I+G4      22257.668    32  44579.336    44580.617    44753.024
+252  K2P+R2        22258.752    32  44581.504    44582.785    44755.192
+263  F81+F+G4      22688.182    33  45442.364    45443.726    45621.479
+264  F81+F+I+G4    22688.222    34  45444.444    45445.889    45628.987
+265  F81+F+R2      22689.338    34  45446.675    45448.120    45631.218
+276  JC+G4         22708.756    30  45477.511    45478.638    45640.343
+277  JC+I+G4       22708.804    31  45479.608    45480.810    45647.868
+278  JC+R2         22709.604    31  45481.208    45482.410    45649.467
+Akaike Information Criterion:           TVM+F+G4
+Corrected Akaike Information Criterion: TVM+F+G4
+Bayesian Information Criterion:         TPM3+F+G4
+Best-fit model: TPM3+F+G4 chosen according to BIC
+
+All model information printed to sd_seawater_phylo.model.gz
+CPU time for ModelFinder: 291.574 seconds (0h:4m:51s)
+Wall-clock time for ModelFinder: 66.219 seconds (0h:1m:6s)
+
+NOTE: 3 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -22158.097
+Optimal log-likelihood: -22158.097
+Rate parameters:  A-C: 1.27908  A-G: 3.72156  A-T: 1.00000  C-G: 1.27908  C-T: 3.72156  G-T: 1.00000
+Base frequencies:  A: 0.273  C: 0.194  G: 0.222  T: 0.311
+Gamma shape alpha: 5.604
+Parameters optimization took 1 rounds (0.009 sec)
+Computing ML distances based on estimated model parameters...
+Computing ML distances took 0.004069 sec (of wall-clock time) 0.002213 sec(of CPU time)
+Computing RapidNJ tree took 0.003354 sec (of wall-clock time) 0.003352 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -22159.575
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 0.049 second
+Computing log-likelihood of 98 initial trees ... 0.169 seconds
+Current best score: -22158.097
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -22158.097
+Iteration 10 / LogL: -22158.199 / Time: 0h:0m:0s
+Iteration 20 / LogL: -22158.118 / Time: 0h:0m:1s
+Finish initializing candidate tree set (3)
+Current best tree score: -22158.097 / CPU time: 1.125
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Iteration 30 / LogL: -22158.808 / Time: 0h:0m:1s (0h:0m:4s left)
+Iteration 40 / LogL: -22158.143 / Time: 0h:0m:1s (0h:0m:3s left)
+Iteration 50 / LogL: -22158.803 / Time: 0h:0m:2s (0h:0m:2s left)
+Iteration 60 / LogL: -22158.251 / Time: 0h:0m:3s (0h:0m:2s left)
+Iteration 70 / LogL: -22158.147 / Time: 0h:0m:3s (0h:0m:1s left)
+Iteration 80 / LogL: -22158.230 / Time: 0h:0m:4s (0h:0m:1s left)
+Iteration 90 / LogL: -22159.736 / Time: 0h:0m:4s (0h:0m:0s left)
+Iteration 100 / LogL: -22159.063 / Time: 0h:0m:4s (0h:0m:0s left)
+TREE SEARCH COMPLETED AFTER 102 ITERATIONS / Time: 0h:0m:4s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -22158.097
+Optimal log-likelihood: -22158.097
+Rate parameters:  A-C: 1.27974  A-G: 3.72313  A-T: 1.00000  C-G: 1.27974  C-T: 3.72313  G-T: 1.00000
+Base frequencies:  A: 0.273  C: 0.194  G: 0.222  T: 0.311
+Gamma shape alpha: 5.604
+Parameters optimization took 1 rounds (0.062 sec)
+BEST SCORE FOUND : -22158.097
+Total tree length: 8.596
+
+Total number of iterations: 102
+CPU time used for tree search: 8.622 sec (0h:0m:8s)
+Wall-clock time used for tree search: 4.804 sec (0h:0m:4s)
+Total CPU time used: 8.830 sec (0h:0m:8s)
+Total wall-clock time used: 5.555 sec (0h:0m:5s)
+
+Analysis results written to: 
+  IQ-TREE report:                sd_seawater_phylo.iqtree
+  Maximum-likelihood tree:       sd_seawater_phylo.treefile
+  Likelihood distances:          sd_seawater_phylo.mldist
+  Screen log file:               sd_seawater_phylo.log
+
+Date and Time: Fri Apr 11 09:18:19 2025

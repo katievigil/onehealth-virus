@@ -1,0 +1,94 @@
+{
+    "help": false,
+    "version": false,
+    "fastq": "/lustre/project/taw/kvigil/ONR/fastq_all_raw",
+    "bam": null,
+    "classifier": "minimap2",
+    "sample": null,
+    "sample_sheet": null,
+    "exclude_host": null,
+    "max_len": null,
+    "min_len": 200,
+    "min_read_qual": 15,
+    "threads": 4,
+    "server_threads": 2,
+    "kraken_clients": 2,
+    "taxonomy": "/lustre/project/taw/share/reference/NCBI_taxdump",
+    "reference": "/lustre/project/taw/share/reference/viral.1.1.genomic.fna",
+    "ref2taxid": "/lustre/project/taw/share/reference/ref2taxid.targloci.tsv",
+    "database": null,
+    "taxonomic_rank": "S",
+    "minimap2filter": null,
+    "minimap2exclude": false,
+    "keep_bam": false,
+    "minimap2_by_reference": true,
+    "min_percent_identity": 90,
+    "min_ref_coverage": 0,
+    "store_dir": "store_dir",
+    "out_dir": "/lustre/project/taw/kvigil/ONR/epi2me_out",
+    "include_read_assignments": true,
+    "igv": true,
+    "bracken_length": null,
+    "bracken_threshold": 10,
+    "port": 8080,
+    "host": "localhost",
+    "external_kraken2": false,
+    "kraken2_memory_mapping": false,
+    "kraken2_confidence": 0,
+    "batch_size": 0,
+    "real_time": false,
+    "read_limit": null,
+    "database_set": "Standard-8",
+    "database_sets": {
+        "ncbi_16s_18s": {
+            "reference": "https://ont-exd-int-s3-euwst1-epi2me-labs.s3.amazonaws.com/wf-metagenomics/ncbi_16s_18s/ncbi_targeted_loci_16s_18s.fna",
+            "database": "https://ont-exd-int-s3-euwst1-epi2me-labs.s3.amazonaws.com/wf-metagenomics/ncbi_16s_18s/ncbi_targeted_loci_kraken2.tar.gz",
+            "ref2taxid": "https://ont-exd-int-s3-euwst1-epi2me-labs.s3.amazonaws.com/wf-metagenomics/ncbi_16s_18s/ref2taxid.targloci.tsv",
+            "taxonomy": "https://ftp.ncbi.nlm.nih.gov/pub/taxonomy/taxdump_archive/new_taxdump_2024-09-01.zip"
+        },
+        "ncbi_16s_18s_28s_ITS": {
+            "reference": "https://ont-exd-int-s3-euwst1-epi2me-labs.s3.amazonaws.com/wf-metagenomics/ncbi_16s_18s_28s_ITS/ncbi_16s_18s_28s_ITS.fna",
+            "database": "https://ont-exd-int-s3-euwst1-epi2me-labs.s3.amazonaws.com/wf-metagenomics/ncbi_16s_18s_28s_ITS/ncbi_16s_18s_28s_ITS_kraken2.tar.gz",
+            "ref2taxid": "https://ont-exd-int-s3-euwst1-epi2me-labs.s3.amazonaws.com/wf-metagenomics/ncbi_16s_18s_28s_ITS/ref2taxid.ncbi_16s_18s_28s_ITS.tsv",
+            "taxonomy": "https://ftp.ncbi.nlm.nih.gov/pub/taxonomy/taxdump_archive/new_taxdump_2024-09-01.zip"
+        },
+        "SILVA_138_1": {
+            "database": null
+        },
+        "Standard-8": {
+            "database": "https://genome-idx.s3.amazonaws.com/kraken/k2_standard_08gb_20240605.tar.gz",
+            "taxonomy": "https://ftp.ncbi.nlm.nih.gov/pub/taxonomy/taxdump_archive/new_taxdump_2024-09-01.zip"
+        },
+        "PlusPF-8": {
+            "database": "https://genome-idx.s3.amazonaws.com/kraken/k2_pluspf_08gb_20240605.tar.gz",
+            "taxonomy": "https://ftp.ncbi.nlm.nih.gov/pub/taxonomy/taxdump_archive/new_taxdump_2024-09-01.zip"
+        },
+        "PlusPFP-8": {
+            "database": "https://genome-idx.s3.amazonaws.com/kraken/k2_pluspfp_08gb_20240605.tar.gz",
+            "taxonomy": "https://ftp.ncbi.nlm.nih.gov/pub/taxonomy/taxdump_archive/new_taxdump_2024-09-01.zip"
+        }
+    },
+    "amr": false,
+    "amr_db": "resfinder",
+    "amr_minid": 80,
+    "amr_mincov": 80,
+    "aws_image_prefix": null,
+    "aws_queue": null,
+    "disable_ping": false,
+    "monochrome_logs": false,
+    "validate_params": true,
+    "show_hidden_params": false,
+    "analyse_unclassified": false,
+    "schema_ignore_params": "show_hidden_params,validate_params,monochrome_logs,aws_queue,aws_image_prefix,database_sets,wf",
+    "abundance_threshold": 0,
+    "n_taxa_barplot": 20,
+    "wf": {
+        "example_cmd": [
+            "--fastq wf-metagenomics-demo/test_data"
+        ],
+        "agent": null,
+        "container_sha": "sha1adcb94088d2397b0d61c0393035f51b1013226a",
+        "common_sha": "shaabceef445fb63214073cbf5836fdd33c04be4ac7",
+        "container_sha_amr": "sha2ae47c3f988b71f7cf81c37c000f6cb046e18357"
+    }
+}

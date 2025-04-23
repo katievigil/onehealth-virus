@@ -1,0 +1,3349 @@
+RID: Z2GRG5XM013	
+Job Title:Nucleotide Sequence				
+Program: BLASTX 
+Database: nr All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF excluding environmental samples from WGS projects
+Query #1:  Query ID: lcl|Query_7460543 Length: 2141
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+putative capsid protein [Avon-Heathcote Estuary associated...     Avon-Heathco... NA              1618249    640    640   49%   0.0    90.78  347        AJP36462.1       
+putative capsid protein [Avon-Heathcote Estuary associated...     Avon-Heathco... NA              1618249    636    636   49%   0.0    90.20  347        YP_009126940.1   
+replication protein [Avon-Heathcote Estuary associated circula... Avon-Heathco... NA              1618249    550    550   41%   0.0    96.59  294        QUS52500.1       
+replication-associated protein [Avon-Heathcote Estuary...         Avon-Heathco... NA              1618249    523    523   41%   4e-180 88.74  294        YP_009126941.1   
+MAG: Rep catalytic domain protein [Circoviridae sp.]              Circoviridae... NA              1954248    289    289   40%   1e-88  51.03  322        AYP28808.1       
+MAG: replication associated protein [Cressdnaviricota sp.]        Cressdnaviri... NA              2748378    246    246   40%   1e-72  45.94  313        WAE42549.1       
+replication-associated protein [Odonata-associated circular...    Odonata-asso... NA              1592115    226    226   40%   9e-65  41.81  313        YP_009551674.1   
+Rep [Kummerowia striata CRESS virus]                              Kummerowia s... NA              2740167    196    196   40%   9e-54  39.86  289        QKI29022.1       
+MAG: replication associated protein [Arizlama virus]              Arizlama virus  NA              2859451    194    194   40%   2e-52  39.04  349        QXP07724.1       
+rep protein [Cressdnaviricota sp.]                                Cressdnaviri... NA              2748378    189    189   40%   3e-51  39.18  298        UOF78304.1       
+replication-associated protein [Tick-associated circular virus-6] Tick-associa... NA              2951488    183    183   40%   1e-48  37.46  347        USZ80633.1       
+rep protein [Cressdnaviricota sp.]                                Cressdnaviri... NA              2748378    180    180   35%   2e-48  41.31  272        UOF79021.1       
+MAG: replication polyprotein [Chemarfal virus 13]                 Chemarfal vi... NA              3063458    180    180   39%   4e-48  36.77  294        WPR18683.1       
+Rep [Lactuca sativa CRESS virus]                                  Lactuca sati... NA              2709779    179    179   40%   1e-47  36.86  296        QKI29038.1       
+Rep [Trichosanthes kirilowii CRESS virus]                         Trichosanthe... NA              2740170    178    178   40%   2e-47  37.76  292        QKI29006.1       
+MAG: Rep catalytic domain protein [Cressdnaviricota sp.]          Cressdnaviri... NA              2748378    177    177   40%   3e-47  36.77  284        AXH74413.1       
+Rep [Forsythia suspensa CRESS virus]                              Forsythia su... NA              2709778    179    179   40%   5e-47  39.19  329        QKI28988.1       
+MAG: replication associated protein [Virus sp.]                   Virus sp.       NA              2202649    178    178   40%   8e-47  39.66  322        QXN75545.1       
+MAG: capsid protein [Cressdnaviricota sp.]                        Cressdnaviri... NA              2748378    177    177   39%   3e-46  35.11  353        WAE42550.1       
+MAG: Rep protein [Cressdnaviricota sp.]                           Cressdnaviri... NA              2748378    175    175   40%   3e-46  39.02  297        XNT21076.1       
+replication-associated protein [Capybara virus 11_cap1_98]        Capybara vir... NA              2585038    173    173   40%   1e-45  39.30  283        QDJ95229.1       
+MAG: replication associated protein [Arizlama virus]              Arizlama virus  NA              2859451    172    172   39%   5e-45  37.46  291        QXP07668.1       
+replication associated protein [Lake Sarah-associated circular... Lake Sarah-a... NA              1685774    171    171   40%   8e-45  37.02  292        YP_009237598.1   
+replication-associated protein [Odonata-associated circular...    Odonata-asso... NA              1592127    171    171   40%   1e-44  35.47  296        YP_009553348.1   
+MAG: replication protein catalytic domain-like protein...         clidnopec vi... NA              3368079    171    171   39%   1e-44  37.50  318        XII43166.1       
+MAG: replication associated protein [Arizlama virus]              Arizlama virus  NA              2859451    169    169   40%   3e-44  35.53  292        QXP07692.1       
+MAG: replication-associated protein [Grus japonensis...           Grus japonen... NA              2815045    169    169   40%   8e-44  36.81  315        QTE03377.1       
+MAG: replication protein catalytic domain-like protein...         clidnopec vi... NA              3367865    167    167   38%   3e-43  37.63  302        XII43246.1       
+Rep [uncultured virus]                                            uncultured v... NA              340016     167    167   40%   4e-43  37.25  305        AUM61691.1       
+MAG: replication-associated protein [Cressdnaviricota sp.]        Cressdnaviri... NA              2748378    166    166   39%   6e-43  37.01  287        WAQ80619.1       
+MAG: Rep catalytic domain protein [Cressdnaviricota sp.]          Cressdnaviri... NA              2748378    164    164   40%   3e-42  36.81  292        AXH73298.1       
+MAG: replication associated protein [Cressdnaviricota sp.]        Cressdnaviri... NA              2748378    163    163   39%   7e-42  36.27  288        WAE42523.1       
+MAG: replication associated protein [Wigfec virus K19_450]        Wigfec virus... NA              2985993    163    163   39%   8e-42  36.86  288        UYD39087.1       
+MAG: replication protein catalytic domain-like protein...         clidnopec vi... NA              3367995    162    162   40%   1e-41  36.11  292        XII43153.1       
+MAG: replication associated protein [Arizlama virus]              Arizlama virus  NA              2859451    161    161   39%   3e-41  36.27  288        QXP07732.1       
+Rep [Nepavirus]                                                   Nepavirus       NA              1224510    161    161   38%   3e-41  34.74  281        YP_009021041.1   
+MAG: replication associated protein [Comazfec virus 9]            Comazfec vir... NA              3112656    156    156   35%   8e-40  40.31  258        WVR22032.1       
+replication-associated protein [Blackfly DNA Virus 9]             Blackfly DNA... NA              2586189    157    157   40%   1e-39  32.33  307        QCX35037.1       
+rep protein [Cressdnaviricota sp.]                                Cressdnaviri... NA              2748378    156    156   39%   3e-39  36.39  301        UOF76973.1       
+replication-associated protein [Tick-associated circular virus-5] Tick-associa... NA              2951487    155    155   40%   6e-39  31.42  316        USZ80631.1       
+Rep [Trichosanthes kirilowii CRESS virus]                         Trichosanthe... NA              2740170    155    155   40%   9e-39  33.88  306        QKI29002.1       
+replication-associated protein [Stipagrostis associaed virus]     Stipagrostis... NA              2282646    153    153   40%   2e-38  33.56  300        YP_009552054.1   
+MAG: Rep protein [Cressdnaviricota sp.]                           Cressdnaviri... NA              2748378    154    154   39%   3e-38  33.01  335        XNT21152.1       
+Rep [Forsythia suspensa CRESS virus]                              Forsythia su... NA              2709778    154    154   39%   4e-38  35.81  352        QKI28986.1       
+putative Rep protein [Circovirus-like genome DCCV-2]              Circovirus-l... NA              1788442    150    150   39%   2e-37  34.24  297        YP_009259705.1   
+Rep [Forsythia suspensa CRESS virus]                              Forsythia su... NA              2709778    151    151   35%   3e-37  38.82  335        QKI28984.1       
+rep protein [Cressdnaviricota sp.]                                Cressdnaviri... NA              2748378    149    149   39%   9e-37  35.46  292        UOF80776.1       
+MAG: replication associated protein [Dumus virus 6]               Dumus virus 6   NA              3134366    149    149   40%   1e-36  35.65  306        WYA80264.1       
+Rep [Trichosanthes kirilowii CRESS virus]                         Trichosanthe... NA              2740170    149    149   35%   3e-36  37.80  335        QKI29000.1       
+Rep [Lactuca sativa CRESS virus]                                  Lactuca sati... NA              2709779    146    146   39%   8e-36  33.66  306        QKI29040.1       
+rep protein [Cressdnaviricota sp.]                                Cressdnaviri... NA              2748378    146    146   37%   4e-35  35.64  364        UOF82593.1       
+MAG: replication-associated protein [Cressdnaviricota sp.]        Cressdnaviri... NA              2748378    139    139   18%   5e-35  51.88  157        QJI53683.1       
+MAG: replication-associated protein [Cressdnaviricota sp.]        Cressdnaviri... NA              2748378    142    142   40%   2e-34  35.35  310        QRI44113.1       
+replication-associated protein [Arctopus echinatus-associated...  Arctopus ech... NA              2282642    142    142   39%   3e-34  33.88  319        YP_009553657.1   
+MAG: replication-associated protein [Emberiza rustica...          Emberiza rus... NA              2815032    142    142   40%   4e-34  31.53  329        QTE03478.1       
+replication-associated protein [Tick-associated circular DNA...   Tick-associa... NA              2963861    142    142   40%   7e-34  31.41  329        UTM74974.1       
+MAG: Rep catalytic domain protein [Cressdnaviricota sp.]          Cressdnaviri... NA              2748378    140    140   40%   2e-33  30.48  328        AXH77272.1       
+replication-associated protein [Cressdnavirus D_HF4_1386]         Cressdnaviru... NA              3071199    140    140   41%   2e-33  31.08  330        WMC00976.1       
+MAG: replication associated protein [Cressdnaviricota sp.]        Cressdnaviri... NA              2748378    139    139   40%   4e-33  34.63  304        WAE42561.1       
+replication-associated protein [Dulem virus 19]                   Dulem virus 19  NA              3134288    139    139   40%   5e-33  31.19  328        WYA80337.1       
+rep protein [Cressdnaviricota sp.]                                Cressdnaviri... NA              2748378    133    133   23%   2e-32  43.27  174        UOF76850.1       
+replication-associated protein [Dulem virus 18]                   Dulem virus 18  NA              3134287    136    136   40%   6e-32  30.79  328        WYA80339.1       
+replication-associated protein [Pacific flying fox faeces...      Pacific flyi... NA              1796011    137    137   41%   8e-32  30.18  363        AMH87764.1       
+MAG: replication-associated protein [Grus japonensis...           Grus japonen... NA              2815045    135    135   40%   2e-31  33.66  344        QTE03368.1       
+replication-associated protein [Red panda feces-associated...     Red panda fe... NA              2863964    134    134   40%   2e-31  31.51  317        UBJ26227.1       
+replication-associated protein [Pacific flying fox faeces...      Pacific flyi... NA              1796011    135    135   41%   2e-31  29.88  363        AMH87760.1       
+MAG: replication-associated protein [Cressdnaviricota sp.]        Cressdnaviri... NA              2748378    134    134   40%   3e-31  30.62  328        QJI53681.1       
+replication-associated protein [Blackfly DNA Virus 16]            Blackfly DNA... NA              2586179    134    134   40%   5e-31  31.72  340        QCX35051.1       
+Rep [uncultured virus]                                            uncultured v... NA              340016     127    127   16%   7e-31  54.39  145        AUM61721.1       
+MAG: capsid protein [Cressdnaviricota sp.]                        Cressdnaviri... NA              2748378    132    132   38%   2e-30  33.94  351        WAE42308.1       
+MAG: replication associated protein [Dumus virus 9]               Dumus virus 9   NA              3134374    131    131   40%   4e-30  31.15  328        WYA80272.1       
+replication-associated protein [Bromus-associated circular DNA... Bromus-assoc... NA              1590172    131    131   40%   4e-30  29.94  357        YP_009116789.1   
+MAG: replication protein catalytic domain-like protein...         clidnopec vi... NA              3367902    130    130   40%   5e-30  32.20  304        XII43281.1       
+MAG: Rep catalytic domain protein [Circoviridae sp.]              Circoviridae... NA              1954248    129    129   40%   1e-29  34.77  293        AXH73085.1       
+Rep [uncultured virus]                                            uncultured v... NA              340016     128    128   40%   2e-29  31.77  302        AUM61789.1       
+replication-associated protein [Trifolium-associated circular...  Trifolium-as... NA              1590173    129    129   40%   4e-29  29.62  355        YP_009117064.1   
+rep protein [Cressdnaviricota sp.]                                Cressdnaviri... NA              2748378    122    122   24%   8e-29  42.77  178        UOF82679.1       
+Rep [uncultured virus]                                            uncultured v... NA              340016     128    128   40%   9e-29  31.51  361        AUM61713.1       
+MAG: replication associated protein [Cressdnaviricota sp.]        Cressdnaviri... NA              2748378    125    125   40%   2e-28  29.53  302        WAE42419.1       
+replication associated protein [Gopherus associated circular D... Gopherus ass... NA              2041419    125    125   40%   4e-28  31.92  327        YP_009551382.1   
+MAG: replication protein catalytic domain-like protein...         clidnopec vi... NA              3368048    123    123   39%   1e-27  31.65  304        XII43200.1       
+MAG: replication protein catalytic domain-like protein...         clidnopec vi... NA              3367915    123    123   38%   2e-27  32.40  311        XII43426.1       
+MAG: Rep catalytic domain protein [Cressdnaviricota sp.]          Cressdnaviri... NA              2748378    122    122   40%   2e-27  30.99  318        AXH77346.1       
+replication-associated protein [Dulem virus 13]                   Dulem virus 13  NA              3134282    123    123   39%   3e-27  32.00  357        WYA80336.1       
+MAG: replication-associated protein, partial [Phoenicurus...      Phoenicurus ... NA              2815053    121    121   40%   6e-27  30.03  317        QTE03545.1       
+MAG: capsid protein [Cressdnaviricota sp.]                        Cressdnaviri... NA              2748378    120    120   38%   2e-26  31.79  338        WAE42362.1       
+replication-associated protein [Tick-associated circular DNA...   Tick-associa... NA              2963861    120    120   40%   3e-26  32.69  366        UTM74968.1       
+Rep [uncultured virus]                                            uncultured v... NA              340016     120    120   41%   4e-26  32.15  378        AUM61624.1       
+Rep [uncultured virus]                                            uncultured v... NA              340016     119    119   41%   2e-25  31.83  376        AUM62043.1       
+MAG: replication protein catalytic domain-like protein...         clidnopec vi... NA              3367889    116    116   40%   4e-25  30.32  314        XII43404.1       
+MAG: putative capsid protein [Circoviridae sp.]                   Circoviridae... NA              1954248    116    116   35%   9e-25  34.24  352        AYP28807.1       
+MAG: capsid protein [Cressdnaviricota sp.]                        Cressdnaviri... NA              2748378    115    115   39%   1e-24  28.93  338        WAE42454.1       
+Rep [uncultured virus]                                            uncultured v... NA              340016     114    114   38%   2e-24  29.55  330        AUM61719.1       
+replication-associated protein [Capybara virus 2_cap1_255]        Capybara vir... NA              2585058    113    113   40%   3e-24  32.69  314        QDJ95211.1       
+replication-associated protein [Bromus-associated circular DNA... Bromus-assoc... NA              1590154    111    111   40%   5e-23  28.53  361        YP_009116647.1   
+replication-associated protein [Bromus-associated circular DNA... Bromus-assoc... NA              1590154    111    111   40%   5e-23  28.53  361        AJC52521.1       
+MAG: capsid protein [Cressdnaviricota sp.]                        Cressdnaviri... NA              2748378    109    109   29%   1e-22  31.22  354        WAE42143.1       
+MAG: capsid protein [Cressdnaviricota sp.]                        Cressdnaviri... NA              2748378    108    108   34%   2e-22  29.96  333        WAE42971.1       
+MAG: replication-associated protein, partial [Ficedula parva...   Ficedula par... NA              2815036    107    107   15%   6e-22  51.69  361        QTE03484.1       
+MAG: replication-associated protein [Cressdnaviricota sp.]        Cressdnaviri... NA              2748378    105    105   15%   2e-21  50.93  283        AXH75780.1       
+
+
+Alignments:
+
+>putative capsid protein [Avon-Heathcote Estuary associated circular virus 25]
+Sequence ID: AJP36462.1 Length: 347
+>putative capsid protein [Avon-Heathcote Estuary associated circular virus 25]
+Sequence ID: AJP36464.1 Length: 347
+>putative capsid protein [Avon-Heathcote Estuary associated circular virus 25]
+Sequence ID: AJP36467.1 Length: 347
+>capsid protein [Avon-Heathcote Estuary associated circular virus 25]
+Sequence ID: QUS52499.1 Length: 347 
+Range 1: 1 to 347
+
+Score:640 bits(1651), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:315/347(91%), Positives:332/347(95%), Gaps:0/347(0%)
+
+Query  63    MAYNGRRRVARSNRYNAGRYHPYSPYSLRSAVRVGRYLGNYARKSFNTWrskarskkqrr  242
+             M+YNGRRRVARS+RYNA RY PYSPYSLRSAVRVGRYLGNYARKSFN WRSK  +KKQRR
+Sbjct  1     MSYNGRRRVARSSRYNARRYSPYSPYSLRSAVRVGRYLGNYARKSFNNWRSKTSAKKQRR  60
+
+Query  243   sIGNKIISASNGIGYSNFRESRKCYPMVRNMLKAGTLSVYKYVDTKRMEWDAGSQGVLNV  422
+             SIGNKIISASNGIGYSNFRE+RKCYP VRNMLKAGTLSVYKYVDTKR+EWDAGSQGVLNV
+Sbjct  61    SIGNKIISASNGIGYSNFRENRKCYPNVRNMLKAGTLSVYKYVDTKRLEWDAGSQGVLNV  120
+
+Query  423   ATTFGVQQLQNVMSNIGASAVGDDTTRMVVKSVTGSLNISNMSNANVLITLYDVVARTDS  602
+             ATTFGVQQ+QNVM+NIGASA GDDTTRMVVK VTGS+NISNMSNANVLITLYDVVARTDS
+Sbjct  121   ATTFGVQQIQNVMNNIGASANGDDTTRMVVKGVTGSVNISNMSNANVLITLYDVVARTDS  180
+
+Query  603   NTSSAWTNPLDAWANGLEDTEEGGTIAAARTNIGATPFQSVMFCRKYRVLKVTKIYMEAG  782
+             NTSSAW NPL+AW NGLED+EEGG++AA R NIGATPFQSVMFCRKYRV+KVTKIYMEAG
+Sbjct  181   NTSSAWANPLNAWGNGLEDSEEGGSVAAGRNNIGATPFQSVMFCRKYRVMKVTKIYMEAG  240
+
+Query  783   RSHIHYIKRNMNSVLNNSILETNETNLANKTHYCFAVGRGFPVNDATTDTNIALGSGALD  962
+             RSHIHYIKRNMNSVLNNSI+ETNETNLANKTHYCFAV RGFPVNDATTDTNIALGSGALD
+Sbjct  241   RSHIHYIKRNMNSVLNNSIMETNETNLANKTHYCFAVARGFPVNDATTDTNIALGSGALD  300
+
+Query  963   FVFTETYEQVWPQYALKRYYFSDQQGTITSEKLMNAETGEGDVYEEV  1103
+             FVFTETY+QVWPQYALKRYY++DQQ  ITSEKLMNAETGEGDVYEEV
+Sbjct  301   FVFTETYQQVWPQYALKRYYYNDQQQAITSEKLMNAETGEGDVYEEV  347
+
+
+
+
+>putative capsid protein [Avon-Heathcote Estuary associated circular virus 25]
+Sequence ID: YP_009126940.1 Length: 347
+>putative capsid protein [Avon-Heathcote Estuary associated circular virus 25]
+Sequence ID: AJP36466.1 Length: 347 
+Range 1: 1 to 347
+
+Score:636 bits(1641), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:313/347(90%), Positives:331/347(95%), Gaps:0/347(0%)
+
+Query  63    MAYNGRRRVARSNRYNAGRYHPYSPYSLRSAVRVGRYLGNYARKSFNTWrskarskkqrr  242
+             M+YNGRRRVARS+RYNA RY PYSPYSLRSAVRVGRYLGNYARKSFN WRSK  +KKQRR
+Sbjct  1     MSYNGRRRVARSSRYNARRYSPYSPYSLRSAVRVGRYLGNYARKSFNNWRSKTSAKKQRR  60
+
+Query  243   sIGNKIISASNGIGYSNFRESRKCYPMVRNMLKAGTLSVYKYVDTKRMEWDAGSQGVLNV  422
+             +IGNKIISASNGIGYS FRE+RKCYP VRNMLKAGTLSVYKYVDTKR+EWDAGSQGVLNV
+Sbjct  61    NIGNKIISASNGIGYSYFRENRKCYPNVRNMLKAGTLSVYKYVDTKRLEWDAGSQGVLNV  120
+
+Query  423   ATTFGVQQLQNVMSNIGASAVGDDTTRMVVKSVTGSLNISNMSNANVLITLYDVVARTDS  602
+             ATTFGVQQ+QNVM+NIGASA GDDTTRMVVK VTGS+NISNMSNANVLITLYDVVARTDS
+Sbjct  121   ATTFGVQQIQNVMNNIGASANGDDTTRMVVKGVTGSVNISNMSNANVLITLYDVVARTDS  180
+
+Query  603   NTSSAWTNPLDAWANGLEDTEEGGTIAAARTNIGATPFQSVMFCRKYRVLKVTKIYMEAG  782
+             NTSSAW NPL+AW NGLED+EEGG++AA R NIGATPFQSVMFCRKYRV+KVTKIYMEAG
+Sbjct  181   NTSSAWANPLNAWGNGLEDSEEGGSVAAGRNNIGATPFQSVMFCRKYRVMKVTKIYMEAG  240
+
+Query  783   RSHIHYIKRNMNSVLNNSILETNETNLANKTHYCFAVGRGFPVNDATTDTNIALGSGALD  962
+             RSHIHYIKRNMNSVLNNSI+ETNETNLANKTHYCFAV RGFPVNDATTDTNIALGSGALD
+Sbjct  241   RSHIHYIKRNMNSVLNNSIMETNETNLANKTHYCFAVARGFPVNDATTDTNIALGSGALD  300
+
+Query  963   FVFTETYEQVWPQYALKRYYFSDQQGTITSEKLMNAETGEGDVYEEV  1103
+             FVFTETY+QVWPQYALKRYY++DQQ  ITSEKLMNAETGEGDVYEEV
+Sbjct  301   FVFTETYQQVWPQYALKRYYYNDQQQAITSEKLMNAETGEGDVYEEV  347
+
+
+
+
+>replication protein [Avon-Heathcote Estuary associated circular virus 25]
+Sequence ID: QUS52500.1 Length: 294
+Range 1: 1 to 293
+
+Score:550 bits(1417), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:283/293(97%), Positives:287/293(97%), Gaps:0/293(0%)
+
+Query  1987  MARENRFRLQCRKLFLTYPHCTASIQEVYDLIHSKKEVKFARICIEPHSDGTPHIHAAIH  1808
+             MA+ENRFRLQCRKLFLTYPHCTASIQEVYDLIHSKKEVKFARICIEPHSDGTPHIHAAIH
+Sbjct  1     MAKENRFRLQCRKLFLTYPHCTASIQEVYDLIHSKKEVKFARICIEPHSDGTPHIHAAIH  60
+
+Query  1807  FTKKVNICNARLFDINDHHCNMESVKNWPATLNYCKKGdnwqdfdndddpdkpiddDLCE  1628
+             F KKVNICNARLFDINDHHCNMESVKNWPATLNYCKKGDNWQDFDNDDDPDKPIDDDL E
+Sbjct  61    FAKKVNICNARLFDINDHHCNMESVKNWPATLNYCKKGDNWQDFDNDDDPDKPIDDDLFE  120
+
+Query  1627  LAETMPAKEYWEYCRRKKVPFAYASNALRDKKSMFTITDSTNYGIIREDLGAYTITEDAP  1448
+             LAETMPAKEYWEYCRRKKVPFAYASNALR KKSMFTITDSTNYGIIREDLGAYTITEDAP
+Sbjct  121   LAETMPAKEYWEYCRRKKVPFAYASNALRGKKSMFTITDSTNYGIIREDLGAYTITEDAP  180
+
+Query  1447  ANLTSTVLVGPSGIGKTTWALRECQKPSLLVTHLDGLRQLNGSHKSIIFDDMSFTHIPRE  1268
+             ANLTSTVLVGPSGIGKT+WALRE QKP+LLVTHLD LRQL+GSHKSIIFDDMSFTHIPRE
+Sbjct  181   ANLTSTVLVGPSGIGKTSWALRESQKPALLVTHLDALRQLDGSHKSIIFDDMSFTHIPRE  240
+
+Query  1267  AQIHLVDRFQPRQIHVRYGTADIPAGIQKIFTANQYPFVPDPAIDRRVNNKNL  1109
+             AQIHLVDRFQPRQIHVRYGTADIPAGIQKIFTANQYPFV DPAIDRRVNNKNL
+Sbjct  241   AQIHLVDRFQPRQIHVRYGTADIPAGIQKIFTANQYPFVADPAIDRRVNNKNL  293
+
+
+
+
+>replication-associated protein [Avon-Heathcote Estuary associated circular virus 25]
+Sequence ID: YP_009126941.1 Length: 294
+>replication-associated protein [Avon-Heathcote Estuary associated circular virus 25]
+Sequence ID: AJP36461.1 Length: 294
+>replication-associated protein [Avon-Heathcote Estuary associated circular virus 25]
+Sequence ID: AJP36463.1 Length: 294
+>replication-associated protein [Avon-Heathcote Estuary associated circular virus 25]
+Sequence ID: AJP36465.1 Length: 294
+>replication-associated protein [Avon-Heathcote Estuary associated circular virus 25]
+Sequence ID: AJP36468.1 Length: 294 
+Range 1: 1 to 293
+
+Score:523 bits(1347), Expect:4e-180, 
+Method:Compositional matrix adjust., 
+Identities:260/293(89%), Positives:280/293(95%), Gaps:0/293(0%)
+
+Query  1987  MARENRFRLQCRKLFLTYPHCTASIQEVYDLIHSKKEVKFARICIEPHSDGTPHIHAAIH  1808
+             MARENRFRLQCR+LFLTYPHCTASIQEVYDLIHSKKE+KFARICIEPHSDGTPHIHAA+ 
+Sbjct  1     MARENRFRLQCRRLFLTYPHCTASIQEVYDLIHSKKEIKFARICIEPHSDGTPHIHAAVM  60
+
+Query  1807  FTKKVNICNARLFDINDHHCNMESVKNWPATLNYCKKGdnwqdfdndddpdkpiddDLCE  1628
+             F KKVNICNARLFDINDHHCNMES+KNWPATLNYCKKGDNW+DFDNDDDPD+P+ D+L E
+Sbjct  61    FAKKVNICNARLFDINDHHCNMESIKNWPATLNYCKKGDNWEDFDNDDDPDQPMQDNLFE  120
+
+Query  1627  LAETMPAKEYWEYCRRKKVPFAYASNALRDKKSMFTITDSTNYGIIREDLGAYTITEDAP  1448
+             LAETMP+ ++WEYCR KKVPFAYASNA+R KKSMFTITDST YGIIREDLGAYTITED+P
+Sbjct  121   LAETMPSNDFWEYCRLKKVPFAYASNAMRKKKSMFTITDSTPYGIIREDLGAYTITEDSP  180
+
+Query  1447  ANLTSTVLVGPSGIGKTTWALRECQKPSLLVTHLDGLRQLNGSHKSIIFDDMSFTHIPRE  1268
+             A L STVLVGPSGIGKT+WA+RE +KPSLLVTH+D LR+LNGSHKSIIFDDMSFTHIPRE
+Sbjct  181   ATLASTVLVGPSGIGKTSWAIRESEKPSLLVTHMDALRKLNGSHKSIIFDDMSFTHIPRE  240
+
+Query  1267  AQIHLVDRFQPRQIHVRYGTADIPAGIQKIFTANQYPFVPDPAIDRRVNNKNL  1109
+             AQIHLVDRFQPRQ+HVRYGTADIPAGIQKIFTANQYPFV DPAIDRRV+NKNL
+Sbjct  241   AQIHLVDRFQPRQVHVRYGTADIPAGIQKIFTANQYPFVADPAIDRRVHNKNL  293
+
+
+
+
+>MAG: Rep catalytic domain protein [Circoviridae sp.]
+Sequence ID: AYP28808.1 Length: 322
+Range 1: 9 to 298
+
+Score:289 bits(740), Expect:1e-88, 
+Method:Compositional matrix adjust., 
+Identities:148/290(51%), Positives:194/290(66%), Gaps:5/290(1%)
+
+Query  1975  NRFRLQCRKLFLTYPHCTASIQEVYDLIHSKKEVKFARICIEPHSDGTPHIHAAIHFTKK  1796
+              +FR+Q +KL LTYP CT +  +++D I+ KKEV+ ARICIE H DG PH+HAAI F + 
+Sbjct  9     GKFRIQAKKLLLTYPQCTLTQDKLFDFINGKKEVQHARICIELHQDGHPHLHAAIEFKQM  68
+
+Query  1795  VNICNARLFDINDHHCNMESVKNWPATLNYCKKGd--nwqdfdndddpdkpiddDLCELA  1622
+             +   N R FD+   H N+E  +NW A+LNY KKGD            PD   D +L E+A
+Sbjct  69    LETENCRYFDLEGFHPNVEKTRNWEASLNYVKKGDNWKDYGAPAPIGPDHIDDSELVEVA  128
+
+Query  1621  ETMPAKEYWEYCRRKKVPFAYASNALRDKKSMFTITDST--NYGIIREDLGAYTI-TEDA  1451
+             ++M  +E++ YCR K++ +AYA  A R ++S+F++T S      IIREDL A TI +E  
+Sbjct  129   DSMTEREFFHYCRTKRIAYAYADRAWRMRESIFSVTHSEIPENAIIREDLDAITIGSEKL  188
+
+Query  1450  PANLTSTVLVGPSGIGKTTWALRECQKPSLLVTHLDGLRQLNGSHKSIIFDDMSFTHIPR  1271
+             P +  S V++GP+G GKTTWA++   KP+L VTH+DGLR L   HKSIIFDDMSF H+PR
+Sbjct  189   PNDTRSIVVMGPTGCGKTTWAIKNVNKPALFVTHMDGLRCLRAEHKSIIFDDMSFQHLPR  248
+
+Query  1270  EAQIHLVDRFQPRQIHVRYGTADIPAGIQKIFTANQYPFVPDPAIDRRVN  1121
+             E QIH+ DR + RQIH RYG A IPAGIQK+FT N   F P P + RR+N
+Sbjct  249   ETQIHIADRVRDRQIHCRYGFASIPAGIQKVFTTNVEIFGPIPEVKRRLN  298
+
+
+
+
+>MAG: replication associated protein [Cressdnaviricota sp.]
+Sequence ID: WAE42549.1 Length: 313
+Range 1: 27 to 308
+
+Score:246 bits(629), Expect:1e-72, 
+Method:Compositional matrix adjust., 
+Identities:130/283(46%), Positives:182/283(64%), Gaps:2/283(0%)
+
+Query  1966  RLQCRKLFLTYPHCTASIQEVYDLIHSKKEVKFARICIEPHSDGTPHIHAAIHFTKKVNI  1787
+             R Q +++FLTYP C   I  +Y  +   + ++FA I  E H  G  HIHA + F  +V  
+Sbjct  27    RFQGKRVFLTYPMCPLDINVMYAELEKIENIQFACIAREMHESGDFHIHAVVEFKDRVRG  86
+
+Query  1786  CNARLFDINDHHCNMESVKNWPATLNYCKKGdnwqdfdndddpdkpiddDLCELAETMPA  1607
+               + +F+I D+H N++  +NW A L Y +K +++ +F +   P K   D L ++A TM  
+Sbjct  87    PCSTVFNILDYHPNIQIPRNWNACLAYVRKDNDFINFGDATAPSKSKKDSLFDVANTMAH  146
+
+Query  1606  KEYWEYCRRKKVPFAYASNALRDKKSMFTITDS-TNYGIIREDLGAYTITEDAPANLTST  1430
+              +Y++YCR + + FAYA  A  ++ SMFT+  S +  G IR DLG  ++ E    ++   
+Sbjct  147   NDYFDYCRNENIQFAYAQLAWSNRNSMFTLNSSGSRKGTIRFDLGCLSL-EQEEDDIRCI  205
+
+Query  1429  VLVGPSGIGKTTWALRECQKPSLLVTHLDGLRQLNGSHKSIIFDDMSFTHIPREAQIHLV  1250
+             V+ G +GIGKTT    +C+KP+L VTH+DGLR+L   H+SI+FDDMSF H+PREAQI LV
+Sbjct  206   VITGSTGIGKTTHVREQCRKPALFVTHMDGLRKLRPEHQSIVFDDMSFLHVPREAQIQLV  265
+
+Query  1249  DRFQPRQIHVRYGTADIPAGIQKIFTANQYPFVPDPAIDRRVN  1121
+             DR   RQIHVRYG  +IP GIQKIFTANQ PF+ D AI+RR+N
+Sbjct  266   DRSVARQIHVRYGIVEIPEGIQKIFTANQEPFIDDDAINRRLN  308
+
+
+
+
+>replication-associated protein [Odonata-associated circular virus-15]
+Sequence ID: YP_009551674.1 Length: 313
+>replication-associated protein [Odonata-associated circular virus-15]
+Sequence ID: AJD07486.1 Length: 313 
+Range 1: 13 to 308
+
+Score:226 bits(575), Expect:9e-65, 
+Method:Compositional matrix adjust., 
+Identities:125/299(42%), Positives:168/299(56%), Gaps:13/299(4%)
+
+Query  1975  NRFRLQCRKLFLTYPHCTASIQEVYDLIHSKKEVKFARICIEPHSDGTPHIHAAIHFTKK  1796
+             N FR+Q +  FLTYP C+AS Q++ + + +K  + +  I  E H DG  H+HA + + KK
+Sbjct  13    NSFRIQAKSFFLTYPQCSASKQDLKNFLDTKGRIVYYLIGQERHEDGNFHLHALVTYEKK  72
+
+Query  1795  VNICNARLFDINDHHCNMESVKNWPATLNYCKKGdnwqdfdndddpdkpiddDLCELAET  1616
+             +N+     FD+N  H N+++ KN PA  NY  K             +   +D+L +LA  
+Sbjct  73    INVKRTTFFDLNGFHPNIQAAKNLPALKNYISK---EDIEPLTSTVEPEEEDNLYDLARV  129
+
+Query  1615  MPAKEYWEYCRRKKV--------PFAYASNA-LRDKKSMFTITDSTNYGIIREDLGAYTI  1463
+              P + Y+E CR++KV        PF YA+ A L+  K     T    Y +I         
+Sbjct  130   TPEENYFEICRKRKVHPSIISRVPFMYANQAFLKILKDASVNTIGEEYQVIGTITSTVLQ  189
+
+Query  1462  TEDAPANLTSTVLVGPSGIGKTTWALRECQKPSLLVTHLDGLRQL-NGSHKSIIFDDMSF  1286
+                 P ++TS  + GPSGIGKTTWAL    KP+L V HLD LR+  NG HK+IIFDDMSF
+Sbjct  190   NLQLPTDMTSLWVKGPSGIGKTTWALTVSNKPALFVRHLDTLREFRNGYHKTIIFDDMSF  249
+
+Query  1285  THIPREAQIHLVDRFQPRQIHVRYGTADIPAGIQKIFTANQYPFVPDPAIDRRVNNKNL  1109
+              H+PR AQI LVDR+ P+QIH+RY   +IP  I KIF +N   F  D AI RR+   NL
+Sbjct  250   QHLPRTAQIELVDRYHPQQIHIRYAVVNIPPNIPKIFLSNDSIFTYDEAIFRRLTLVNL  308
+
+
+
+
+>Rep [Kummerowia striata CRESS virus]
+Sequence ID: QKI29022.1 Length: 289
+Range 1: 3 to 287
+
+Score:196 bits(497), Expect:9e-54, 
+Method:Compositional matrix adjust., 
+Identities:116/291(40%), Positives:166/291(57%), Gaps:10/291(3%)
+
+Query  1969  FRLQCRKLFLTYPHCTASIQEVYDLIHSKKEVKFARICIEPHSDGTPHIHAAIHFTKKVN  1790
+             FR+  +  FLTYP+        Y  + SK +     +C E H  G PH+H  I F  + +
+Sbjct  3     FRINAKYFFLTYPNANFEHSLYYTWLESKHKTNKVIVCTERHQSGEPHMHVGIEFKNRTD  62
+
+Query  1789  ICNARLFDINDHHCNMESVKNWPATLNYCKKGdnwqdfdndddpdkpiddDLCELAETMP  1610
+             + + R FD +  H N++  +NW A +NY KKG  +  F  D++ ++ +D  L +  ++M 
+Sbjct  63    VRDERHFDYSWFHPNIQKARNWAAVVNYVKKGGEYTCFGFDEEEEENLD--LEQALDSMD  120
+
+Query  1609  AKEYWEYCRRKKVPFAYASNA--LRDKKSMFTITDSTNYGIIREDLGAYTITEDAPANL-  1439
+              K +  YC ++K+P+ Y +    L  K    TIT++   G +   L    +    P NL 
+Sbjct  121   RKSFLLYCIKQKIPYGYCNELWNLSHKDRGNTITEAPEGGRMVPRLEFTRM----PDNLH  176
+
+Query  1438  TSTVLVGPSGIGKTTWALRECQKPSLLVTHLDGLRQLNGS-HKSIIFDDMSFTHIPREAQ  1262
+              + V++GP+G GKTTWALR   KP+L+VTH+D LR  +   HKSIIFDDM FTH+P EAQ
+Sbjct  177   KALVIMGPTGTGKTTWALRNSPKPALVVTHMDDLRHYDPEYHKSIIFDDMGFTHMPIEAQ  236
+
+Query  1261  IHLVDRFQPRQIHVRYGTADIPAGIQKIFTANQYPFVPDPAIDRRVNNKNL  1109
+             IH+ D    R IH RY  A+IPA   KIFT+N++PF  D AI RR+   NL
+Sbjct  237   IHITDWHLKRSIHARYRVAEIPAETPKIFTSNRFPFTEDEAIKRRLYIINL  287
+
+
+
+
+>MAG: replication associated protein [Arizlama virus]
+Sequence ID: QXP07724.1 Length: 349
+Range 1: 37 to 326
+
+Score:194 bits(493), Expect:2e-52, 
+Method:Compositional matrix adjust., 
+Identities:114/292(39%), Positives:156/292(53%), Gaps:12/292(4%)
+
+Query  1972  RFRLQCRKLFLTYPHCTASIQEVYDLIHSKKEVKFARICIEPHSDGTPHIHAAIHFTKKV  1793
+             R+R+  R +FLTYP C    + V D +    +  +A +  E H DGTPH+HA +   KKV
+Sbjct  37    RYRINARNIFLTYPRCLIDKKIVLDKLVELMKPNYAVVSCEKHEDGTPHLHALLCLRKKV  96
+
+Query  1792  NICNARLFDINDHHCNMESVKNWPATLNYCKKGdnwqdfdndddpdkpiddDLCELAETM  1613
+             +I N R FDI  +H N++S K+   T NY  K         +    K     + E+ E M
+Sbjct  97    DIRNERYFDIQGYHPNVQSAKHLGKTKNYVCKD-KDIVEFGEFSETKRGPKSIPEMEEGM  155
+
+Query  1612  PAKEYWEYCRRKKVPFAYAS---NALRDKKSMFTITDSTNYGIIREDLGAYTITEDAP--  1448
+                +Y + C    +P+ YA+   +   D     T+ +      I  D   YT+T + P  
+Sbjct  156   SKMQYLQECYELDIPYGYAAAFYSCFLDPVCNVTLYEYNETIRIPSDF-LYTLTPENPLF  214
+
+Query  1447  ----ANLTSTVLVGPSGIGKTTWALRECQKPSLLVTHLDGLRQLNGS-HKSIIFDDMSFT  1283
+                  +L S V+VGP+G GKT W  R C+KP+L VTHLD L+  N S HKSI+FDDM F 
+Sbjct  215   PIESGSLYSVVIVGPAGCGKTVWCKRYCEKPALWVTHLDDLKLFNKSIHKSIVFDDMKFD  274
+
+Query  1282  HIPREAQIHLVDRFQPRQIHVRYGTADIPAGIQKIFTANQYPFVPDPAIDRR  1127
+             ++P + QI ++DR+  R IH RY  A IP GI K FT N+ PFV   AI RR
+Sbjct  275   YLPLQGQISIIDRYDDRSIHCRYNVAKIPRGIPKYFTCNELPFVWHDAIKRR  326
+
+
+
+
+>rep protein [Cressdnaviricota sp.]
+Sequence ID: UOF78304.1 Length: 298
+Range 1: 3 to 290
+
+Score:189 bits(480), Expect:3e-51, 
+Method:Compositional matrix adjust., 
+Identities:114/291(39%), Positives:163/291(56%), Gaps:11/291(3%)
+
+Query  1969  FRLQCRKLFLTYPHCTASIQE----VYDLIHSKKEVKFARICIEPHSDGTPHIHAAIHFT  1802
+             FRLQ + L LTYP    +I +    + +L    + VK   +C E H DG+ H HA + F+
+Sbjct  3     FRLQGKHLALTYPRADFNIDDGLTFLRNLTTGSRSVKSVIVCSETHEDGSYHRHAYVRFS  62
+
+Query  1801  KKVNICNARLFDINDHHCNMESVKNWPATLNYCKKGdnwqdfdndddpdkpiddDLCELA  1622
+              KVNI N R FD  + H N+++ +N  A  NY +   N+ ++++D D D      + + A
+Sbjct  63    AKVNISNPRFFDFANFHPNVQACQNVAAWKNYVRMDGNFVEWEDDTDEDDNN---IYQAA  119
+
+Query  1621  ETMPAKEYWEYCRRKKVPFAYASNALRDKKS---MFTITDSTNYGIIREDLGAYTITEDA  1451
+             + M  +EY+EYC +K++P+ YA  A +   S     T  +  N  I         I E +
+Sbjct  120   KRMAEEEYFEYCIKKRIPYGYAERAWQKNSSPVDSITFNEDNNPYIELNLPLPRAIAEYS  179
+
+Query  1450  PANLTSTVLVGPSGIGKTTWALRECQKPSLLVTHLDGLRQL-NGSHKSIIFDDMSFTHIP  1274
+              ++  + VLVGP+G GKT +  R  + P L+++H+D LR      HK+I+FDDM F H+P
+Sbjct  180   LSDNLTNVLVGPTGCGKTIYCFRNLKTPFLMISHIDDLRYFCPNRHKAILFDDMKFEHLP  239
+
+Query  1273  REAQIHLVDRFQPRQIHVRYGTADIPAGIQKIFTANQYPFVPDPAIDRRVN  1121
+              +AQIH VDR  PR IH RYGT  IP GIQ   T N+ PF+  PAI RR N
+Sbjct  240   LQAQIHFVDRGLPRSIHRRYGTTLIPPGIQVAITCNEIPFMWHPAIARRCN  290
+
+
+
+
+>replication-associated protein [Tick-associated circular virus-6]
+Sequence ID: USZ80633.1 Length: 347
+Range 1: 37 to 326
+
+Score:183 bits(465), Expect:1e-48, 
+Method:Compositional matrix adjust., 
+Identities:109/291(37%), Positives:157/291(53%), Gaps:10/291(3%)
+
+Query  1972  RFRLQCRKLFLTYPHCTASIQEVYDLIHSKKEVKFARICIEPHSDGTPHIHAAIHFTKKV  1793
+             R+R+  R +FLTYP C    Q V D +    + ++A + +E H DGTPH+HA +   KKV
+Sbjct  37    RYRINARNIFLTYPRCLLDKQTVLDKLVDLMKPRYAVVSLEKHEDGTPHLHALLCLNKKV  96
+
+Query  1792  NICNARLFDINDHHCNMESVKNWPATLNYCKKGdnwqdfdndddpdkpiddDLCELAETM  1613
+             +I N R FDI  +H N++S K+   T NY  K         +    K   + + EL + M
+Sbjct  97    DIRNERYFDIQGYHPNIQSAKHLGKTKNYVCKD-KDIIEYGEFSESKRGPNRIPELDDGM  155
+
+Query  1612  PAKEYWEYCRRKKVPFAYAS---NALRDKKSMFTITDSTNYGIIRED-LGAYTITEDAPA  1445
+                ++   C    +P+ YA+       D  +  T+ +  +  ++  + L + T       
+Sbjct  156   SKLQFLTECYNNDIPYGYAAAFYGCFLDPVNNVTLFEYESDIVLPSNYLNSLTPLNPLFP  215
+
+Query  1444  NLT----STVLVGPSGIGKTTWALRECQKPSLLVTHLDGLRQLNGS-HKSIIFDDMSFTH  1280
+             +L     S V+VGP+G GKT W  R C+KP+L VTHLD L+  +   HKSI+FDDM F++
+Sbjct  216   SLRTPYFSLVVVGPAGCGKTIWCKRYCEKPALWVTHLDDLKLFDKKLHKSIVFDDMCFSY  275
+
+Query  1279  IPREAQIHLVDRFQPRQIHVRYGTADIPAGIQKIFTANQYPFVPDPAIDRR  1127
+             +P + QI +VDR+  R IH RY  A IPAGI K FT N+ PF    AI RR
+Sbjct  276   LPVQGQISIVDRYDDRSIHCRYNVAKIPAGIPKYFTCNELPFTYTDAIKRR  326
+
+
+
+
+>rep protein [Cressdnaviricota sp.]
+Sequence ID: UOF79021.1 Length: 272
+Range 1: 10 to 264
+
+Score:180 bits(457), Expect:2e-48, 
+Method:Compositional matrix adjust., 
+Identities:107/259(41%), Positives:149/259(57%), Gaps:11/259(4%)
+
+Query  1876  VKFARICIEPHSDGTPHIHAAIHFTKKVNICNARLFDINDHHCNMESVKNWPATLNYCKK  1697
+             VK+  +C E H D T H+HA I F+KK +I N + FD++D H N++SVK+ P ++NY KK
+Sbjct  10    VKYIIVCNEKHKDDTDHLHAVICFSKKRDIRNQKFFDLDDFHPNIQSVKSLPKSINYVKK  69
+
+Query  1696  GdnwqdfdndddpdkpiddDLCELAETMPAKEYWEYCRRKKVPFAYAS-----NALRDKK  1532
+               ++ ++   D+        L    E M   E+   C   KVP+ YA      N+++D  
+Sbjct  70    DGSFCEWGELDNKISIAPT-LPTYHEGMTKLEWLTQCLSTKVPYGYADAMWKLNSVKDFC  128
+
+Query  1531  SMFTITDSTNYGIIREDLGAYTITEDAPANLTSTVLVGPSGIGKTTWALRECQKPSLLVT  1352
+             ++ +   S N  I    L       D   +L S V+VGPSG GKTTWA   C+KP+LL+T
+Sbjct  129   TLVSFDHSNNDRINNLLLKVMAPKLD---HLKSYVIVGPSGCGKTTWAKVHCKKPALLIT  185
+
+Query  1351  HLDGLRQLN-GSHKSIIFDDMSFTHIPREAQIHLVDRFQPRQIHVRYGTADIPAGIQKIF  1175
+             H+D L+    G H S++FDDM FTH+    QI +VDR+  R +H RY  A IPAGIQKIF
+Sbjct  186   HMDDLKNFKLGYHASLVFDDMKFTHLDSVLQIPIVDRYDNRSLHCRYAVAQIPAGIQKIF  245
+
+Query  1174  TANQYPF-VPDPAIDRRVN  1121
+             T N+ PF +    I RR+N
+Sbjct  246   TCNEIPFDMSHEQIRRRIN  264
+
+
+
+
+>MAG: replication polyprotein [Chemarfal virus 13]
+Sequence ID: WPR18683.1 Length: 294
+Range 1: 5 to 285
+
+Score:180 bits(457), Expect:4e-48, 
+Method:Compositional matrix adjust., 
+Identities:107/291(37%), Positives:157/291(53%), Gaps:20/291(6%)
+
+Query  1969  FRLQCRKLFLTYPHCTASIQEVYDLIHSK----KEVKFARICIEPHSDGTPHIHAAIHFT  1802
+             +RLQ   + LTYP C A + ++   + +K    +  K   +C E H DGT H HA +++ 
+Sbjct  5     YRLQGAHISLTYPRCDAPLDDLLTYLRNKSVGSRSPKHVIVCSETHEDGTFHRHAYVNYD  64
+
+Query  1801  KKVNICNARLFDINDHHCNMESVKNWPATLNYCKKGdnwqdfdndddpdkpiddDLCELA  1622
+              ++NI N R FD    H N++S +N  A  NY KK   + ++ +D +        +  LA
+Sbjct  65    GRINITNPRNFDFGSFHPNIQSCRNVEAWKNYVKKDGTFVEWQSDIEEVD-----IVTLA  119
+
+Query  1621  ETMPAKEYWEYCRRKKVPFAYASNAL---RDKKSMFTITDSTNYGI---IREDLGAYTIT  1460
+               +  +E+  Y    K+PF Y   A+    ++  + T  +  N        + L  Y  +
+Sbjct  120   GRLSRREFMNYAVAHKLPFGYYQEAIAQANNESDLVTFNEDPNSNFAYAFEKPLHEYEFS  179
+
+Query  1459  EDAPANLTSTVLVGPSGIGKTTWALRECQKPSLLVTHLDGLRQLNGSHKSIIFDDMSFTH  1280
+              D      + V+VGP+G GKT   LRE +KP L+V+H+D L+ L   HKSI+FDDM+F+H
+Sbjct  180   TDK-----TNVIVGPTGCGKTLKCLREMKKPVLMVSHIDQLKLLGLHHKSILFDDMNFSH  234
+
+Query  1279  IPREAQIHLVDRFQPRQIHVRYGTADIPAGIQKIFTANQYPFVPDPAIDRR  1127
+             +P +AQIH+VDR   R IH RYGT  IP G Q   T N+ PF+  PAI RR
+Sbjct  235   LPLQAQIHMVDRSYSRAIHRRYGTTVIPLGTQVAITCNELPFMYHPAIARR  285
+
+
+
+
+>Rep [Lactuca sativa CRESS virus]
+Sequence ID: QKI29038.1 Length: 296
+Range 1: 5 to 287
+
+Score:179 bits(454), Expect:1e-47, 
+Method:Compositional matrix adjust., 
+Identities:108/293(37%), Positives:159/293(54%), Gaps:20/293(6%)
+
+Query  1969  FRLQCRKLFLTYPHCTASIQEVYDLIHSKKE----VKFARICIEPHSDGTPHIHAAIHFT  1802
+             +RLQ + L LTYP C  S++++   + +K+     V+   +  E H DG  H HA + + 
+Sbjct  5     YRLQGKHLSLTYPRCDVSLEDLLTFLRNKQSGSRMVRSVIVSSETHEDGGLHRHAYVQYD  64
+
+Query  1801  KKVNICNARLFDINDHHCNMESVKNWPATLNYCKKGdnwqdfdndddpdkpiddDLCELA  1622
+              +VN+ N R FD    H N++S +N  A  NY +K   + ++++D +        L  +A
+Sbjct  65    GRVNLSNPRFFDFGQFHPNLQSCRNVEAWKNYVRKDGTFLEWESDIEEVD-----LVTIA  119
+
+Query  1621  ETMPAKEYWEYCRRKKVP-FAY--ASNALRDKKSMFTITDSTNYG---IIREDLGAYTIT  1460
+               M  +E+  Y    K+P +AY  A     D+ S+ T  D  N     +  +D+  Y   
+Sbjct  120   SRMSRREFLMYAVAHKIPSYAYHDAIALSNDESSLITFYDDPNDNFAYVFDKDMADYHFM  179
+
+Query  1459  EDAPANLTSTVLVGPSGIGKTTWALRECQKPSLLVTHLDGLRQLNGSHKSIIFDDMSFTH  1280
+              D      + +LVGP+G GKT   LRE +KP L+V+H+D L+ L   HKS++FDDM+F+H
+Sbjct  180   TDK-----TNILVGPTGCGKTLKCLREMKKPLLMVSHIDQLKHLGLHHKSVLFDDMNFSH  234
+
+Query  1279  IPREAQIHLVDRFQPRQIHVRYGTADIPAGIQKIFTANQYPFVPDPAIDRRVN  1121
+             +P +AQIHL DR   R IH RYGT  IPA  Q   T N+ P +  PAI RR N
+Sbjct  235   LPLQAQIHLCDRQYGRAIHRRYGTTVIPADTQITITCNETPLMYHPAIARRCN  287
+
+
+
+
+>Rep [Trichosanthes kirilowii CRESS virus]
+Sequence ID: QKI29006.1 Length: 292
+Range 1: 4 to 287
+
+Score:178 bits(452), Expect:2e-47, 
+Method:Compositional matrix adjust., 
+Identities:111/294(38%), Positives:158/294(53%), Gaps:21/294(7%)
+
+Query  1969  FRLQCRKLFLTYPHCTASIQEVYDLIHS----KKEVKFARICIEPHSDGTPHIHAAIHFT  1802
+             FR+Q     LTYP     +    + + S       V    +C E H DG  H HA + F 
+Sbjct  4     FRIQGTNFSLTYPQSDFDLNACLEFLKSITVGSATVVEVIVCSERHEDGHLHRHAFVRFN  63
+
+Query  1801  KKVNICNARLFDINDHHCNMESVKNWPATLNYCKKGdnwqdfdndddpdkpiddDLCELA  1622
+             +++++ +A  FD    H N++   N PA  NY ++     + +  +    P  D+L E A
+Sbjct  64    RRIDLRDANKFDFQGRHANVQRTINVPAWKNYIRE-----EGEFVEWCANPEHDNLFEWA  118
+
+Query  1621  ETMPAKEYWEYCRRKKVPFAYASNA---LRDKKSMFTITDSTNYG---IIREDLGAYTIT  1460
+              T+  + +WE CRR  V + YA NA   +  + +  T+ D  N     ++ + L  +  +
+Sbjct  119   RTLTNESFWERCRRSNVSYGYARNAWDTVSSELNSITMVDDPNPDLNLVLPQSLDTFQFS  178
+
+Query  1459  EDAPANLTSTVLVGPSGIGKTTWALRECQKPSLLVTHLDGLRQLNGS-HKSIIFDDMSFT  1283
+                  NLT+ V+VGP+G GKT   LR+  KP L VTH+D L+  + + H+SI+FDDM FT
+Sbjct  179   ----TNLTN-VIVGPTGCGKTFICLRKMLKPILFVTHVDQLKFFSAALHRSILFDDMQFT  233
+
+Query  1282  HIPREAQIHLVDRFQPRQIHVRYGTADIPAGIQKIFTANQYPFVPDPAIDRRVN  1121
+             H+P  AQIHLVDR  PR IH RYGT  IPAGIQ   T N+ P   DP I+RR+N
+Sbjct  234   HLPVPAQIHLVDRALPRSIHRRYGTTLIPAGIQVTITCNERPVAWDPPINRRIN  287
+
+
+
+
+>MAG: Rep catalytic domain protein [Cressdnaviricota sp.]
+Sequence ID: AXH74413.1 Length: 284
+Range 1: 3 to 282
+
+Score:177 bits(450), Expect:3e-47, 
+Method:Compositional matrix adjust., 
+Identities:107/291(37%), Positives:156/291(53%), Gaps:15/291(5%)
+
+Query  1969  FRLQCRKLFLTYPHCTASIQEVYDLIHSKKE--VKFARICIEPHSDGTPHIHAAIHFTKK  1796
+             FR   +++FLTYP CT   + +  ++H+ +    K+  +  E H+D   H+H  + + +K
+Sbjct  3     FRFNAKRVFLTYPRCTLEKESL--MLHASRAWGAKWVLVARERHADEGLHLHCLVVWEQK  60
+
+Query  1795  VNICNARLFDINDHHCNMESVKNWPATLNYCKKGdnwqdfdndddpdkpiddDLCELAET  1616
+              +  N R FD    H N++  +NW A   Y KK  ++ +  + ++          ELA  
+Sbjct  61    QDTRNERFFDWQGFHPNIQVPRNWKACETYVKKDGDFVESGSMEENYY-------ELARG  113
+
+Query  1615  MPAKEYWEYCRRKKVPFAYASNALRDKKSMFTITDS-TNYGIIREDLGAYTITEDAPANL  1439
+             M  + +  YC R+++   Y      +   + TI++   N   IREDL  Y   +      
+Sbjct  114   MEREAWISYCIRQRISHTYCMMIWNEVHDVNTISEYFPNLDWIREDLRRYDWNDLWRGK-  172
+
+Query  1438  TSTVLVGPSGIGKTTWALRECQKPSLLVTHLDGLRQLN-GSHKSIIFDDMSFTHIPREAQ  1262
+              + +L G SGIGKTTWA     KP L++ H+D L+Q   G H+SIIFDDMSF H+PREAQ
+Sbjct  173   -ALILQGSSGIGKTTWAKLVAPKPCLMINHMDALKQFKVGYHQSIIFDDMSFMHMPREAQ  231
+
+Query  1261  IHLVDRFQPRQIHVRYGTADIPAGIQKIFTANQYPFVPDPAIDRRVNNKNL  1109
+             I ++D   PRQIHVRYG   IPA + KIFT N   F  D A  +R  NK+L
+Sbjct  232   ITILDMDNPRQIHVRYGIVQIPANLPKIFTCNVKIFEDDDAAIKRRMNKHL  282
+
+
+
+
+>Rep [Forsythia suspensa CRESS virus]
+Sequence ID: QKI28988.1 Length: 329
+Range 1: 27 to 317
+
+Score:179 bits(453), Expect:5e-47, 
+Method:Compositional matrix adjust., 
+Identities:116/296(39%), Positives:159/296(53%), Gaps:18/296(6%)
+
+Query  1969  FRLQCRKLFLTYPHCTASIQEVYDLIHSKKEVKFAR-----ICIEPHSDGTPHIHAAIHF  1805
+             FR+      +T+P     I +    + SK  V  AR     I  E H DG  H HA + F
+Sbjct  27    FRVNACNFSITWPQSNFDINDALRNLQSKT-VGAARVVEVIISSEQHEDGNYHRHAFVRF  85
+
+Query  1804  TKKVNICNARLFDINDHHCNMESVKNWPATLNYCKKGdnwqdfdndddpdkpiddDLCEL  1625
+              ++V+I N+R FD    H N++   N PA  NY +K   + D+   +       DDL EL
+Sbjct  86    NRRVDIRNSRFFDWEGRHANVQRTVNVPAWKNYIRKDGTFVDWVEPNQDIDDEPDDLFEL  145
+
+Query  1624  AETMPAKEYWEYCRRKKVPFAYASNALR---DKKSMFTITDSTNYGI---IREDLGAYTI  1463
+             A     + ++  CR+K +PFAYAS+A R    ++S+ T        +   + +DL  YT 
+Sbjct  146   ARNTGNEAFFNLCRKKGIPFAYASHAWRYARSEQSLVTFETDPCPDLNLTLSQDLAEYTF  205
+
+Query  1462  TEDAPANLTSTVLVGPSGIGKTTWALRECQKPSLLVTHLDGLRQLNGS-HKSIIFDDMSF  1286
+              E    N    V++GPSG GKT  A+R+ +KP LLV H+D L+  +   HKSI+FDDM+F
+Sbjct  206   DEGEKTN----VIIGPSGCGKTVTAIRKMKKPLLLVRHMDTLQHFDAHLHKSILFDDMAF  261
+
+Query  1285  THIPREAQIHLVDRFQPRQIHVRYGTADIPAGIQKIFTANQYPF-VPDPAIDRRVN  1121
+             TH+ R +QIHLVDR  P  +H RYGTA IPA  Q   T N+ P  + D AI RR N
+Sbjct  262   THLHRTSQIHLVDRTLPSALHRRYGTALIPANTQVSITGNEPPLNLGDAAIARRCN  317
+
+
+
+
+>MAG: replication associated protein [Virus sp.]
+Sequence ID: QXN75545.1 Length: 322
+Range 1: 26 to 313
+
+Score:178 bits(451), Expect:8e-47, 
+Method:Compositional matrix adjust., 
+Identities:115/290(40%), Positives:150/290(51%), Gaps:10/290(3%)
+
+Query  1966  RLQCRKLFLTYPHCTASIQEVYD-LIHSKKEVKFARICIEPHSDGTPHIHAAIHFTKKVN  1790
+             R Q +  FLTYP     IQ+ Y+ L      +  A IC E H DG+ H H A     +++
+Sbjct  26    RFQGKYFFLTYPRADYDIQQYYEWLTREFPSIVGAVICRELHQDGSHHRHVAFESDIRLD  85
+
+Query  1789  ICNARLFDINDHHCNMESVKNWPATLNYCKKGdnwqdfdndddpdkpiddDLCELAETMP  1610
+             + N R FD    H N+++ +NW A L Y KKG+++  F      D   DD          
+Sbjct  86    LRNHRSFDYQGFHPNIQTARNWRAVLQYVKKGEDYLGFGKYSGDDIDYDDQDNAYENAQK  145
+
+Query  1609  AKE---YWEYCRRKKVPFAYASNA--LRDKKSMFTITDSTNY-GIIREDLGAYTITEDAP  1448
+             A     Y ++   K++PF YA     L       TI + T   G I      Y + ++  
+Sbjct  146   ADSEATYLQWALVKRIPFGYAQRLWYLARANKPNTIDEHTAVSGTIVLPYLRYLLFDEG-  204
+
+Query  1447  ANLTSTVLVGPSGIGKTTWALRECQKPSLLVTHLDGLRQLN-GSHKSIIFDDMSFTHIPR  1271
+                 S VL GP+G GK+TWA+R   +P+LLV+H+D LR    G H+SIIFDDM F H PR
+Sbjct  205   -TRKSLVLKGPTGSGKSTWAIRNAPRPALLVSHMDDLRHYRVGYHRSIIFDDMDFKHFPR  263
+
+Query  1270  EAQIHLVDRFQPRQIHVRYGTADIPAGIQKIFTANQYPFVPDPAIDRRVN  1121
+              AQIHL D    R IH RY  A IPA   KI+T N+YPF+ DPAI RRV 
+Sbjct  264   TAQIHLNDFDLDRSIHCRYSNAFIPAKTYKIYTCNEYPFLEDPAIKRRVQ  313
+
+
+
+
+>MAG: capsid protein [Cressdnaviricota sp.]
+Sequence ID: WAE42550.1 Length: 353
+Range 1: 73 to 352
+
+Score:177 bits(449), Expect:3e-46, 
+Method:Compositional matrix adjust., 
+Identities:99/282(35%), Positives:154/282(54%), Gaps:9/282(3%)
+
+Query  276   GIGYSNFRESRKCYPMVRNMLKAGTLSVYKYVDTKRMEWDAGSQGVLNVATTFGVQQLQN  455
+             G+  SN+ E  KC+P    ++KA  +S+ + ++  RM W +G Q V      F    ++ 
+Sbjct  73    GVSSSNYSEHHKCFPKAALVMKANQVSIDRLINGTRMVWGSGVQNVTVPFINFNYTDMKR  132
+
+Query  456   VMS-NIGASAVGDDTTRMVVKSVTGSLNISNMSNANVLITLYDVVARTDSNTSSAWTNPL  632
+             + + ++GAS+ G DTTR+++K + GSL ++NM+NAN  +T+YDVVAR D    +   +P+
+Sbjct  133   IFATDLGASSAGKDTTRILIKRIHGSLRLANMTNANSEVTIYDVVARQDMAVGAPIVDPI  192
+
+Query  633   DAWANGLEDTEEGGTIAAARTNIGATPFQSVMFCRKYRVLKVTKIYMEAGRSHIHYIKRN  812
+              AW N  E    G   +      G TPF S +FCR ++V KVTK+ +  GR H+HY  R 
+Sbjct  193   TAW-NAGEYWTTGAASSTGSLVWGDTPFNSPLFCRLFKVKKVTKVGLMPGRDHVHYFSRT  251
+
+Query  813   MNSVLNNSILETNETN-----LANKTHYCFAVGRGFPVNDATTDTNIALGSGALDFVFTE  977
+             MN  +NN +L           L NKTH+   VG+G+   D TT   +  GSG ++ +   
+Sbjct  252   MNMFVNNEMLYAPGGGVLLDALGNKTHFTMIVGKGYVATDGTTHA-VTAGSGEIESLIKV  310
+
+Query  978   TYEQVWPQYALKRYYFSDQQGTIT-SEKLMNAETGEGDVYEE  1100
+               E ++P   LK +  ++  GTIT SE ++N  TG    + +
+Sbjct  311   DIEYMYPNTELKHFNVTNTLGTITVSEAVVNDLTGAIQAFAQ  352
+
+
+
+
+>MAG: Rep protein [Cressdnaviricota sp.]
+Sequence ID: XNT21076.1 Length: 297
+Range 1: 16 to 297
+
+Score:175 bits(444), Expect:3e-46, 
+Method:Compositional matrix adjust., 
+Identities:112/287(39%), Positives:151/287(52%), Gaps:10/287(3%)
+
+Query  1954  RKLFLTYPHCTASIQEVYDLIHSKKEVKFARICIEPHSDGTPHIHAAIHFTKKVNICNAR  1775
+             ++ FLTYP C A+  ++   +  K E+    I  E H DG  H+HA + F +++   + R
+Sbjct  16    KRFFLTYPQCQATPDDLLGFLRDKAEISQYVIAREKHEDGNFHLHACVAF-QEIQRHDKR  74
+
+Query  1774  LFDINDHHCNMESVKNWPATLNYCKK-GdnwqdfdndddpdkpiddDLCELAETMPAKEY  1598
+               D    H N +  +NW A   YCKK GD     D+     +    DLC L +   ++E 
+Sbjct  75    WLDFIGKHPNKQDPRNWEACKTYCKKDGDYITSADDLVITPRESPLDLCSLCKEYDSEEN  134
+
+Query  1597  W-EYCRRKKVPFAYASNAL-RDKKSMFTITDSTNYGIIREDLGAYTITEDAPANLTSTVL  1424
+             W  YC   K+ FAYA  A  R    M TI D  + G++ + L  Y   +D        VL
+Sbjct  135   WMSYCCEDKIGFAYAQWAWTRMHGDMSTILDDYHPGVVVDRLLRYDFIQDGKC----LVL  190
+
+Query  1423  VGPSGIGKTTWALRECQKPSLLVTHLDGLRQLN-GSHKSIIFDDMSFTHIPREAQIHLVD  1247
+              G +G GKTTWA  +  KP+L V+H+D L+    G HKSIIFDD+ F H PR +QI +VD
+Sbjct  191   KGETGTGKTTWAKTKVPKPALFVSHVDELKSFRLGYHKSIIFDDVDFNHYPRTSQIGIVD  250
+
+Query  1246  RFQPRQIHVRYGTADIPAGIQKIFTANQYP-FVPDPAIDRRVNNKNL  1109
+                PRQIH R+  A IPAGI K+FT N  P  + D AI RR    N+
+Sbjct  251   FDNPRQIHCRHTVARIPAGIFKVFTCNSDPLLLTDEAIRRRCRIVNV  297
+
+
+
+
+>replication-associated protein [Capybara virus 11_cap1_98]
+Sequence ID: QDJ95229.1 Length: 283
+Range 1: 8 to 281
+
+Score:173 bits(439), Expect:1e-45, 
+Method:Compositional matrix adjust., 
+Identities:112/285(39%), Positives:150/285(52%), Gaps:14/285(4%)
+
+Query  1954  RKLFLTYPHCTASIQEVYDLIHSKKEVKFARICIEPHSDGTPHIHAAIHFTKKVNICNAR  1775
+             ++ FLTYP C  S + +   + +K  +K   I  E H DG PH+HA + F         R
+Sbjct  8     KRFFLTYPRCDQSKESLLTFLRTKGTIKSFTIGRELHEDGFPHLHAFVEFFSHKR-GPTR  66
+
+Query  1774  LFDINDHHCNMESVKNWPATLNYCKKGdnwqdfdndddpdkpiddDLCELAETMPAKEYW  1595
+               D   HH N++S +N  A  NYCKK  ++ + + ++     +       A+    +E W
+Sbjct  67    WLDFEGHHPNVQSPRNPIACRNYCKKDGDFIENEGEEIRGDEV------WADDFEDEESW  120
+
+Query  1594  -EYCRRKKVPFAYASNALRDKKSMFTITDSTNYGIIREDLGAYTITEDAPANLTSTVLVG  1418
+               +C  KK+PF YA      K    T+ ++   G + + L  + I ED   +L   +L G
+Sbjct  121   FRHCVAKKIPFQYARYFWDKKNETDTLLENDYPGQVHQALENF-IYEDWSRSL---ILKG  176
+
+Query  1417  PSGIGKTTWALRECQKPSLLVTHLDGLRQLN-GSHKSIIFDDMSFTHIPREAQIHLVDRF  1241
+             PSG GKTTWA R   KP+L V+H+D L+    G HK I+FDDM F H  R AQIHLVD  
+Sbjct  177   PSGCGKTTWAKRNVPKPALFVSHVDQLKGFKKGYHKGIVFDDMDFNHWNRNAQIHLVDNE  236
+
+Query  1240  QPRQIHVRYGTADIPAGIQKIFTANQYPF-VPDPAIDRRVNNKNL  1109
+               R IH RY  A IPAG  KIFT N  PF V D AI RRV  +N+
+Sbjct  237   NSRAIHCRYAVAHIPAGTAKIFTCNVTPFLVDDEAIRRRVIIRNV  281
+
+
+
+
+>MAG: replication associated protein [Arizlama virus]
+Sequence ID: QXP07668.1 Length: 291
+Range 1: 1 to 282
+
+Score:172 bits(435), Expect:5e-45, 
+Method:Compositional matrix adjust., 
+Identities:112/299(37%), Positives:154/299(51%), Gaps:35/299(11%)
+
+Query  1963  LQCRKLFLTYPHCTASIQEVYDLIHSKKEVKFARICIEPHSDGTPHIHAAIHFTKKVNI-  1787
+             +     FLT+P       E+Y  + S K V +AR+  E H DG+PH HA + +  +V   
+Sbjct  1     MDATTFFLTWPQSEFEHDELYAFLQSIKPVVWARVARELHDDGSPHFHAIVRYGARVKTR  60
+
+Query  1786  CNARLFDINDHHCNMESVKNWPATLNYCKKGdnwqdfdndddpdkpiddDLCELAETMPA  1607
+              N  +FD N  H N++  +     L Y  KG N++D+ +           + + A+    
+Sbjct  61    SNMAIFDYNGRHPNIQVPRRIHDVLEYLVKGGNYKDYGD-----------VPQKAKRGDK  109
+
+Query  1606  KEYWEYCRRKKVPFAYASNALRDKKSMFTITDSTN---------------YGIIRE-DLG  1475
+                ++ CR      A A +  RD      I    +                G+I E   G
+Sbjct  110   SALYDECR------AAAESHDRDALDRCAIAGGLSKQWADHLWARHGNRCTGVITEPGRG  163
+
+Query  1474  AYTIT-EDAPANLTSTVLVGPSGIGKTTWALRECQKPSLLVTHLDGLRQLNGSHKSIIFD  1298
+                +  +  P    STV+VGP+G GKTTWA   C KP+L V H+D LR+L+  HKSIIFD
+Sbjct  164   VMCMQLQQLPYVGGSTVVVGPAGCGKTTWATVHCPKPALWVRHVDDLRRLSAEHKSIIFD  223
+
+Query  1297  DMSFTHIPREAQIHLVDRFQPRQIHVRYGTADIPAGIQKIFTANQYPFVPDPAIDRRVN  1121
+             DM F H PR AQIHLVD+     I+VRYGTA IPAG+ +IFTAN  PF+ DP+IDRR++
+Sbjct  224   DMDFNHWPRTAQIHLVDQEFDSSINVRYGTATIPAGLDRIFTANNPPFLSDPSIDRRIH  282
+
+
+
+
+>replication associated protein [Lake Sarah-associated circular virus-45]
+Sequence ID: YP_009237598.1 Length: 292
+>replication associated protein [Lake Sarah-associated circular virus-45]
+Sequence ID: ALE29795.1 Length: 292 
+Range 1: 8 to 291
+
+Score:171 bits(433), Expect:8e-45, 
+Method:Compositional matrix adjust., 
+Identities:107/289(37%), Positives:146/289(50%), Gaps:12/289(4%)
+
+Query  1954  RKLFLTYPHCTASIQEVYDLIHSKKEVKFARICIEPHSDGTPHIHAAIHFTKKVNICNAR  1775
+             ++ FLTYP C  S  E+   + S     +  +  E H DGTPH+HA I + + +     R
+Sbjct  8     KQFFLTYPQCQHSAAELAAFLTSVATCTYYIVAEEKHEDGTPHLHACIQYVETLR-GGVR  66
+
+Query  1774  LFDINDHHCNMESVKNWPATLNYCKK-GdnwqdfdndddpdkpiddDLCELAETMPAKEY  1598
+             L D N HH N +  + + A   YC+K G+  +                 ++ +T   K  
+Sbjct  67    LLDFNGHHPNKQDPRKFEACKQYCRKDGNFIEGPPEAIIRAAIAGLAPSDIVKTFTDKAL  126
+
+Query  1597  W-EYCRRKKVPFAYAS---NALRDKKSMFTITDSTNYGIIREDLGAYTITEDAPANLTST  1430
+             W ++C  K++   YA    N+ R+        D+   G + E L  Y    D    +   
+Sbjct  127   WFDWCISKRITHGYAEWYWNSTREHDLTIN-EDTVVAGQMCESLAGYAFNRDQHRVI---  182
+
+Query  1429  VLVGPSGIGKTTWALRECQKPSLLVTHLDGLRQLN-GSHKSIIFDDMSFTHIPREAQIHL  1253
+             VL G SG GKTTWA     KP+L V+H+D L++   G HK+IIFDD+ F H PR  QIH+
+Sbjct  183   VLKGESGCGKTTWAKTHAPKPALFVSHIDSLKRFQPGFHKTIIFDDVDFNHYPRTGQIHI  242
+
+Query  1252  VDRFQPRQIHVRYGTADIPAGIQKIFTANQYPF-VPDPAIDRRVNNKNL  1109
+             VD   PR IHVRYGT +IPAG  KIFT N  P  + D AI RRV   N+
+Sbjct  243   VDWENPRAIHVRYGTVEIPAGTFKIFTCNFDPLTLTDDAIRRRVKVVNV  291
+
+
+
+
+>replication-associated protein [Odonata-associated circular virus-7]
+Sequence ID: YP_009553348.1 Length: 296
+>replication-associated protein [Odonata-associated circular virus-7]
+Sequence ID: AJD07470.1 Length: 296
+>MAG: replication associated protein [Arizlama virus]
+Sequence ID: QXP07734.1 Length: 296 
+Range 1: 3 to 294
+
+Score:171 bits(433), Expect:1e-44, 
+Method:Compositional matrix adjust., 
+Identities:105/296(35%), Positives:149/296(50%), Gaps:13/296(4%)
+
+Query  1969  FRLQCRKLFLTYPHCTA-----SIQEVYDLIHSKKEVKFARICIEPHSDGTPHIHAAIHF  1805
+             FR   R +FLTY H        ++QE++  +   K   +  +  E H DGT H HA + F
+Sbjct  3     FRFAARNVFLTYSHQEGGWGVPNMQELFQRLQEIKPTNYVVLSKEQHGDGTDHFHAVLCF  62
+
+Query  1804  TKKVNICNARLFDINDHHCNMESVKNWPATLNYCKK-GdnwqdfdndddpdkpiddDLCE  1628
+              +K++  N RLFD N  H  +ES ++  A++ Y KK GD  +      +         C+
+Sbjct  63    KRKLDTVNPRLFDFNGWHPKIESPRSVAASITYVKKDGDFLEVGTEPTNRTFTDLHAKCQ  122
+
+Query  1627  LAETMPAKEYWEYCRRKKVPFAYASNALRDK--KSMFTITDSTNYGIIREDLGAYTITED  1454
+                 M   E+ EYC  + + FAY  +       +   TI +   +      L     +  
+Sbjct  123   ---EMERAEWEEYCIGEHISFAYCESIYNRTHPRQRGTIYEGEEFNDGELSLALERFSWG  179
+
+Query  1453  APANLTSTVLVGPSGIGKTTWALRECQKPSLLVTHLDGLRQLNGS-HKSIIFDDMSFTHI  1277
+              P +  S +LVGPSG GKT WA R   +P L ++H+D L + +   HKSIIFDDM+F H 
+Sbjct  180   FPES-QSLILVGPSGCGKTLWAKRNAPRPCLFISHIDRLTEFDERVHKSIIFDDMTFNHY  238
+
+Query  1276  PREAQIHLVDRFQPRQIHVRYGTADIPAGIQKIFTANQYPFVPDPAIDRRVNNKNL  1109
+             P +AQIH+VD++  R IHVRY TA IP    K+FT N+ PF     I RR    N+
+Sbjct  239   PLQAQIHIVDQYDDRDIHVRYKTAFIPKKTPKVFTCNEEPFCRHETIKRRSKTYNI  294
+
+
+
+
+>MAG: replication protein catalytic domain-like protein [clidnopec virus 99]
+Sequence ID: XII43166.1 Length: 318
+Range 1: 4 to 302
+
+Score:171 bits(434), Expect:1e-44, 
+Method:Compositional matrix adjust., 
+Identities:114/304(38%), Positives:161/304(52%), Gaps:29/304(9%)
+
+Query  1966  RLQCRKLFLTYPHCTASIQEVYDLIHSKKEVKFARICIEPHSDGTPHIHAAIHFTKKVNI  1787
+             +   R+ FLTYP C A  + + D++  +  +K   +C E H DG+ H+HAA+ +TK ++ 
+Sbjct  4     KFNARQFFLTYPKCDAPKEYLRDILIKQCSIKHLVVCREQHEDGSLHLHAAVWYTKVMH-  62
+
+Query  1786  CNARLFDI-------------NDHHCNMESVKNWPATLNYCKKGdnwqdfd------ndd  1664
+             CN R FD                 H N++  K WPA + YCKKG+++ + D        +
+Sbjct  63    CNERFFDFMWNKEDGTDEERARVFHPNIQVPKKWPAVVQYCKKGEDFLEVDVNLDGFKVE  122
+
+Query  1663  dpdkpiddDLCELAETMPAKEYW-EYCRRKKVPFAYASNAL-RDKKSMFTITDSTNYGII  1490
+               ++     + E   +   +E W E+C  +K+ F YA     R    + TI +  + G +
+Sbjct  123   GNEEVGKMSIQEKCFSFDKEEDWFEHCAIEKISFQYAQYFWNRLHGDICTILNDEHEGDV  182
+
+Query  1489  REDLGAYTITEDAPAN-LTSTVLVGPSGIGKTTWALRECQKPSLLVTHLDGLRQL-NGSH  1316
+                L ++++    P N   S VL GPSG GKTTWA R   KP L V+H+D L+    G H
+Sbjct  183   CSALDSFSL----PGNPRFSLVLRGPSGCGKTTWAKRNAPKPCLFVSHVDQLKLFRQGYH  238
+
+Query  1315  KSIIFDDMSFTHIPREAQIHLVDRFQPRQIHVRYGTADIPAGIQKIFTANQYPF-VPDPA  1139
+             KSI+FDD+SF H PR  QI LVD    R IH R+  A IPAGI KIFT N++P    D A
+Sbjct  239   KSIVFDDVSFCHTPRTNQIALVDCDNTRAIHCRHAVATIPAGIIKIFTCNEWPVDKQDEA  298
+
+Query  1138  IDRR  1127
+             I RR
+Sbjct  299   ISRR  302
+
+
+
+
+>MAG: replication associated protein [Arizlama virus]
+Sequence ID: QXP07692.1 Length: 292
+Range 1: 3 to 287
+
+Score:169 bits(429), Expect:3e-44, 
+Method:Compositional matrix adjust., 
+Identities:108/304(36%), Positives:155/304(50%), Gaps:40/304(13%)
+
+Query  1969  FRLQCRKLFLTYPHCTASIQEVYDLIHS----KKEVKFARICIEPHSDGTPHIHAAIHFT  1802
+             FR+Q     LTYP    ++  + + +      + E+    +  E H DG+ H HA + F 
+Sbjct  3     FRIQGTHFSLTYPRSDFALNALLEYLQGLRIGRAEIVEIIVSSERHEDGSLHRHAYVRFN  62
+
+Query  1801  KKVNICNARLFDINDHHCNMESVKNWPATLNYCKKGdnwqdfdndddpdkpiddDLCELA  1622
+              ++++ N+  FD    HCN++   N PA  NY +K     +++ND          L E A
+Sbjct  63    YRIDLRNSDFFDFLGRHCNVQRTTNVPAWKNYVRKDGECLEWNNDVTTSDN----LYEWA  118
+
+Query  1621  ETMPAKEYWEYCRRKKVPFAYASNALRDKKSMFTITDSTNYGIIREDLGAYTITEDA---  1451
+               +  +E++E  R+ KV F YA NA    +S               +L A T  ED    
+Sbjct  119   RILTREEFFERARKAKVHFGYARNAWEATES---------------ELNAITFYEDPNID  163
+
+Query  1450  -----PANLT--------STVLVGPSGIGKTTWALRECQKPSLLVTHLDGLRQLNGS-HK  1313
+                  P NL+        + V+VGP+G GKT ++ R+  KP L  TH+D L+  +   H+
+Sbjct  164   LNITWPQNLSVFNMEEERTNVIVGPTGCGKTVYSCRKMLKPILFCTHVDQLKNFSERIHR  223
+
+Query  1312  SIIFDDMSFTHIPREAQIHLVDRFQPRQIHVRYGTADIPAGIQKIFTANQYPFVPDPAID  1133
+             SI+FDDM F+H P  AQIHL DR  PR I+ RYGT  IP G+Q   T NQ PF+ DPAI+
+Sbjct  224   SILFDDMDFSHWPVTAQIHLCDRQMPRAINRRYGTTLIPPGVQVSVTCNQRPFLWDPAIN  283
+
+Query  1132  RRVN  1121
+             RR+N
+Sbjct  284   RRLN  287
+
+
+
+
+>MAG: replication-associated protein [Grus japonensis CRESS-DNA-virus sp.]
+Sequence ID: QTE03377.1 Length: 315
+Range 1: 3 to 305
+
+Score:169 bits(428), Expect:8e-44, 
+Method:Compositional matrix adjust., 
+Identities:113/307(37%), Positives:158/307(51%), Gaps:24/307(7%)
+
+Query  1969  FRLQCRKLFLTYPHCTASIQEVYDLIHSKKEVKFARICIEPHSDGTPHIHAAIHFTKKVN  1790
+             F LQ R  FLTYP C  +  E+ + + + +  + A +  EPH+DG PH+H AI + K+  
+Sbjct  3     FHLQGRTFFLTYPQCNLTCDELEEALRAIRPYQRAVVVREPHADGNPHLHCAIEYPKRFG  62
+
+Query  1789  ICNARLFDINDHHCNMESVKNWPATLNYCKK---------GdnwqdfdndddpdkpiddD  1637
+               NAR +D+N HH N++ V++W A +NYC+K         G   +D      P     D 
+Sbjct  63    TRNARYWDVNGHHPNVQRVRSWGACVNYCRKDGGDQTRYYGCTAEDAVEPSTPQGETFDA  122
+
+Query  1636  LCELAETMPAKEYWEYCRRKKVPFAYASNALR--DKKSMFTITDSTNYGIIREDLGAYTI  1463
+             + E   T  A E++    +  + FAYA    R    +   T TD+   G+I   L    +
+Sbjct  123   ITECENTSTALEWYSKASQNSLSFAYAECFWRLIHGRQAPTYTDNEVGGVICFQLD---V  179
+
+Query  1462  TEDAPANLTSTVLVGPSGIGKTTWALRECQKPSLLVTHLDGLRQLNGS-HKSIIFDDMSF  1286
+              +  PAN T  +L GPSG GKT+WALREC  P LLVT +D L   + + HK+++FD++  
+Sbjct  180   RKWHPANRTICIL-GPSGCGKTSWALRECPTPFLLVTDIDDLGDYDPTVHKALVFDEIRC  238
+
+Query  1285  T-------HIPREAQIHLVDRFQPRQIHVRYGTADIPAGIQKIFT-ANQYPFVPDPAIDR  1130
+             T         P  +QI L     P  I +RY  A IPA + KIFT  + YPF  D  I R
+Sbjct  239   TGDEYGKGRWPLTSQIKLTTWDTPVSIRIRYKVAHIPAHVPKIFTCCDTYPFTRDQQIMR  298
+
+Query  1129  RVNNKNL  1109
+             RV   NL
+Sbjct  299   RVTFINL  305
+
+
+
+
+>MAG: replication protein catalytic domain-like protein [clidnopec virus 117]
+Sequence ID: XII43246.1 Length: 302
+Range 1: 3 to 276
+
+Score:167 bits(423), Expect:3e-43, 
+Method:Compositional matrix adjust., 
+Identities:105/279(38%), Positives:144/279(51%), Gaps:12/279(4%)
+
+Query  1969  FRLQCRKLFLTYPHCTA-SIQEVYDLIHSKKEVKFARICIEPHSDGTPHIHAAIHFTKKV  1793
+             F+    + +LTY  C     Q + D++ SK ++K+AR   E H DG  H H    +T++V
+Sbjct  3     FKFDSNRFYLTYAQCGELGWQTIADVLKSKADIKWARFGHEQHQDGGWHWHVCGEWTRRV  62
+
+Query  1792  NICNARLFDINDHHCNMESVKNWPATLNYCKK-GdnwqdfdndddpdkpiddDLCELAET  1616
+                + R  D+   H N++S ++  + + Y  K G+ +   D   D  K       ELA  
+Sbjct  63    QARSERFLDVAGFHPNIQSTRSTKSVVAYVSKHGEFFDIGDVPADSGKRDSSAALELAGD  122
+
+Query  1615  MPAKEYWEYCRRKKVPFAYASN----ALRDKKSMFTITDSTNYGIIREDLGAYTITEDAP  1448
+                 +Y + C   +VP+ +A      A  D  +  T     N    R DL   T+ E+  
+Sbjct  123   PDEAKYLKACLEARVPYQFAKRFRELAFADDSNTITDAYEANLEWERADLREKTLPENIC  182
+
+Query  1447  ANLTSTVLVGPSGIGKTTWALRECQKPSLLVTHLDGLRQLNGS-HKSIIFDDMSFTHIPR  1271
+             A     VL+GPSGIGKT WA R   KP+L V+H+D LR    + HKSIIFDDM F  +P 
+Sbjct  183   A-----VLIGPSGIGKTCWAKRVAPKPALWVSHMDVLRMYRPNYHKSIIFDDMQFKWMPL  237
+
+Query  1270  EAQIHLVDRFQPRQIHVRYGTADIPAGIQKIFTANQYPF  1154
+             ++QIHLVD +  RQIH RY  A IPA   KIFT N YPF
+Sbjct  238   QSQIHLVDWWSARQIHARYQYATIPAQTPKIFTCNSYPF  276
+
+
+
+
+>Rep [uncultured virus]
+Sequence ID: AUM61691.1 Length: 305
+Range 1: 3 to 300
+
+Score:167 bits(423), Expect:4e-43, 
+Method:Compositional matrix adjust., 
+Identities:111/298(37%), Positives:151/298(50%), Gaps:15/298(5%)
+
+Query  1969  FRLQCRKLFLTYPHCTASIQE-VYDLIHSKKEVKFARICIEPHSDGTPHIHAAIHFTKKV  1793
+             FR   +K+FLTY  C    +E VY  I  +  V    +  E H+D   HIHA   FT+K+
+Sbjct  3     FRFNAKKVFLTYAQCGEMTKEDVYYTIAEQYPVGRYALAEEKHADEGRHIHAFFEFTRKI  62
+
+Query  1792  NICNARLFDIND----HHCNMESV----KNWPATLNYCKKGdnwqdfdndddpdkpiddD  1637
+             +  N+  FD+ND    HH N++ +     N    L Y  K D     +           D
+Sbjct  63    DKRNSDCFDVNDGEKQHHPNIKLLGRGKANEERVLEYIAKEDVCPLTNIAPKLTWGEIKD  122
+
+Query  1636  LCELAETMPAKEYWEYCRRKKVPFAYASNALRDKKSMFTITDSTNYGIIREDLGAYTITE  1457
+               + A    A     Y R   + +    +    + +       T Y      L  Y ++E
+Sbjct  123   QAQDAAEYLALVEKHYPRDAALAWDRLKSYAEQRYNASDPNTITEYQPHEGYLVPYELSE  182
+
+Query  1456  DAPANLTSTVLVGPSGIGKTTWALRECQKPSLLVTHLDGLRQLNGSHKSIIFDDMSFTHI  1277
+                    STV+VGP+G GKT+WA     KP L ++H+DGLR+LN +HKSIIFDDM F+H 
+Sbjct  183   AVVGTDKSTVVVGPAGCGKTSWAKMIAAKPCLFISHMDGLRKLNKNHKSIIFDDMDFSHY  242
+
+Query  1276  PREAQIHLVDRFQPRQIHVRYGTADIPAGIQKIFTANQYPFVPD------PAIDRRVN  1121
+             P +AQ HL+D   PR+IH+RY TA IPAG+QKIFTAN +PF  +       AI RR+N
+Sbjct  243   PLQAQKHLLDCENPREIHIRYRTACIPAGMQKIFTANSFPFYEEREDEHLAAIRRRMN  300
+
+
+
+
+>MAG: replication-associated protein [Cressdnaviricota sp.]
+Sequence ID: WAQ80619.1 Length: 287
+Range 1: 8 to 280
+
+Score:166 bits(420), Expect:6e-43, 
+Method:Compositional matrix adjust., 
+Identities:104/281(37%), Positives:147/281(52%), Gaps:12/281(4%)
+
+Query  1954  RKLFLTYPHCTASIQEVYDLIHSKKEVKFARICIEPHSDGTPHIHAAIHFTKKVNICNAR  1775
+             ++ FLTYP C  S + + + +  K  V+   I  E H D   H+HA + F   V   +  
+Sbjct  8     KRFFLTYPQCPESKESLLEFLQGKAPVRSFVIATELHKDQGSHLHACVEFID-VQRRSVD  66
+
+Query  1774  LFDINDHHCNMESVKNWPATLNYCKKGdnwqdfdndddpdkpiddDLCELAETMPAKEYW  1595
+               D    H N +  + W A   Y KK  ++ + +   + +      L E+     ++  W
+Sbjct  67    WLDFKGKHPNKQDPRKWAACQQYTKKDGDYIESEQRQELEGS----LEEIVALASSESCW  122
+
+Query  1594  -EYCRRKKVPFAYASNAL-RDKKSMFTITDSTNYGIIREDLGAYTITEDAPANLTSTVLV  1421
+              +YC   K+ F YA     R      +IT + + G+I E L +    + +   L   VL 
+Sbjct  123   MQYCVDNKITFQYARWYWDRYADQDISITSNEHVGVICESLKSLIFDDSSRKAL---VLR  179
+
+Query  1420  GPSGIGKTTWALRECQKPSLLVTHLDGLRQ-LNGSHKSIIFDDMSFTHIPREAQIHLVDR  1244
+             GPSG GKTTWA     KP+L V+H+D L++ L G HK IIFDD+SF H PR AQIHL+D 
+Sbjct  180   GPSGCGKTTWAKINAPKPALFVSHIDQLKKFLTGFHKCIIFDDVSFNHFPRTAQIHLLDF  239
+
+Query  1243  FQPRQIHVRYGTADIPAGIQKIFTANQYPFV-PDPAIDRRV  1124
+                R IH R+ TA IP+GI KIFT N++P    DPAI+RR+
+Sbjct  240   DNSRAIHCRHATATIPSGIHKIFTCNEWPVTRGDPAIERRM  280
+
+
+
+
+>MAG: Rep catalytic domain protein [Cressdnaviricota sp.]
+Sequence ID: AXH73298.1 Length: 292
+Range 1: 8 to 291
+
+Score:164 bits(415), Expect:3e-42, 
+Method:Compositional matrix adjust., 
+Identities:106/288(37%), Positives:146/288(50%), Gaps:10/288(3%)
+
+Query  1954  RKLFLTYPHCTASIQEVYDLIHSKKEVKFARICIEPHSDGTPHIHAAIHFTKKVNICNAR  1775
+             ++ FLTYP C     E+   +  +  V    I  E H DG  H+HA + F + V   + R
+Sbjct  8     KRFFLTYPRCELLPNELALFLARQAPVASYLIAREQHEDGAHHLHACVEFKQTVR-ADVR  66
+
+Query  1774  LFDINDHHCNMESVKNWPATLNYCKK-GdnwqdfdndddpdkpiddDLCELAETMPAKEY  1598
+               D   HH N +  + W A   YC+K G+  +  +              E+ +     + 
+Sbjct  67    WLDFEGHHPNKQDPRKWEACKQYCRKDGEYIEGPEEAVLRAAIDGLPPSEVVKAFTECDK  126
+
+Query  1597  W-EYCRRKKVPFAYA-SNALRDKKSMFTIT-DSTNYGIIREDLGAYTITEDAPANLTSTV  1427
+             W +YC  K++ + YA       +   FTIT D+   G + E L ++    D    L   +
+Sbjct  127   WLDYCVSKRISYNYAIWYWTTSRDDSFTITQDTVVTGQMCESLASFAFDGDRHRVL---I  183
+
+Query  1426  LVGPSGIGKTTWALRECQKPSLLVTHLDGLRQLNGS-HKSIIFDDMSFTHIPREAQIHLV  1250
+             L G SG GKTTWA +    P+L V+H+D L++ N + HKSIIFDD+ F H PR AQIHLV
+Sbjct  184   LKGDSGCGKTTWAKKNAPLPALFVSHIDTLKRFNKNIHKSIIFDDVDFNHYPRTAQIHLV  243
+
+Query  1249  DRFQPRQIHVRYGTADIPAGIQKIFTANQYPF-VPDPAIDRRVNNKNL  1109
+             D   PR IHVRYGT +IPA I +IFT N  P  + D AI RR    N+
+Sbjct  244   DYDNPRAIHVRYGTVEIPAQIPRIFTCNADPVTLTDAAIKRRCTLVNI  291
+
+
+
+
+>MAG: replication associated protein [Cressdnaviricota sp.]
+Sequence ID: WAE42523.1 Length: 288
+Range 1: 3 to 281
+
+Score:163 bits(412), Expect:7e-42, 
+Method:Compositional matrix adjust., 
+Identities:103/284(36%), Positives:147/284(51%), Gaps:8/284(2%)
+
+Query  1969  FRLQCRKLFLTYPHCTASIQEVYDLIHSKKEVKFARICIEPHSDGTPHIHAAIHFTKKVN  1790
+             F+   +  FLTYP C  SI+E+Y  + +   VK+ARIC E H+DG  H+HA   F K+  
+Sbjct  3     FKFDAQVFFLTYPRCDVSIEELYAALVTVCPVKWARICSEQHADGGRHLHAVGSFDKRFQ  62
+
+Query  1789  ICNARLFDINDHHCNMESVKNWPATLNYCKKGdnwqdfdndddpdkpiddDLCELAETMP  1610
+               N R+FDI  +H N++  ++   +L Y  K  ++QDF       +         +    
+Sbjct  63    SKNERIFDIQGNHPNIQRCRSIKQSLGYVSKDGDYQDFGTIPKQQEKRAWTDIVASSQGA  122
+
+Query  1609  AKEYWEYCRRKKVPFAYASNALRDKKSMFTITDSTNYGIIREDLGAYTITEDAPANLTST  1430
+               ++ + C  +++   + +  LR+  S     D   Y     D   Y   +  P   TST
+Sbjct  123   EMDWLQVCHEERIQ-QHVAKRLREV-SFAGDEDMDEYDCRPIDSRCY---DKLPLLWTST  177
+
+Query  1429  VLVGPSGIGKTTWALRECQKPSLLVTHLDGLRQLN-GSHKSIIFDDMSFTHIPREAQIHL  1253
+             ++VGP GIGKT WA+    +P+LLV HLD L+    G HKSI+FDD  F H+PR  Q+ +
+Sbjct  178   IVVGPPGIGKTGWAMLWTPRPALLVKHLDTLKLFKCGYHKSIVFDDCDFKHLPRSTQLMI  237
+
+Query  1252  VDRFQPRQIHVRYGTADIPAGIQKIFTAN--QYPFVPDPAIDRR  1127
+              D     QIHVRYG A IPA + +IF  N    PF+ D AI  R
+Sbjct  238   CDYENQLQIHVRYGVARIPARVPRIFLCNYGNLPFIEDTAIQGR  281
+
+
+
+
+>MAG: replication associated protein [Wigfec virus K19_450]
+Sequence ID: UYD39087.1 Length: 288
+Range 1: 1 to 277
+
+Score:163 bits(412), Expect:8e-42, 
+Method:Compositional matrix adjust., 
+Identities:108/293(37%), Positives:156/293(53%), Gaps:29/293(9%)
+
+Query  1963  LQCRKLFLTYPHCTASIQEVYDLIHSKKE----------VKFARICIEPHSDGTPHIHAA  1814
+             +Q + + LTY    ++IQ+  D+I +K+E          V+   +  E H  G+ H HA 
+Sbjct  1     MQAKHVALTY----SNIQQ-QDVIFTKEELFAHLWAIPNVQNVVVSKEKHESGSDHFHAY  55
+
+Query  1813  IHFTKKVNICNARLFDINDHHCNMESVKNWPATLNYCKKGdnwqdfdndddpdkpiddDL  1634
+             + F +K +I ++R FD    H N++  K   A L Y KK  ++ + D +          L
+Sbjct  56    VSFKRKPDIRSSRFFDYKGCHPNLQPCKKVQAWLTYIKKDGDFLENDQNKS--------L  107
+
+Query  1633  CELAETMPAKEYWEYCRRKKVPFAYASN--ALRDKKSMFTITDSTNYGIIREDLGAYTIT  1460
+               + + M  +++ E C + K+ + Y      L  K    TI +  +     + L      
+Sbjct  108   FSICQAMDYRQWIEQCIQDKIAYPYMEKIWELCHKPRDNTILERPDGNFQCDALKNLAFD  167
+
+Query  1459  EDAPANLTSTVLVGPSGIGKTTWALRECQKPSLLVTHLDGLRQLNGS-HKSIIFDDMSFT  1283
+                  N  S V+ G SGIGKT WA    + PSL V+HLD LR  + S HKSIIFDD+SF 
+Sbjct  168   N---WNYKSLVIYGESGIGKTNWAKWHMELPSLFVSHLDSLRDFDSSFHKSIIFDDVSFM  224
+
+Query  1282  HIPREAQIHLVDRFQPRQIHVRYGTADIPAGIQKIFTANQYPFVPDPAIDRRV  1124
+             H+PRE+QIH+VD+F PR IH RY  A+IPAG  K+FTAN+  F  DPAI+RR+
+Sbjct  225   HMPRESQIHVVDQFDPRSIHCRYRVANIPAGTPKVFTANRRIFQDDPAINRRI  277
+
+
+
+
+>MAG: replication protein catalytic domain-like protein [clidnopec virus 27]
+Sequence ID: XII43153.1 Length: 292
+Range 1: 8 to 291
+
+Score:162 bits(410), Expect:1e-41, 
+Method:Compositional matrix adjust., 
+Identities:104/288(36%), Positives:148/288(51%), Gaps:10/288(3%)
+
+Query  1954  RKLFLTYPHCTASIQEVYDLIHSKKEVKFARICIEPHSDGTPHIHAAIHFTKKVNICNAR  1775
+             ++ FLTYP C    +++ + +  +  V +  I  E H DG  H+HA + FT  +   + R
+Sbjct  8     KRFFLTYPQCELLPEQLAEFLSGQAPVTYYLIAREQHEDGAHHLHACVEFTS-IQRHDNR  66
+
+Query  1774  LFDINDHHCNMESVKNWPATLNYCKK-GdnwqdfdndddpdkpiddDLCELAETMPAKEY  1598
+               D + HH N +  + W A   YCKK G+  +   ++            E+  T   K  
+Sbjct  67    WLDFDGHHPNKQDPRKWEACKQYCKKDGNFIEGPQDELFRQALSGLAPSEVVPTFTEKTL  126
+
+Query  1597  W-EYCRRKKVPFAYASNALRDKK-SMFTI-TDSTNYGIIREDLGAYTITEDAPANLTSTV  1427
+             W +YC   K+  AYA     + +   FT+  D    G +   L +Y    +    L   +
+Sbjct  127   WFDYCIANKITHAYAEWYWNNTRPDEFTLPIDHEPQGTMCPALISYQYDSNRDRVL---I  183
+
+Query  1426  LVGPSGIGKTTWALRECQKPSLLVTHLDGLRQLNGS-HKSIIFDDMSFTHIPREAQIHLV  1250
+             L GPSG GKTTWA +   KP+L V+H++ L++     HKSIIFDD+ FTH PR AQIH+ 
+Sbjct  184   LKGPSGCGKTTWAKKHAPKPALFVSHIETLKRFKPDIHKSIIFDDVDFTHYPRTAQIHIA  243
+
+Query  1249  DRFQPRQIHVRYGTADIPAGIQKIFTANQYPF-VPDPAIDRRVNNKNL  1109
+             D    R IHVRYG  +IPA + KIFT N+ P  + D AI RRV   N+
+Sbjct  244   DYDNARAIHVRYGVIEIPAHVAKIFTCNRDPLTLTDEAIRRRVRVINV  291
+
+
+
+
+>MAG: replication associated protein [Arizlama virus]
+Sequence ID: QXP07732.1 Length: 288
+Range 1: 8 to 281
+
+Score:161 bits(408), Expect:3e-41, 
+Method:Compositional matrix adjust., 
+Identities:103/284(36%), Positives:151/284(53%), Gaps:16/284(5%)
+
+Query  1954  RKLFLTYPHCTASIQEVYDLIHSKKEVKFARICIEPHSDGTPHIHAAIHFTKKVNICNAR  1775
+             ++ FLTY  C  S +++   + SK  VK+  I  E H DG  H+H  + F+  +     R
+Sbjct  8     KRFFLTYAQCPVSKEDMLSFLKSKGPVKYYVIGQEKHQDGNAHLHVCVEFST-IQRHPVR  66
+
+Query  1774  LFDINDHHCNMESVKNWPATLNYCKKGdnwqdfdndddpdkpiddDL--CELAETMPAKE  1601
+               D   HH   +  ++W A  NYCKK  ++ + D     +  ++  L  CE  E     +
+Sbjct  67    WLDCEGHHPKKDDPRSWGACKNYCKKDGDFIEEDGGVGVEIELESILKVCEGEE-----Q  121
+
+Query  1600  YWEYCRRKKVPFAYASNALRDKKSM--FTITDSTNYGIIREDLGAYTITEDAPANLTSTV  1427
+             + +YC   K+ F YA     D+ S    TI +  + G++ E +       D      + +
+Sbjct  122   WMQYCVNNKITFQYA-RWFWDRYSADGVTIREDVHVGVMCEQMAKLEFDLD---TRKAWI  177
+
+Query  1426  LVGPSGIGKTTWALRECQKPSLLVTHLDGLRQLNG-SHKSIIFDDMSFTHIPREAQIHLV  1250
+             + GPSG GKTTWA     KP+L V+H+D L++     HKSIIFDD+S TH PR+AQIHL+
+Sbjct  178   IRGPSGCGKTTWAKINAPKPALFVSHIDQLKKFVPLYHKSIIFDDVSVTHYPRDAQIHLL  237
+
+Query  1249  DRFQPRQIHVRYGTADIPAGIQKIFTANQYPFV-PDPAIDRRVN  1121
+             D    R IH R+  A IP+G+ KIFT NQ+P +  D AI+RR+ 
+Sbjct  238   DFDNTRAIHCRHTIATIPSGVFKIFTCNQWPTIRGDEAIERRMK  281
+
+
+
+
+>Rep [Nepavirus]
+Sequence ID: YP_009021041.1 Length: 281
+>Rep [Nepavirus]
+Sequence ID: AFR11834.1 Length: 281 
+Range 1: 3 to 278
+
+Score:161 bits(407), Expect:3e-41, 
+Method:Compositional matrix adjust., 
+Identities:99/285(35%), Positives:153/285(53%), Gaps:22/285(7%)
+
+Query  1969  FRLQCRKLFLTYPHCTASIQEVYDLIHSK----KEVKFARICIEPHSDGTPHIHAAIHFT  1802
+             FRLQ R + +TY  C  ++ ++   + +K    + V+   +C E H DG+ H HA + ++
+Sbjct  3     FRLQGRHIAITYSRCDYALDDILAFLKNKHSGSRTVQHVIVCSETHQDGSFHRHAYVRYS  62
+
+Query  1801  KKVNICNARLFDINDHHCNMESVKNWPATLNYCKKGdnwqdfdndddpdkpiddDLCELA  1622
+              KVNI N   F      CN++  +N  A  NY +K  ++ +++ D          L E A
+Sbjct  63    GKVNITNPEYFKFRHAQCNIQPCRNVAAWNNYVRKDGDFVEWEEDATSSNG----LYENA  118
+
+Query  1621  ETMPAKEYWEYCRRKKVPFAYASNALRDKKS---MFTITDSTNYGI-----IREDLGAYT  1466
+             + M   +++++  R K+ F YA  A   +K    + T  +  N  +     + ++L  + 
+Sbjct  119   QNMGEADFFQWALRSKIQFGYAQRAWDTQKKAAKLITFDEDNNPFLDLNLPLTQELAGWH  178
+
+Query  1465  ITEDAPANLTSTVLVGPSGIGKTTWALRECQKPSLLVTHLDGLRQLNGS-HKSIIFDDMS  1289
+             ++     NLT+ VLVGP+G GKT +  R   KP LL++H+D L+  + + H+SI+FDDM 
+Sbjct  179   LS----TNLTN-VLVGPTGCGKTVYCFRNLLKPMLLISHIDDLKHFDPNLHRSILFDDMK  233
+
+Query  1288  FTHIPREAQIHLVDRFQPRQIHVRYGTADIPAGIQKIFTANQYPF  1154
+             F   P +AQIHL DR  PR IH RYGT  IPAGIQ   T N+  F
+Sbjct  234   FDQWPIQAQIHLCDRGLPRSIHRRYGTTLIPAGIQIAITCNENSF  278
+
+
+
+
+>MAG: replication associated protein [Comazfec virus 9]
+Sequence ID: WVR22032.1 Length: 258
+Range 1: 20 to 253
+
+Score:156 bits(395), Expect:8e-40, 
+Method:Compositional matrix adjust., 
+Identities:104/258(40%), Positives:138/258(53%), Gaps:30/258(11%)
+
+Query  1864  RICIEPHSDGTPHIHAAIHFTKKVNICNARLFDINDHHCNMESVKNWPATLNYCKKGdnw  1685
+             R+  E H DG  H H  I +     + + R FD    H N++ ++N  A   Y +K D+ 
+Sbjct  20    RVAEEQHQDGAFHYHVFIQWLGNHRV-DHRHFDWRGVHPNIQFLRNPRAWNRYIEKDDD-  77
+
+Query  1684  qdfdndddpdkpiddDLCELAETMPAKEYW-EYCRRKKVPFAYASNALR--DKKSMFTIT  1514
+                                L  +   K  W E+C ++K+ +AY     +     S   IT
+Sbjct  78    ------------------PLEWSYDLKIQWMEFCIKEKISYAYMDAIWKYCHADSSCNIT  119
+
+Query  1513  DST--NYGIIREDLGAYTITEDAPANLTSTVLVGPSGIGKTTWALRECQKPSLLVTHLDG  1340
+             + T  N  ++R  L  +   +D+   L S V+VGP G GKT WA    +KP+L VTHLD 
+Sbjct  120   EDTPKNDTMLRC-LKEFNYEDDS---LKSLVIVGPPGCGKTNWAKIHSKKPALFVTHLDR  175
+
+Query  1339  LRQLN-GSHKSIIFDDMSFTHIPREAQIHLVDRFQPRQIHVRYGTADIPAGIQKIFTANQ  1163
+             L++L+   HK IIFDDM F H+PR +QIHLVDR  PR IHVRY  A IPAGIQKIFT NQ
+Sbjct  176   LKELDVAFHKCIIFDDMDFNHMPRTSQIHLVDRENPRDIHVRYSVAFIPAGIQKIFTCNQ  235
+
+Query  1162  YPFVPDPAIDRRVNNKNL  1109
+             YPF  DPA+ RR+   N+
+Sbjct  236   YPFAQDPAVSRRIKLFNV  253
+
+
+
+
+>replication-associated protein [Blackfly DNA Virus 9]
+Sequence ID: QCX35037.1 Length: 307
+Range 1: 3 to 297
+
+Score:157 bits(398), Expect:1e-39, 
+Method:Compositional matrix adjust., 
+Identities:97/300(32%), Positives:156/300(52%), Gaps:23/300(7%)
+
+Query  1969  FRLQCRKLFLTYPHCTASIQEVYDLIHSKKEVKFARICIEPHSDGTPHIHAAIHFTKKVN  1790
+             F L+ + LFLTY  C A+  E+Y+ + SK ++++A +  E H+D   H+HA +   +   
+Sbjct  3     FDLKTKTLFLTYSQCEATHDELYEFLSSKLDIQYAVVGRERHADEGRHLHAYVKLKQSRR  62
+
+Query  1789  ICNARLFDINDHHCNMESVKNWPATLNYCKKGdnwqdfdndddpdkpiddDLCELAETMP  1610
+               N +  D+ + H N+ S +N  A++ Y KK  ++++F  ++           EL     
+Sbjct  63    FRNCKELDLGESHPNITSARNNSASITYAKKDGDYKEFGENNSGGAVRG----ELG-VRD  117
+
+Query  1609  AKEYWEYCRRKKVP-----------FAYA----SNALRDKKSMFTITDSTNY--GIIRED  1481
+              + +++Y  R+ +            F YA     NA    K ++   + T Y  G +   
+Sbjct  118   GEGWFDYFERQHLAGTIIRYAIGTSFGYAKAVWDNAKATHKPIYANFEETAYANGSMLRS  177
+
+Query  1480  LGAYTITEDAPANLTSTVLVGPSGIGKTTWALRECQKPSLLVTHLDGLRQLNGSHKSIIF  1301
+             +    +  +      S V+VG  GIGKTTWA +    P +++TH+D L+Q+    K++IF
+Sbjct  178   VEDCALQGEEGGIPKSIVMVGKPGIGKTTWACKNAVYPMMIITHIDDLKQVTKDVKTLIF  237
+
+Query  1300  DDMSFTHIPREAQIHLVDRFQPRQIHVRYGTADIPAGIQKIFTANQYPFVP-DPAIDRRV  1124
+             DD+ F H PR +QI LVDR   R IHVRYG A I  G++ IF  N++PF   D AI+RR+
+Sbjct  238   DDLDFRHWPRTSQIQLVDRQACRSIHVRYGVASIAVGVRCIFLGNEFPFTRYDGAIERRI  297
+
+
+
+
+>rep protein [Cressdnaviricota sp.]
+Sequence ID: UOF76973.1 Length: 301
+Range 1: 2 to 290
+
+Score:156 bits(394), Expect:3e-39, 
+Method:Compositional matrix adjust., 
+Identities:107/294(36%), Positives:154/294(52%), Gaps:18/294(6%)
+
+Query  1969  FRLQCRKLFLTYPHCTASIQEVYDLIH---SKKEVKFARICIEPHSDGTPHIHAAIHFTK  1799
+             F+   + + LTYP    + +++ D I+   S   + ++ I  E H DG  H H AI  +K
+Sbjct  2     FQFNSQTIGLTYPQSKLTFEQLNDWINTFFSDYGLIYSCIARELHKDGGTHFHLAIKLSK  61
+
+Query  1798  KVNICNARLFDINDHHCNMESVKNWPATLNYCKKGdnwqdfdnddd---pdkpiddDLCE  1628
+                  + R +D++  H N+   +N+ A + YCKK  ++++            P  + +  
+Sbjct  62    SFRCRDQRQWDLHGEHPNLNRPRNFQAWVTYCKKDGDYRETGTIKTNRPSSSPDSETIIS  121
+
+Query  1627  LAETMPAKEYWEYCRRKKVPFA--YASNALRDKKSMFTITDSTNYGIIREDLG---AYTI  1463
+              A  +   E+  +    KV +A     +   DK +  TI D   +G I + +     +T+
+Sbjct  122   NATDLSRVEFLVWASVNKVSYAKDIWESIHSDKGT--TIKDGDIFGGIMDPVFNNIKFTM  179
+
+Query  1462  TEDAPANLTSTVLVGPSGIGKTTWALRECQKPSLLVTHLDGLRQL-NGSHKSIIFDDMSF  1286
+                 P  L   +LVG SG+GKTTWA     KPSL VTH+D L+   NG HKSI+FDD+SF
+Sbjct  180   EWLGPKAL---ILVGDSGLGKTTWAKTNIPKPSLFVTHIDELKAFKNGYHKSILFDDVSF  236
+
+Query  1285  THIPREAQIHLVDRFQPRQIHVRYGTADIPAGIQKIFTANQYPF-VPDPAIDRR  1127
+              H P ++QIHLVD F  R IHVRYGTA IPAG  K FT N+ P  +  PAI RR
+Sbjct  237   KHYPVQSQIHLVDFFDSRSIHVRYGTAYIPAGTIKFFTCNEDPLDLTHPAIARR  290
+
+
+
+
+>replication-associated protein [Tick-associated circular virus-5]
+Sequence ID: USZ80631.1 Length: 316
+Range 1: 4 to 292
+
+Score:155 bits(393), Expect:6e-39, 
+Method:Compositional matrix adjust., 
+Identities:93/296(31%), Positives:152/296(51%), Gaps:20/296(6%)
+
+Query  1975  NRFRLQCRKLFLTYPHCTA---SIQEVYDLIHSKKEVKFARICIEPHSDGTPHIHAAIHF  1805
+             N FR+  +   LT+P       +  ++   + S     +  +  E H+ G PH HA + +
+Sbjct  4     NGFRVNAKNFALTFPATVELPFNKDQLLSHLVSIDGPIYVIVAKELHATGVPHYHALVTY  63
+
+Query  1804  TKKVNICNARLFDINDHHCNMESVKNWPATLNYCKKGdnwqdfdndddpdkpiddDLCEL  1625
+             + K N+ N R FD    H N++  ++    + Y KK  ++ +           +      
+Sbjct  64    SSKKNLRNPRYFDFMGAHANVQGCRSLSQWIAYVKKDGDFIEHGTAPVSTTVSEHSFPTP  123
+
+Query  1624  AETMPAKEYWEYCRRKKVPFAYASNALRDKKSMFTITDSTNYGIIREDLGAYTITEDAPA  1445
+             ++    +E+   C ++++P+ YA       + M+ +  + +   I+ED      ++  PA
+Sbjct  124   SDCDNEEEWLSRCLQREIPYGYA-------QRMWQLLQANDCLTIKEDYVPPAGSQVCPA  176
+
+Query  1444  -------NLT--STVLVGPSGIGKTTWALRECQKPSLLVTHLDGLRQLNGSHKSIIFDDM  1292
+                    +LT    V++GPSG GKTTWA + C KP+L V+  D L++L   HK +IFDD 
+Sbjct  177   LQSFSPPDLTFHCLVIIGPSGCGKTTWAKQWCPKPALFVSTADDLKKLRAEHKCVIFDDC  236
+
+Query  1291  SFTHIPREAQIHLVDRFQPRQIHVRYGTADIPAGIQKIFTANQYP-FVPDPAIDRR  1127
+             +F H PRE+QIHLVD ++PR IH+RY  A +P G+ ++FTAN  P  + D AI RR
+Sbjct  237   NFNHWPRESQIHLVDMYEPRSIHLRYSNALLPQGLLRVFTANTDPILLTDEAIRRR  292
+
+
+
+
+>Rep [Trichosanthes kirilowii CRESS virus]
+Sequence ID: QKI29002.1 Length: 306
+Range 1: 2 to 302
+
+Score:155 bits(391), Expect:9e-39, 
+Method:Compositional matrix adjust., 
+Identities:103/304(34%), Positives:152/304(50%), Gaps:19/304(6%)
+
+Query  1972  RFRLQCRKLFLTYPHCTASIQEVYDLIH---SKKEVKFARICIEPHSDGTPHIHAAIHFT  1802
+             +F+L  + L LTYP       +++D +    +   +K   +  E H DG PH H AI   
+Sbjct  2     KFQLNSQTLGLTYPQLNGCYLQLFDWLREEFTNYGIKHIVVAQEHHKDGNPHAHVAIKLA  61
+
+Query  1801  KKVNICNARLFDINDHHCNMESVKNWPATLNYCKKGdnwqdfdndddp---dkpiddDLC  1631
+             +     +AR  D N +H N+   +N+   ++YCKK   +++    +         ++ + 
+Sbjct  62    RSFRTRDARFGDWNGNHPNVVKPRNYKHWVDYCKKDGTFKEEGCSESRGRPTTTSEETVM  121
+
+Query  1630  ELAETMPAKEYWEYCRRKKVPFAYASNALRDKKSMFTITDSTNY-GIIREDLGAYTITED  1454
+               A  +   ++  +    +V +A     L     + TI DS    GI+   L A+    +
+Sbjct  122   GKAAVLSKLDFLIWAGVNRVTYAEKIWDLAHTTDLITINDSCAIKGIMAPQLQAFKFDME  181
+
+Query  1453  --APANLTSTVLVGPSGIGKTTWALRECQKPSLLVTHLDGLRQLNGS-HKSIIFDDMSFT  1283
+                P  L   +LVG SG GKTTW+     KP L VTH+D L+    + HKSI+FDD+SF 
+Sbjct  182   WLGPKAL---ILVGDSGCGKTTWSKLNAPKPCLFVTHIDDLKLFKATTHKSILFDDVSFK  238
+
+Query  1282  HIPREAQIHLVDRFQPRQIHVRYGTADIPAGIQKIFTANQYPF-VPDPAIDR-----RVN  1121
+             H P ++QIHLVD F  R IH+RYG   IP+G  KIFT N+ P  + DPAI R     R+N
+Sbjct  239   HYPIQSQIHLVDFFDTRSIHIRYGIVTIPSGTTKIFTCNEDPVNLSDPAIARRCKVVRIN  298
+
+Query  1120  NKNL  1109
+              K L
+Sbjct  299   TKGL  302
+
+
+
+
+>replication-associated protein [Stipagrostis associaed virus]
+Sequence ID: YP_009552054.1 Length: 300
+>replication-associated protein [Stipagrostis associaed virus]
+Sequence ID: AXF50874.1 Length: 300 
+Range 1: 2 to 292
+
+Score:153 bits(387), Expect:2e-38, 
+Method:Compositional matrix adjust., 
+Identities:99/295(34%), Positives:148/295(50%), Gaps:16/295(5%)
+
+Query  1969  FRLQCRKLFLTYPHCTASIQEVYDLIHSKKEVKFARICIEPHSDGTPHIHAAIHFTKKVN  1790
+             +R++ + L LTY   +    ++    H +  + +  +  E H D   H H  +   K+ +
+Sbjct  2     YRIRGQALLLTYSQTSLDQNDLAAFHHEQLPISYYLLANETHQDNGRHYHVYLETEKRFD  61
+
+Query  1789  ICNARLFDINDHHCNMESVKNWPATLNYCKKGdnwqdfdndddpdkpiddDLCELAETMP  1610
+             I N R FD    H N +  +N  AT+NYCKK +           +      LCE      
+Sbjct  62    ITNVRRFDFGGEHPNTQVPRNREATINYCKK-EGDYWELGRPATNASRQQHLCEETTFST  120
+
+Query  1609  AK--------EYWEYCRRKKVPFAYASN--ALRDKKSMFTIT-DSTNYGIIREDLGAYTI  1463
+                       ++ ++C   K+ F Y +   AL + K +  IT DS   G++        I
+Sbjct  121   GDCRNFEKEIDWIDHCITNKIQFGYCARIWALHNIKPLKYITNDSIFNGVVTHPTLMLPI  180
+
+Query  1462  TEDAPANLTSTVLVGPSGIGKTTWALRECQKPSLLVTHLDGLRQLNGSH-KSIIFDDMSF  1286
+               D PA   +TV++GP+G+GKT WA R   KP+LL+ HL+ L+ ++ S+ K+IIFDDM F
+Sbjct  181   QPD-PAK--ATVVIGPTGVGKTVWAKRNSIKPALLIRHLEDLKTVDWSYLKTIIFDDMLF  237
+
+Query  1285  THIPREAQIHLVDRFQPRQIHVRYGTADIPAGIQKIFTANQYPFVPDPAIDRRVN  1121
+              H P + QIHL+D  +   IH RYG   IPA   KIFT N+ PF+   AI RR++
+Sbjct  238   RHWPLQTQIHLLDWDEDSSIHARYGNITIPANTHKIFTCNEDPFIDHEAIFRRIH  292
+
+
+
+
+>MAG: Rep protein [Cressdnaviricota sp.]
+Sequence ID: XNT21152.1 Length: 335
+Range 1: 3 to 311
+
+Score:154 bits(389), Expect:3e-38, 
+Method:Compositional matrix adjust., 
+Identities:102/309(33%), Positives:149/309(48%), Gaps:29/309(9%)
+
+Query  1966  RLQCRKLFLTYPHCTASIQEVYDLIHSKKEVKFARICIEPH------------SDGTPHI  1823
+             R   +K F+T+  C  S+ ++Y+ + SK+ V  A  C+E H            +   PH+
+Sbjct  3     RWNSKKFFVTWSQCPESLDDIYNHVVSKRPVARAIGCVELHDANPALIDEVHPTGELPHV  62
+
+Query  1822  HAAIHFTKKVNICNARLFDINDHHCNMESVKNWPATLNYCKKGdnwqdf-------dndd  1664
+             H    F +K+N  N R FD N +H  +E+V+ W A +NY ++GD              + 
+Sbjct  63    HFVFEFVQKLNTTNERYFDFNGYHPKIETVRKWEAAVNYFREGDGQYAIDLKYYNCTEET  122
+
+Query  1663  dpdkpiddDLCELAETMPAKEYWEYCRRKKVPFA---YASNALRDKKSMFTITDS-TNYG  1496
+               D+    DL  +A  +  + +  YC    V F    +    L     + T+ +  T   
+Sbjct  123   AADEAESTDLFAIASGLDRQGWTNYCHHNNVSFMREQFVWKTLHTDTDILTVEEPPTLRP  182
+
+Query  1495  IIREDLGAY----TITEDAPANLTSTVLVGPSGIGKTTWALRECQKPSLLVTHLDGLRQL  1328
+               R+   A      +  + P    S VL+GPSGIGKT WA     KP+  V H+D LR  
+Sbjct  183   EARQQCDASERLDNLVFELPDRPQSVVLLGPSGIGKTVWAKTIAPKPAYEVGHMDDLRDF  242
+
+Query  1327  N-GSHKSIIFDDMSFTHIPREAQIHLVDRFQPRQIHVRYGTADIPAGIQKIFTANQ-YPF  1154
+               G HKSIIFD++ F+H+P   QI +VD    R IH RY  A IPAG+QK FT  + +PF
+Sbjct  243   KAGYHKSIIFDEIRFSHLPLTTQIAVVDVDDARSIHTRYKPARIPAGVQKFFTCTETWPF  302
+
+Query  1153  VPDPAIDRR  1127
+               +  I+RR
+Sbjct  303   EKNFQIERR  311
+
+
+
+
+>Rep [Forsythia suspensa CRESS virus]
+Sequence ID: QKI28986.1 Length: 352
+>Rep [Trichosanthes kirilowii CRESS virus]
+Sequence ID: QKI29004.1 Length: 352 
+Range 1: 48 to 336
+
+Score:154 bits(390), Expect:4e-38, 
+Method:Compositional matrix adjust., 
+Identities:106/296(36%), Positives:152/296(51%), Gaps:22/296(7%)
+
+Query  1969  FRLQCRKLFLTYPHCTASIQEVYDLIHSKK----EVKFARICIEPHSDGTPHIHAAIHFT  1802
+             FR+      LTYP    S++E  + + + +     V+   I  E H  G  H HA + F 
+Sbjct  48    FRINGIHFSLTYPRSDFSLEEGLEALKTIRVGSTYVRSVIIASEEHQGGGYHRHAYVRFH  107
+
+Query  1801  KKVNICNARLFDINDHHCNMESVKNWPATLNYCKK-GdnwqdfdndddpdkpiddDLCEL  1625
+             K+V+I N+R+FDI   H N++S +N  A LNY KK G+  +  D+  +       +L + 
+Sbjct  108   KRVDIRNSRVFDILTRHANVQSTRNVQAWLNYIKKDGEWMEWNDDVPESAANTSFNLLDS  167
+
+Query  1624  AETMPAKEYWEYCRRKKVPFAYASNALRDKKSMFTITDSTNYGIIREDLGAYTITEDAPA  1445
+             A++M    + +     KVP+AYA +A +   S      ++   I  + +    IT   P 
+Sbjct  168   AQSMSRATFMQAAFDAKVPYAYAMDAWKTAHS-----QASTVTIEADPVPELEIT--LPP  220
+
+Query  1444  NLT--------STVLVGPSGIGKTTWALRECQKPSLLVTHLDGLRQLNGS-HKSIIFDDM  1292
+              L         + V++GPSG GKT  A+R   KP LL  H+D L+  +   HKSI+FDDM
+Sbjct  221   ELEHYEFEVNRTNVIIGPSGCGKTVTAIRRMTKPILLCRHMDTLQHFDHLIHKSILFDDM  280
+
+Query  1291  SFTHIPREAQIHLVDRFQPRQIHVRYGTADIPAGIQKIFTANQYPF-VPDPAIDRR  1127
+             +FTH  R  QIH+ DR  P  +H RYGT  +P G Q   T N+ P  V DPAI RR
+Sbjct  281   AFTHYHRTQQIHICDRALPSALHRRYGTTLVPPGTQVTITGNEVPLNVGDPAIARR  336
+
+
+
+
+>putative Rep protein [Circovirus-like genome DCCV-2]
+Sequence ID: YP_009259705.1 Length: 297
+>putative Rep protein [Circovirus-like genome DCCV-2]
+Sequence ID: AMB42953.1 Length: 297 
+Range 1: 2 to 288
+
+Score:150 bits(380), Expect:2e-37, 
+Method:Compositional matrix adjust., 
+Identities:101/295(34%), Positives:143/295(48%), Gaps:22/295(7%)
+
+Query  1969  FRLQCRKLFLTYPHCTASI---------QEVYDLIHSKKEVKFARICIEPHSDGTPHIHA  1817
+             FR+  +   LTY +              + +   + S  +     +  E H DG+ H HA
+Sbjct  2     FRINAKNFSLTYSNVEQQSGVAWLPWDKESLLRHLESLGDGVIGMVSREQHQDGSTHFHA  61
+
+Query  1816  AIHFTKKVNICNARLFDINDHHCNMESVKNWPATLNY-CKKGdnwqdfdndddpdkpidd  1640
+              + F +K +I  +  FD    H N+++  N  A   Y CK GD+  +             
+Sbjct  62    WVQFPRKRDIRASNFFDWQGCHPNVQATNNLRAWKTYICKDGDHTPEPATPTATGD----  117
+
+Query  1639  DLCELAETMPAKEYWEYCRRKKVPFAYASNALRD--KKSMFTITDSTN-YGIIREDLGAY  1469
+              L  L  +M   E+  YC  KK+ F Y     +D       TI D+     ++   L  +
+Sbjct  118   -LFVLCHSMEKHEWVNYCIGKKIGFQYMEYIWKDCHMDRDSTIEDNPPPEAVMCAALEQF  176
+
+Query  1468  TITEDAPANLTSTVLVGPSGIGKTTWALRECQKPSLLVTHLDGLRQLNGS-HKSIIFDDM  1292
+                     + +  VLVG +G GKTTWA++   KP   V+H+D L+  +   HKSI+FDDM
+Sbjct  177   IYPS---LDRSPLVLVGDTGCGKTTWAIKNAPKPICFVSHMDQLKHFDPQYHKSIVFDDM  233
+
+Query  1291  SFTHIPREAQIHLVDRFQPRQIHVRYGTADIPAGIQKIFTANQYPFVPDPAIDRR  1127
+              F H+PRE+QIH++D   PR IH RYG   IPAG +KIFTAN  PF+ DPAI RR
+Sbjct  234   DFKHLPRESQIHILDMTTPRAIHRRYGVTVIPAGTKKIFTANSNPFIEDPAIIRR  288
+
+
+
+
+>Rep [Forsythia suspensa CRESS virus]
+Sequence ID: QKI28984.1 Length: 335
+Range 1: 66 to 320
+
+Score:151 bits(382), Expect:3e-37, 
+Method:Compositional matrix adjust., 
+Identities:99/255(39%), Positives:128/255(50%), Gaps:5/255(1%)
+
+Query  1876  VKFARICIEPHSDGTPHIHAAIHFTKKVNICNARLFDINDHHCNMESVKNWPATLNYCKK  1697
+             V++  I  E H  G  H H  I FTK +   + R FDI   H N++  K++   + YCKK
+Sbjct  66    VEYCIIARESHESGDHHYHVGIRFTKPIRTKDPRKFDILGFHPNIQPAKDFQRWVAYCKK  125
+
+Query  1696  GdnwqdfdndddpdkpiddD---LCELAETMPAKEYWEYCRRKKVPFAYASNALRDKKSM  1526
+                + ++       K I      L  LA+TM   E+  YC   + P+A        K   
+Sbjct  126   DGVFAEYGTIITEKKSIRVTPDELIHLAKTMNKGEFLAYCSVGRYPYANEIWNQNHKTDH  185
+
+Query  1525  FTITDSTNYGIIREDLGAYTITEDAPANLTSTVLVGPSGIGKTTWALRECQKPSLLVTHL  1346
+              TI  S N     +      IT          +L+G SGIGKTTW  +   KP L+VTHL
+Sbjct  186   CTILSSDNITGTYDPCFDKLITSIHWDQSKCLLLIGDSGIGKTTWCKKNMPKPCLMVTHL  245
+
+Query  1345  DGLRQLN-GSHKSIIFDDMSFTHIPREAQIHLVDRFQPRQIHVRYGTADIPAGIQKIFTA  1169
+             D L++   G H SI+FDD+S  H+P  +QIHLVD   PR IH+RYG A IP+GI K FT 
+Sbjct  246   DDLKRFEPGVHTSILFDDVSIKHLPDTSQIHLVDYENPRSIHIRYGVARIPSGIVKAFTC  305
+
+Query  1168  NQYPFVPD-PAIDRR  1127
+             N  P   D PAI RR
+Sbjct  306   NTIPVNIDMPAISRR  320
+
+
+
+
+>rep protein [Cressdnaviricota sp.]
+Sequence ID: UOF80776.1 Length: 292
+Range 1: 8 to 284
+
+Score:149 bits(375), Expect:9e-37, 
+Method:Compositional matrix adjust., 
+Identities:100/282(35%), Positives:148/282(52%), Gaps:9/282(3%)
+
+Query  1954  RKLFLTYPHCTASIQEVYDLIHSKKEVKFARICIEPHSDGTPHIHAAIHFTKKVNICNAR  1775
+             +K FLTYP  TA+ +     + +K  VK A + +E H+DG  H+H  +   +++   +A 
+Sbjct  8     KKYFLTYPQTTANKETYLQWLVAKFPVKEAIVAVEKHADGGDHLHVYVEM-QRMYRASAH  66
+
+Query  1774  LFDINDHHCNMESVKNWPATLNYCKKGdnwqdfdndddpdkpiddDLCELAETMPAKEYW  1595
+              FD  + H N++SV+N  AT  Y KK  ++ ++  +          + ++A+    +E+ 
+Sbjct  67    SFDYENRHPNIQSVRNVFATKTYVKKDGDYIEYPQELPSVVED---IFDVAKESTRREFI  123
+
+Query  1594  EYCRRKKVPFAYASNALRDKKSMFTITDSTNYGIIREDLGAYTITEDAPANLTSTVLVGP  1415
+              YC ++KVP   A  A        T+ DS      R          +    L ST++VG 
+Sbjct  124   LYCLQEKVPKWIADEAWLLSHPHSTVVDSEEDLFSRMCPALREFRRNYSDQL-STIIVGE  182
+
+Query  1414  SGIGKTTWALRECQKPSLLVTHLDGLRQLN-GSHKSIIFDDMSFTHIPREAQIHLVDRFQ  1238
+             +G GKTTWA     KP+L V H D L+    G HKSIIFDD+SF H PR  Q+ LVD++ 
+Sbjct  183   AGCGKTTWAKAFAPKPALWVKHTDTLKAFKPGFHKSIIFDDVSFRHCPRSQQLQLVDQYD  242
+
+Query  1237  PRQIHVRYGTADIPAGIQKIFTAN---QYPFVPDPAIDRRVN  1121
+              +QIH R+  A IPAG+ +IFT N   +   + D AI RRV 
+Sbjct  243   EQQIHCRHAVATIPAGVPRIFTCNVGWEPVDLSDAAIARRVK  284
+
+
+
+
+>MAG: replication associated protein [Dumus virus 6]
+Sequence ID: WYA80264.1 Length: 306
+Range 1: 4 to 305
+
+Score:149 bits(376), Expect:1e-36, 
+Method:Compositional matrix adjust., 
+Identities:113/317(36%), Positives:155/317(48%), Gaps:45/317(14%)
+
+Query  1969  FRLQCRKLFLTYPHCTASI--QEVYDLIHSKKEVKFARICIEPH-SDGTPHIHAAIHFTK  1799
+             FR   ++ FLTY      I  + +Y  + ++  +K      E H S G  HIHA + F +
+Sbjct  4     FRFAAKRAFLTYSDVCEEITKEAIYFDLDARYPIKSYAFGEEIHPSTGGRHIHAILEFRR  63
+
+Query  1798  KVNICNARLFDIND----HHCNMESV----KNWPATLNYCKKGdnwqdfdndddpdkpid  1643
+             KV+  +  LFDI D    HH N++ V     +W   L+Y  K       D     +  + 
+Sbjct  64    KVDSTDVTLFDIADSEHQHHPNIQKVPKGQAHWERILDYVTK------EDPCPLANVELR  117
+
+Query  1642  dDLCELAETMPAKEYWEYCRRKKVPFAYASNALRDKKSMFTITDSTNYGIIREDLGAYTI  1463
+                 EL +     E +    ++  P  +A+N  R+ + M T T    Y I+ +D    TI
+Sbjct  118   PTWGELFDNATTSEEYLRLVKQHYPKEFANN-YRNLEYMATKT----YPILTDD----TI  168
+
+Query  1462  TEDAPANLT---------------STVLVGPSGIGKTTWALRECQKPSLLVTHLDGLRQL  1328
+              E +P +L                STV+VG  G GKTTWA   C KP L V HLD L+QL
+Sbjct  169   VEYSPPSLITFPPELVLLTPSIGQSTVVVGRPGCGKTTWAKTYCPKPCLFVRHLDNLQQL  228
+
+Query  1327  NGSHKSIIFDDMSFTHIPREAQIHLVDRFQPRQIHVRYGTADIPAGIQKIFTANQYPFVP  1148
+                H+ IIFDD+ F+H+P   Q  LVD+  P  IHVRY  A IPAG+ KIFTAN+YPF  
+Sbjct  229   QPGHRGIIFDDLDFSHLPVATQKFLVDQTDPAHIHVRYRVARIPAGMTKIFTANEYPFTD  288
+
+Query  1147  D----PAIDRRVNNKNL  1109
+             +     AI RRV   ++
+Sbjct  289   EGIHGEAIRRRVTRIDI  305
+
+
+
+
+>Rep [Trichosanthes kirilowii CRESS virus]
+Sequence ID: QKI29000.1 Length: 335
+Range 1: 67 to 320
+
+Score:149 bits(375), Expect:3e-36, 
+Method:Compositional matrix adjust., 
+Identities:96/254(38%), Positives:129/254(50%), Gaps:5/254(1%)
+
+Query  1873  KFARICIEPHSDGTPHIHAAIHFTKKVNICNARLFDINDHHCNMESVKNWPATLNYCKKG  1694
+             ++  I  E H  G  H H  I FTK +   + R FDI   H N++  K++   + YCKK 
+Sbjct  67    EYLIIARESHESGEHHYHIGIRFTKAIRTKDPRKFDILGFHPNIQPAKDFNRWIAYCKKD  126
+
+Query  1693  dnwqdfdn---dddpdkpiddDLCELAETMPAKEYWEYCRRKKVPFAYASNALRDKKSMF  1523
+               + ++     +    +   ++L  LA+TM   E+  YC   + P+A        K    
+Sbjct  127   GIFAEYGTFEPEKKSVRISPNELIHLAKTMNKGEFLAYCSVGRYPYATEIWNQNHKTDHC  186
+
+Query  1522  TITDSTNYGIIREDLGAYTITEDAPANLTSTVLVGPSGIGKTTWALRECQKPSLLVTHLD  1343
+             TI  S N     +      IT          +L+G SGIGKTTW  +   KP L+VTHLD
+Sbjct  187   TILSSDNITGTYDPCFDKLITSIHWDQSKCLLLIGDSGIGKTTWCKKNMPKPCLMVTHLD  246
+
+Query  1342  GLRQLN-GSHKSIIFDDMSFTHIPREAQIHLVDRFQPRQIHVRYGTADIPAGIQKIFTAN  1166
+              L++   G H SI+FDD+S  H+P  +QIHLVD   PR IH+RYG A IP+GI K FT N
+Sbjct  247   DLKRFEPGVHTSILFDDVSIKHLPDTSQIHLVDYENPRSIHIRYGVARIPSGIVKAFTCN  306
+
+Query  1165  QYPFVPD-PAIDRR  1127
+               P   D PAI RR
+Sbjct  307   TIPVNIDMPAISRR  320
+
+
+
+
+>Rep [Lactuca sativa CRESS virus]
+Sequence ID: QKI29040.1 Length: 306
+Range 1: 5 to 299
+
+Score:146 bits(369), Expect:8e-36, 
+Method:Compositional matrix adjust., 
+Identities:102/303(34%), Positives:150/303(49%), Gaps:30/303(9%)
+
+Query  1969  FRLQCRKLFLTYPHCTASI--QEVYDLIHSKKEVKFARICIEPHSDGTPHIHAAIHFTKK  1796
+             FR Q +++ LTY   +  +  + V+  +  +  +++  I  E H DG  HIHA + F  K
+Sbjct  5     FRFQAKRVLLTYSQVSERMTKEVVFHTLMDRYPIQYFLIGEETHEDGGRHIHAVMEFKVK  64
+
+Query  1795  VNICNARLFDIND----HHCNMESVK----NWPATLNYCKKGdnwqdfdndddpdkpidd  1640
+             VN  +  LFDIND     H N++ +     +W   L+YC+K       D +   +     
+Sbjct  65    VNSRDVGLFDINDGEEVFHPNIKPISRGQVHWKRALDYCQK------EDPEPLSNIVEKL  118
+
+Query  1639  DLCELAETMPAKEYWEYCRRKKVPFAYA---SNALRDKKSMFTITDSTNYGIIREDLGAY  1469
+                E+ +   + + +    ++  P  YA   S  L   K  +   ++T   +   D   +
+Sbjct  119   SYGEILDQASSCDEFMRLVKEHYPRDYALHNSRLLEMAKREWP--ETTVNTLTTSDTVTW  176
+
+Query  1468  TITEDA-----PANLTSTVLVGPSGIGKTTWALRECQKPSLLVTHLDGLRQLNGSHKSII  1304
+                 DA     P  + S V++GP+G GKT+WA     KP L V HLD L  LN SH+SII
+Sbjct  177   ITLPDALMNFEPLPMRSIVVIGPAGCGKTSWAKFIAPKPCLFVRHLDSLSMLNASHQSII  236
+
+Query  1303  FDDMSFTHIPREAQIHLVDRFQPRQIHVRYGTADIPAGIQKIFTANQYPFVPD----PAI  1136
+             FDD++F H+P   Q  LVD     +IH+RY  A IPAGI +I T+N  PF  D    PAI
+Sbjct  237   FDDLTFNHLPPSTQKFLVDMENLAEIHIRYRVARIPAGILRIITSNDDPFTHDYMHRPAI  296
+
+Query  1135  DRR  1127
+             +RR
+Sbjct  297   ERR  299
+
+
+
+
+>rep protein [Cressdnaviricota sp.]
+Sequence ID: UOF82593.1 Length: 364
+Range 1: 85 to 354
+
+Score:146 bits(368), Expect:4e-35, 
+Method:Compositional matrix adjust., 
+Identities:98/275(36%), Positives:139/275(50%), Gaps:18/275(6%)
+
+Query  1912  QEVYDLIHSKKE-----VKFARICIEPHSDGTPHIHAAIHFTKKVNICNARLFDINDHHC  1748
+             +  Y+LI S+ +     ++   IC E H  G  H HA I F  +    + RLFDI+  H 
+Sbjct  85    ERFYNLIRSRDQLRDFPIRHLIICRERHESGEYHYHAGIQFFSQFRTRDNRLFDIDSCHP  144
+
+Query  1747  NMESVKNWPATLNYCKKGdn---wqdfdndddpdkpiddDLCELAETMPAKEYWEYCRRK  1577
+             N++  + +   + YC+K      +          +    +L ELA+TM   ++  YC   
+Sbjct  145   NIQGARQYFQWVAYCQKDQVFWEYGTIKPSKKTIRVTPKELIELAKTMNKGDFMAYCSVN  204
+
+Query  1576  KVPFA---YASNALRDKKSMFTITDSTNYGIIREDLGAYTITEDAPANLTSTVLVGPSGI  1406
+             +  +A   + +   +D+ ++ TI      G I   L       D    L   +LVG SGI
+Sbjct  205   RYQYAKDIWETTHHKDECTITTIDGIE--GTIDPCLHRINQIWDRSKTL---ILVGKSGI  259
+
+Query  1405  GKTTWALRECQKPSLLVTHLDGLRQLNGS-HKSIIFDDMSFTHIPREAQIHLVDRFQPRQ  1229
+             GKTTW      KP L+V+HLD LR+     HKSI+FDD+S  H+P  +QIH+ D   PR 
+Sbjct  260   GKTTWCKINLTKPLLMVSHLDDLRRFRSDYHKSILFDDVSIRHLPDTSQIHICDFENPRS  319
+
+Query  1228  IHVRYGTADIPAGIQKIFTANQYPFVPD-PAIDRR  1127
+             IH+RYG A IPAGI+K FT N  P   D PA+ RR
+Sbjct  320   IHIRYGCARIPAGIEKAFTCNVIPINIDMPAVKRR  354
+
+
+
+
+>MAG: replication-associated protein [Cressdnaviricota sp.]
+Sequence ID: QJI53683.1 Length: 157
+Range 1: 18 to 150
+
+Score:139 bits(351), Expect:5e-35, 
+Method:Compositional matrix adjust., 
+Identities:69/133(52%), Positives:88/133(66%), Gaps:1/133(0%)
+
+Query  1516  TDSTNYGIIREDLGAYTITEDAPANLTSTVLVGPSGIGKTTWALRECQKPSLLVTHLDGL  1337
+             T S +Y +    L     T   P ++TS  + GPSGIGKTTWAL  C+KP L V HLD L
+Sbjct  18    TISNDYLVEGTILSTTLETLRMPEDMTSLWIKGPSGIGKTTWALTYCEKPLLFVRHLDTL  77
+
+Query  1336  RQLN-GSHKSIIFDDMSFTHIPREAQIHLVDRFQPRQIHVRYGTADIPAGIQKIFTANQY  1160
+             RQ   G HK+I+FDDM+F+H+PR AQI LVDR+ P+Q+HVRY   DIPA   K+F +N  
+Sbjct  78    RQFRPGFHKTIVFDDMNFSHLPRPAQIELVDRYHPQQVHVRYAVVDIPAKTPKVFLSNDI  137
+
+Query  1159  PFVPDPAIDRRVN  1121
+              F+ D AI+RR+ 
+Sbjct  138   IFIYDEAINRRLT  150
+
+
+
+
+>MAG: replication-associated protein [Cressdnaviricota sp.]
+Sequence ID: QRI44113.1 Length: 310
+Range 1: 3 to 291
+
+Score:142 bits(359), Expect:2e-34, 
+Method:Compositional matrix adjust., 
+Identities:105/297(35%), Positives:144/297(48%), Gaps:23/297(7%)
+
+Query  1969  FRLQCRKLFLTYPHCTASIQEVYDLIHSKKEVKFARICIEPHSDGTPHIHAAIHFTKKVN  1790
+             F+L  + +FLTYP C+  +  +   + S     +A +  E H DG+ H HA + F+K   
+Sbjct  3     FQLNSKNVFLTYPKCSVPLSVLLAFLISTVNPDYAVVSSEKHEDGSLHRHALLQFSKPFR  62
+
+Query  1789  ICNARLFDINDHHCNMESVKNWPATLNYCKKGdnwqdfdndddpdkpiddDLCELAETMP  1610
+               +  +FD   HH N++S +N  AT  Y KK  ++ +  +     +    D  EL+ T  
+Sbjct  63    TRSETIFDCKGHHPNIQSARNPSATDKYVKKDGDFLEHGSFLGKPEKEAVD--ELSITGA  120
+
+Query  1609  AKEY-------WEYCRRKKVPFAYASN---ALRDKKSMFTITDSTNYGIIREDLGAYTIT  1460
+             A E        W    R      YA +   ALR   +    ++   Y ++  D     + 
+Sbjct  121   AGEMDLGPFLVWASVHR----VMYAKDIWVALRQVDTHTIASNDNLYNVL--DPAFLKLL  174
+
+Query  1459  EDAPANLT---STVLVGPSGIGKTTWALRECQKPSLLVTHLDGLRQLN-GSHKSIIFDDM  1292
+             E     +    + VLVG SGIGKTTWA     KP L V H D L++   G HKSIIFDD+
+Sbjct  175   ESHGGKIKKDKAIVLVGASGIGKTTWAKLFAIKPCLFVNHTDTLKEFRAGYHKSIIFDDV  234
+
+Query  1291  SFTHIPREAQIHLVDRFQPRQIHVRYGTADIPAGIQKIFTANQYPF-VPDPAIDRRV  1124
+             SF H P   QI L D   PR IH R+  A+IPAGI KIFT N  P  +   AI RR+
+Sbjct  235   SFKHTPITNQIALCDFDNPRSIHCRHRVANIPAGIMKIFTCNDPPLELEHDAIARRI  291
+
+
+
+
+>replication-associated protein [Arctopus echinatus-associated virus]
+Sequence ID: YP_009553657.1 Length: 319
+>replication-associated protein [Arctopus echinatus-associated virus]
+Sequence ID: AXF50873.1 Length: 319 
+Range 1: 12 to 310
+
+Score:142 bits(359), Expect:3e-34, 
+Method:Compositional matrix adjust., 
+Identities:103/304(34%), Positives:153/304(50%), Gaps:29/304(9%)
+
+Query  1963  LQCRKLFLTYPHCTASIQEVYDLIHSKKEVKFARICIEPHSDGTPHIHAAIHFTKKVNIC  1784
+             L+ R   LTYP    +    +  ++ +     A +C E H D T H H A+ F ++    
+Sbjct  12    LRGRYFLLTYPRSDFNHAHAWIQLNERGACG-AIVCSELHQDDTEHRHIAVDFGRRRQFS  70
+
+Query  1783  NAR-LFDIN----DHHCNMESVKNWPATLNYCKK-GdnwqdfdndddpdkpiddDLCE--  1628
+             NA   F+I         N ++ ++W A  +Y +K G+      ++ + ++   +   E  
+Sbjct  71    NAHHTFNITLGDTTWTGNYQTARSWAAIRHYVEKDGNVSYFGTSEPNLEQANPETETEDI  130
+
+Query  1627  ---LAETMPAKEYWEYCRRKKVPFAYASNAL-----RDKKSMFTITDSTNYGIIREDLGA  1472
+                L  T    E+  +  ++K+ F +A NAL      ++ +     D+    ++  +L  
+Sbjct  131   IDALTRTQSYAEWLVWTIKQKISFGHA-NALWQELRGNRPATLLEGDNIPGNVVLPELQL  189
+
+Query  1471  YTITEDAPANLTSTVLVGPSGIGKTTWALRECQKPSLLVTHLDGLRQLN-GSHKSIIFDD  1295
+              T ++D    L   VL+GPSG+GKTTWA     KP+LLV+H+D L+    G HK IIFDD
+Sbjct  190   RTFSQDTNRAL---VLLGPSGVGKTTWAKLNIPKPALLVSHIDDLKHFKVGVHKGIIFDD  246
+
+Query  1294  MSFTH-------IPREAQIHLVDRFQPRQIHVRYGTADIPAGIQKIFTANQYPFVPDPAI  1136
+             M F          PR +QIHLVD   PR IH R+  A IPAG+ KIFT N YPF  DPAI
+Sbjct  247   MHFAGDENGKGAWPRTSQIHLVDFENPRSIHCRHRCATIPAGVFKIFTCNVYPFSVDPAI  306
+
+Query  1135  DRRV  1124
+             +RR+
+Sbjct  307   ERRI  310
+
+
+
+
+>MAG: replication-associated protein [Emberiza rustica CRESS-DNA-virus sp.]
+Sequence ID: QTE03478.1 Length: 329
+Range 1: 12 to 317
+
+Score:142 bits(358), Expect:4e-34, 
+Method:Compositional matrix adjust., 
+Identities:99/314(32%), Positives:156/314(49%), Gaps:35/314(11%)
+
+Query  1969  FRLQCRKLFLTYPHCTASIQEVYDLIHS-KKEVKFARICIEPHSDGTPHIHAAIHFTKKV  1793
+             FR+Q +++FLTY   T  +  +++ +++ +   K A IC E H+DG  H+HAA+ F ++ 
+Sbjct  12    FRIQGKQIFLTYSQTTTDVNLLWEFLNTLRPRPKRAIICRELHADGNEHLHAAVEFERRF  71
+
+Query  1792  NICNARLFDINDHHCNMESVKNWPATLNYCKKGdnwqdfdndddpdkpiddDLCELAETM  1613
+             +     +FD   HH + E+V+ W A +NYC+K       +         D  + +  ET 
+Sbjct  72    DSQRVSVFDFAGHHPSAETVRTWAAAVNYCRK---EGALETAYFGCTAEDAAMGDPGETA  128
+
+Query  1612  PA--------------KEYWEYCRRKKVPFAYAS---NALRDKKSMFTITDSTNYGIIRE  1484
+             P+              ++++ YC    + +AYA+   N++   +   T  +  N G I +
+Sbjct  129   PSGAAAYAYAESCTEIRDWYIYCIDNNITYAYANAIWNSVHGARPP-TYFERPNGGTIGD  187
+
+Query  1483  DLGAYTITEDAPANLTSTVLVGPSGIGKTTWALRECQKPSLLVTHLDGLRQLNGS-HKSI  1307
+              L      +D      +  + GPSG GKT WALRE   P LLVT +D L   + + HK I
+Sbjct  188   GLQQLRWDDD----FHTVFVCGPSGYGKTCWALREAPLPFLLVTDIDDLGFYSPAVHKCI  243
+
+Query  1306  IFDDMSFT-------HIPREAQIHLVDRFQPRQIHVRYGTADIPAGIQKIFTA-NQYPFV  1151
+             +FD++  T         P  +QI LV    P  I +RY  A +PA + KIFT+ + +P V
+Sbjct  244   VFDEIRCTGDAAQHGRWPLTSQIKLVTWDTPVSIRIRYKIAHLPAHVPKIFTSCDTFPMV  303
+
+Query  1150  PDPAIDRRVNNKNL  1109
+              D  I RRV+  NL
+Sbjct  304   GDQQIKRRVHAINL  317
+
+
+
+
+>replication-associated protein [Tick-associated circular DNA virus]
+Sequence ID: UTM74974.1 Length: 329
+Range 1: 8 to 314
+
+Score:142 bits(357), Expect:7e-34, 
+Method:Compositional matrix adjust., 
+Identities:98/312(31%), Positives:148/312(47%), Gaps:30/312(9%)
+
+Query  1969  FRLQCRKLFLTYPHCTASIQEVYDLIHSK--KEVKFARICIEPHSDGTPHIHAAIHFTKK  1796
+             FR+  ++L LTYP  T     +Y    S   K  K A IC E H DG  H HAA+ F ++
+Sbjct  8     FRINAQRLLLTYPQATIDSNLLYGYFQSLPIKPTK-AIICTELHQDGNQHTHAAVEFERR  66
+
+Query  1795  VNICNARLFDINDHHCNMESVKNWPATLNYCKKGdnwqdfdndddpdkpiddDLCELAET  1616
+             VN      FD + +H N+++ ++W A +NYC+K             +        E + T
+Sbjct  67    VNTTRVHFFDFDGYHPNVQAARSWAACVNYCRKEGTLSVAYFGCSAEDATVATAAEGSST  126
+
+Query  1615  MPA----------KEYWEYCRRKKVPFAYAS---NALRDKKSMFTITDSTNYGIIREDLG  1475
+               A          +E++ +C    V +A+A+   N LR  +      ++ + G++     
+Sbjct  127   DDAYAVATASDTIREWFTWCIANNVSYAFANAIWNQLRGAQPP-VFYNNDHEGVVSNPFL  185
+
+Query  1474  AYTITEDAPANLTSTVLVGPSGIGKTTWALRECQKPSLLVTHLDGLRQLNG-SHKSIIFD  1298
+                   D+   L   V+ GPSG+GKT+WAL     P LLVT +D L   +   HKSI+FD
+Sbjct  186   RGLGWSDSYRTL---VICGPSGVGKTSWALAHAPTPFLLVTDIDDLGFFDPVVHKSIVFD  242
+
+Query  1297  DMSFTH--------IPREAQIHLVDRFQPRQIHVRYGTADIPAGIQKIFTANQY-PFVPD  1145
+             ++  T          P  +QI LV    P  I +RY  A +P  ++K+FT+  Y PF+ D
+Sbjct  243   EIRCTGDEATGRGAWPLTSQIKLVTWDTPVSIRIRYKVAHLPRHVRKVFTSTTYFPFLGD  302
+
+Query  1144  PAIDRRVNNKNL  1109
+             P + RR +  NL
+Sbjct  303   PQVRRRCDVVNL  314
+
+
+
+
+>MAG: Rep catalytic domain protein [Cressdnaviricota sp.]
+Sequence ID: AXH77272.1 Length: 328
+Range 1: 6 to 314
+
+Score:140 bits(354), Expect:2e-33, 
+Method:Compositional matrix adjust., 
+Identities:96/315(30%), Positives:148/315(46%), Gaps:35/315(11%)
+
+Query  1969  FRLQCRKLFLTYPHCTASIQEVYDLIHSKK-EVKFARICIEPHSDGTPHIHAAIHFTKKV  1793
+             FR+  ++  LTYP  T  I      +++ + + K A +  E H DG  H+HAA+ F ++V
+Sbjct  6     FRINAQRFLLTYPQATIDIDNYISFLNTLEIKPKRAVVTRELHQDGNEHLHAAVEFERRV  65
+
+Query  1792  NICNARLFDINDHHCNMESVKNWPATLNYCKK---------------Gdnwqdfdndddp  1658
+             N     +FD + HH N+ + ++W A +NYC+K                            
+Sbjct  66    NSTRVSIFDYDGHHPNISAARSWAACVNYCRKEGALETSYFGCEAENATVAGTSVQASRA  125
+
+Query  1657  dkpiddDLCELAETMPAKEYWEYCRRKKVPFAYAS---NALRDKKSMFTITDSTNYGIIR  1487
+                    + E ++T+  +E++EYC    + FA+A+   N L    +    T++ +  I  
+Sbjct  126   TGAESFAVAEQSDTI--REWYEYCIDNNISFAFANAIWNHLHAVPAPTFYTNTADGAITS  183
+
+Query  1486  EDLGAYTITEDAPANLTSTVLVGPSGIGKTTWALRECQKPSLLVTHLDGLRQLN-GSHKS  1310
+              +L    I         + VL GPSG GKTTWALR    P LLVT +D L   + G H+ 
+Sbjct  184   FEL----IARQWSPEYRTLVLCGPSGCGKTTWALRNAPTPFLLVTDIDDLGAYDPGVHQC  239
+
+Query  1309  IIFDDMSFTH--------IPREAQIHLVDRFQPRQIHVRYGTADIPAGIQKIFTANQY-P  1157
+             I+FD++  T          P  +QI LV    P  I +RY  A +P  ++KIFT+  + P
+Sbjct  240   IVFDEIRCTGDPATGRGAWPLTSQIKLVTWDTPVSIRIRYKIAHLPWHVKKIFTSTTHLP  299
+
+Query  1156  FVPDPAIDRRVNNKN  1112
+             F  D  I RR++  N
+Sbjct  300   FSGDEQIRRRIHVVN  314
+
+
+
+
+>replication-associated protein [Cressdnavirus D_HF4_1386]
+Sequence ID: WMC00976.1 Length: 330
+Range 1: 3 to 319
+
+Score:140 bits(354), Expect:2e-33, 
+Method:Compositional matrix adjust., 
+Identities:101/325(31%), Positives:152/325(46%), Gaps:43/325(13%)
+
+Query  1978  ENRFRLQCRKLFLTYPHCTASIQEVYDLIHSKKEVKF-ARICIEPHSDGTPHIHAAIHFT  1802
+             + +FR+   +  LTYP  T+ +  ++D + S +     A IC E H DG  H+H A+ F 
+Sbjct  3     QAQFRINASRFLLTYPQTTSDVNLLWDFLCSLRIAPTKAIICREAHQDGNEHLHCAVEFP  62
+
+Query  1801  KKVNICNARLFDINDHHCNMESVKNWPATLNYCKKGdnwqdfdndddpdkpiddDLCELA  1622
+             +++N     +FD    H N+E  + W A +NYC+K    +        +      +   A
+Sbjct  63    RRINSTRVSIFDFAGRHPNIEPCRTWAACVNYCRKAGALEVAYFGCTAEDCT---VVGAA  119
+
+Query  1621  ETMPA-----------------KEYWEYCRRKKVPFAYASNALRDK------KSMFTITD  1511
+              T+P                  +E++ +C  K +PFA+A NA+ ++       + F    
+Sbjct  120   GTVPTADEDGDPYLVAEACSTIREWYTHCLAKGIPFAFA-NAIWNQLHGPRPPTYFERDA  178
+
+Query  1510  STNYGIIREDLGAYTITEDAPAN--LTSTVLVGPSGIGKTTWALRECQKPSLLVTHLDGL  1337
+               + GII +     T+  +   N    + +L G SGIGKT+WALRE   P LLVT +D L
+Sbjct  179   EADAGIISQS----TMLSELRWNPEWHTVLLCGASGIGKTSWALREAPLPFLLVTDIDDL  234
+
+Query  1336  RQLNGS-HKSIIFDDMSFTH-------IPREAQIHLVDRFQPRQIHVRYGTADIPAGIQK  1181
+                + + HKSI+FD++  T         P  +QI LV    P  I +RY  A IP  I K
+Sbjct  235   GHFDPAVHKSIVFDEIRTTGDVMGKGAWPLTSQIKLVTWDTPVSIRIRYKVAHIPKHIPK  294
+
+Query  1180  IFTANQ-YPFVPDPAIDRRVNNKNL  1109
+             IFT+   +P   D  I RRV   N 
+Sbjct  295   IFTSTDFFPVNGDAQIKRRVTAFNF  319
+
+
+
+
+>MAG: replication associated protein [Cressdnaviricota sp.]
+Sequence ID: WAE42561.1 Length: 304
+Range 1: 4 to 300
+
+Score:139 bits(349), Expect:4e-33, 
+Method:Compositional matrix adjust., 
+Identities:107/309(35%), Positives:145/309(46%), Gaps:38/309(12%)
+
+Query  1969  FRLQCRKLFLTYPHCTASI--QEVYDLIHSKKEVKFARICIEPHSDGTPHIHAAIHFTKK  1796
+             FR     + LTY      +  + V   I  +  +    +  E H DG  HIHA I FTKK
+Sbjct  4     FRFAALSVLLTYSQVPDEVTKEAVLYTIDDRYPIHEYVLGEEQHEDGGRHIHACITFTKK  63
+
+Query  1795  VNICNARLFDINDH----HCNMESVKNWPATLN----YCKKGdnwqdfdndddpdkpidd  1640
+             V+  +   FDIN      H N++ VK   A L+    YC+K       D+D   +     
+Sbjct  64    VDSRDVTCFDINTGTEQLHPNIQPVKRGKAHLDRARDYCRK------EDDDPLQNITEGA  117
+
+Query  1639  DLCELAETMPAKEYWEYCRRKKVP--FAYASNALRDKKSMFTITDSTNYGIIREDLGAYT  1466
+                E+     + E +    ++  P  F  + + L    +     DS N       +  Y+
+Sbjct  118   SWAEILNKANSAEEFMQLIKENYPRDFCLSHDRLLSMAAKTWKEDSVN------TINEYS  171
+
+Query  1465  ITEDAPANLT----------STVLVGPSGIGKTTWALRECQKPSLLVTHLDGLRQLNGSH  1316
+                + P N+           S ++VGP+G GKTTWA     KP+L V HLD L +L   H
+Sbjct  172   PPPNIPINVELTYADIVPNKSIIVVGPAGCGKTTWAKTIAPKPALFVRHLDSLSELRREH  231
+
+Query  1315  KSIIFDDMSFTHIPREAQIHLVDRFQPRQIHVRYGTADIPAGIQKIFTANQYPF----VP  1148
+             +SIIFDD+ F H+P  AQ  LVD     +IH+RY  A IPAG  +IFTAN+YPF    V 
+Sbjct  232   QSIIFDDLDFKHMPPSAQKFLVDMENLSEIHIRYRVAKIPAGTLRIFTANEYPFLEGGVH  291
+
+Query  1147  DPAIDRRVN  1121
+               AIDRRVN
+Sbjct  292   GEAIDRRVN  300
+
+
+
+
+>replication-associated protein [Dulem virus 19]
+Sequence ID: WYA80337.1 Length: 328
+Range 1: 13 to 315
+
+Score:139 bits(350), Expect:5e-33, 
+Method:Compositional matrix adjust., 
+Identities:97/311(31%), Positives:143/311(45%), Gaps:36/311(11%)
+
+Query  1966  RLQCRKLFLTYPHCTASIQEVYDLIHSKKEVKFARICIEPHSDGTPHIHAAIHFTKKVNI  1787
+             RLQ  +  LTYP C A  +++ D +      +   +  E H DG  H+HAA+ F +++  
+Sbjct  13    RLQGNRFLLTYPRCDADPEQLRDFLRDLPYFEKCIVAREQHEDGGYHLHAAVEFGRRLQR  72
+
+Query  1786  CNARLFDINDHHCNMESVKNWPATLNYCKKGdnwq---------dfdndddpdkpiddDL  1634
+                  FD N  H N +S  +W A +NYC+K              +        +   D +
+Sbjct  73    -KFDFFDFNGAHGNYQSCASWGACVNYCRKDQGSTIVYENCTPENAIVTRAGGRTQSDYI  131
+
+Query  1633  CELAETMPAKEYWEYCRRKKVPFAYASNALRDKKSMFTITDSTNYGIIREDLGAYTI---  1463
+              E       ++++ +  R+++P+AYA       +  + I  +       +D G  +I   
+Sbjct  132   AECEARPRERDWYAFALRERIPYAYA-------EKFWKICHAPRAKTYDDDPGEGSIPNF  184
+
+Query  1462  ----TEDAPANLTSTVLVGPSGIGKTTWALRECQKPSLLVTHLDGLRQLNGS-HKSIIFD  1298
+                 T   P+   + V+ GPSG GKTTWALR   KP LLVTH D LR  + + HKSI+FD
+Sbjct  185   QLLATIPGPSGTYNIVVCGPSGAGKTTWALRHAPKPCLLVTHKDELRWFDETHHKSIVFD  244
+
+Query  1297  DMSFT----------HIPREAQIHLVDRFQPRQIHVRYGTADIPAGIQKIFT-ANQYPFV  1151
+             ++  T            P   QI L+    P  +HVRYG A IP  + KIFT  +   F 
+Sbjct  245   EIRCTGETDGWHRRGKWPLVEQIKLLTSDTPVSLHVRYGVARIPPRVVKIFTCTDTVLFT  304
+
+Query  1150  PDPAIDRRVNN  1118
+              D  I RRV+ 
+Sbjct  305   EDAQIKRRVHQ  315
+
+
+
+
+>rep protein [Cressdnaviricota sp.]
+Sequence ID: UOF76850.1 Length: 174
+Range 1: 1 to 164
+
+Score:133 bits(334), Expect:2e-32, 
+Method:Compositional matrix adjust., 
+Identities:74/171(43%), Positives:102/171(59%), Gaps:14/171(8%)
+
+Query  1615  MPAKEYWEYCRRKKVPFAYAS------NALRDKKSMFTITDSTNYGIIREDLGAYTITED  1454
+             M  +++ E+C ++K+ + Y        +  RD     TI +  +     E L  +T  + 
+Sbjct  1     MQFQQWIEHCIKEKISYQYMDKIWSMCHVTRDN----TIAERPSGNFQCEALKNFTFGD-  55
+
+Query  1453  APANLTSTVLVGPSGIGKTTWALRECQKPSLLVTHLDGLRQLNGS-HKSIIFDDMSFTHI  1277
+                N  S VL G SG GKT WA      PSL V+HLD L+  + + HKSIIFDD+ F H+
+Sbjct  56    --WNTKSLVLYGESGCGKTNWAKWHMDLPSLFVSHLDSLKDFDSNYHKSIIFDDVCFLHL  113
+
+Query  1276  PREAQIHLVDRFQPRQIHVRYGTADIPAGIQKIFTANQYPFVPDPAIDRRV  1124
+             PRE+QIH+VD + PR IH RY  A+IPAGI K+FTAN+  F+ DPAI+RR+
+Sbjct  114   PRESQIHIVDTYDPRAIHCRYRVANIPAGIPKVFTANRRIFLDDPAINRRI  164
+
+
+
+
+>replication-associated protein [Dulem virus 18]
+Sequence ID: WYA80339.1 Length: 328
+Range 1: 9 to 315
+
+Score:136 bits(342), Expect:6e-32, 
+Method:Compositional matrix adjust., 
+Identities:97/315(31%), Positives:145/315(46%), Gaps:36/315(11%)
+
+Query  1978  ENRFRLQCRKLFLTYPHCTASIQEVYDLIHSKKEVKFARICIEPHSDGTPHIHAAIHFTK  1799
+             E   RLQ  +  LTYP C A   ++ D + +    +   +  E HSDG  H+HAA+ F +
+Sbjct  9     ETTVRLQGNRFLLTYPRCDADPAQLRDFLKALPLFERCIVARERHSDGGYHLHAAVEFRR  68
+
+Query  1798  KVNICNARLFDINDHHCNMESVKNWPATLNYCKKGdnwq--------dfdndddpdkpid  1643
+             ++       FD +  H N +S  +W   +NYC+K    +        +           +
+Sbjct  69    RLQR-KFDFFDFDGAHGNYQSCASWGKCVNYCRKDKGSEIVYENCSPEDAALARVGGREE  127
+
+Query  1642  dDLCELAETMP-AKEYWEYCRRKKVPFAYASNALRDKKSMFTITDSTNYGIIREDLGAYT  1466
+              D     ET P  ++++ +  R+++P+AYA       +  + I  +       +D G  +
+Sbjct  128   SDYIAECETRPRERDWYAFALRERIPYAYA-------EKFWKICHAPRAKTYDDDPGEGS  180
+
+Query  1465  I-------TEDAPANLTSTVLVGPSGIGKTTWALRECQKPSLLVTHLDGLRQLNGS-HKS  1310
+             I       T   P    + V+ GPSG GKTTWALR   KP +L+TH D LR  + + HKS
+Sbjct  181   IPNFQLLATVPGPVGTYNIVICGPSGAGKTTWALRHAPKPCILITHKDELRWFDETYHKS  240
+
+Query  1309  IIFDDMSFT----------HIPREAQIHLVDRFQPRQIHVRYGTADIPAGIQKIFT-ANQ  1163
+             I+FD++  T            P   QI L+    P  +HVRYG A IP  + KIFT  + 
+Sbjct  241   IVFDEIRCTGETDGWHRRGKWPLVEQIKLLTSDTPVSLHVRYGVARIPPKVVKIFTCTDT  300
+
+Query  1162  YPFVPDPAIDRRVNN  1118
+               F  D  I RRV+ 
+Sbjct  301   VLFTEDAQIKRRVHQ  315
+
+
+
+
+>replication-associated protein [Pacific flying fox faeces associated circular DNA virus-2]
+Sequence ID: AMH87764.1 Length: 363
+Range 1: 38 to 351
+
+Score:137 bits(344), Expect:8e-32, 
+Method:Compositional matrix adjust., 
+Identities:99/328(30%), Positives:147/328(44%), Gaps:51/328(15%)
+
+Query  1981  RENRFRLQCRKLFLTYPHCTASIQEVYDLIHSKK-EVKFARICIEPHSDGTPHIHAAIHF  1805
+             R+  FR+   +  LTYP  T  +Q V+D  +S   + K A IC E H DG+ H+H AI F
+Sbjct  38    RQRNFRINATRFLLTYPQSTFDVQLVWDFFNSLAIKPKRAIICREHHQDGSEHVHVAIEF  97
+
+Query  1804  TKKVNICNARLFDINDHHCNMESVKNWPATLNYCKKGd-------------nwqdfdndd  1664
+              + VN     +FD    H N++S +NW A +NYC+K                       +
+Sbjct  98    ERAVNTTRVSIFDFGGRHPNIQSARNWAACVNYCRKEGVIETAYFGCTAEDATVASAPGE  157
+
+Query  1663  dpdkpiddDLCELAETMPAKEYWEYCRRKKVPFAYASNALRDK-----------KSMFTI  1517
+                        E A T+  +E++EYC  + + +AYA NA+ ++                I
+Sbjct  158   RAPAESPYARAESARTI--REWFEYCIAEGIGYAYA-NAIWNQIHSVRPPTYFENDFSGI  214
+
+Query  1516  TDSTNYGIIREDLGAYTITEDAPANLTSTVLVGPSGIGKTTWALRECQKPSLLVTHLDGL  1337
+                     +R D   +TI            L GPSG+GK++WAL     P L VT +D L
+Sbjct  215   VSGPTLSHLRWDPEWHTI-----------FLCGPSGLGKSSWALANAPVPFLFVTDIDDL  263
+
+Query  1336  RQLNGS-HKSIIFDDMSFTHIPRE----------AQIHLVDRFQPRQIHVRYGTADIPAG  1190
+                +   HK+++FD++  T  P +          +QI L     P  I +RY  A +PA 
+Sbjct  264   GFFDPEVHKALVFDEIRCTGEPNDNSAKGKWPLTSQIKLATWDTPVSIRIRYKIAHLPAH  323
+
+Query  1189  IQKIFTA-NQYPFVPDPAIDRRVNNKNL  1109
+             + KIFT+ + +P   D  I RR+   NL
+Sbjct  324   VPKIFTSCDWFPMNGDEQIRRRIKAFNL  351
+
+
+
+
+>MAG: replication-associated protein [Grus japonensis CRESS-DNA-virus sp.]
+Sequence ID: QTE03368.1 Length: 344
+Range 1: 31 to 326
+
+Score:135 bits(340), Expect:2e-31, 
+Method:Compositional matrix adjust., 
+Identities:104/309(34%), Positives:145/309(46%), Gaps:35/309(11%)
+
+Query  1981  RENRFRLQCRKLFLTYPHCTASIQEVYDLIHS-----KKEVKFARICIEPHSDGTPHIHA  1817
+             R+  F L  + LFLTYP C+   QE  DL+       K+ V+   I  E H DG  H+H 
+Sbjct  31    RKRGFELNAKGLFLTYPQCSIQPQEALDLLREICQKKKRTVEEYLIATEKHQDGNDHLHC  90
+
+Query  1816  AIHFTKKVNICNARLFDINDHHCNMESVKNWPATLNYC-KKGdnwqdfdndddpdkpidd  1640
+              I   K + + +A LFD+  HH N +  +N      YC K+G+   D             
+Sbjct  91    WIKMDKAIFVRDALLFDLKGHHGNYQGARNSTRIKTYCAKEGNYIADPPYSPTAKATTWT  150
+
+Query  1639  DLCELAETMPAKEYWE--------YCRRKKVPFAYASNALRDKKSMFTITDS---TNYGI  1493
+                 LA+    KE            CR   +       +L++ + +  +T +   T+YG 
+Sbjct  151   SALTLAKEGNLKEALSTLESGGERSCRDLILHRTSIMKSLQEFQPVSELTCARPVTSYGT  210
+
+Query  1492  IREDLGAYTITEDAPANLTSTVLVGPSGIGKTTWALRECQKPSLLVTHLDGLRQLNGSHK  1313
+             I     A T+           VL+GP+  GKTT A     K +L  +HLD L +L+  H+
+Sbjct  211   IFVWDRALTL-----------VLLGPTNTGKTTLACSLLPK-ALFTSHLDRLAELSPQHE  258
+
+Query  1312  SIIFDDMSFTHIPREAQIHLVDRFQPRQIHVRYGTADIPAGIQKIFTANQYPF-----VP  1148
+              II DDMSF H+  EAQIHL+D    R IHVRY TA +PAG  +I T+N+ P        
+Sbjct  259   GIILDDMSFKHLHDEAQIHLIDTAMTRDIHVRYRTATLPAGTPRILTSNR-PVSDIFNTN  317
+
+Query  1147  DPAIDRRVN  1121
+             +PAI RR+ 
+Sbjct  318   NPAICRRLQ  326
+
+
+
+
+>replication-associated protein [Red panda feces-associated circular DNA virus 11]
+Sequence ID: UBJ26227.1 Length: 317
+Range 1: 3 to 307
+
+Score:134 bits(338), Expect:2e-31, 
+Method:Compositional matrix adjust., 
+Identities:98/311(32%), Positives:141/311(45%), Gaps:30/311(9%)
+
+Query  1969  FRLQCRKLFLTYPHCTASIQEVYDLIHSKKEVKFARICIEPHSDGTPHIHAAIHFTKKVN  1790
+             F  Q R  FLTY     +  ++Y  +   K +K   I  E HSDG  H H AI F ++  
+Sbjct  3     FTFQGRFAFLTYAQTDVANDDLYGHLSGLKPIKRCVIVRERHSDGNWHTHTAIEFEQRFQ  62
+
+Query  1789  ICNARLFDINDHHCNMESVKNWPATLNYCKKGdnwqdfdndddpdkpiddDLCE------  1628
+                   FD + HH N++ V++W A +NYC+K  + +        +   +    E      
+Sbjct  63    TARTDFFDWDGHHPNIQRVRSWGACVNYCRKDQDNEISYYGCTAEDATERSREEAGGEQA  122
+
+Query  1627  --LAETMPAKEYWE-YCRRKKVPFAYASNALRDKKSMF--TITDSTNYGIIREDLGAYTI  1463
+                A    +++ W  YC    + +A+A    ++       T  +    G+I        I
+Sbjct  123   YSYAIAAQSRQQWNIYCIDHSIAYAWAEAIWKETHGARAPTYHERPTGGVIG------GI  176
+
+Query  1462  TEDAPANLTSTVLVGPSGIGKTTWALRECQKPSLLVTHLDGLRQLNGS-HKSIIFDDMSF  1286
+                  A+   TV++GPSGIGKTTWA RE   P L VT +D L   +   HKSI+FD++ F
+Sbjct  177   LHQMRAHERVTVVLGPSGIGKTTWAKREATLPFLFVTDIDDLAFYDPEVHKSIVFDEVRF  236
+
+Query  1285  T-----------HIPREAQIHLVDRFQPRQIHVRYGTADIPAGIQKIFT-ANQYPFVPDP  1142
+                           P  AQI LV    P  I +RY  A IPA +QKIFT  + + F  D 
+Sbjct  237   NGDPEPGARRKGKWPLTAQIKLVTWDDPVSIRIRYKIAHIPAHVQKIFTCTDTWSFTEDT  296
+
+Query  1141  AIDRRVNNKNL  1109
+              I RR++  +L
+Sbjct  297   QIKRRIHCIDL  307
+
+
+
+
+>replication-associated protein [Pacific flying fox faeces associated circular DNA virus-2]
+Sequence ID: AMH87760.1 Length: 363
+Range 1: 38 to 351
+
+Score:135 bits(341), Expect:2e-31, 
+Method:Compositional matrix adjust., 
+Identities:98/328(30%), Positives:145/328(44%), Gaps:51/328(15%)
+
+Query  1981  RENRFRLQCRKLFLTYPHCTASIQEVYDLIHSKK-EVKFARICIEPHSDGTPHIHAAIHF  1805
+             R+  FR+   +  LTYP  T  +Q V+D  +S   + K A +C E H DG+ H+H AI F
+Sbjct  38    RQRNFRINATRFLLTYPQSTFDVQLVWDFFNSLAIKPKRAILCREHHQDGSEHVHVAIEF  97
+
+Query  1804  TKKVNICNARLFDINDHHCNMESVKNWPATLNYCKKGdnwqdfdndddpdkpiddDLCEL  1625
+              + VN     +FD    H N++S +NW A +NYC+K                        
+Sbjct  98    ERAVNTTRVSIFDFGGRHPNIQSARNWAACVNYCRK--EGVIETAYFGCTAEDATVASAP  155
+
+Query  1624  AETMPA-------------KEYWEYCRRKKVPFAYASNALRDK-----------KSMFTI  1517
+              E  PA             +E++EYC  + + +AYA NA+ ++                I
+Sbjct  156   GERAPAESPYARAESARTIREWFEYCIAEGIGYAYA-NAIWNQIHSVRPPTYFENDFSGI  214
+
+Query  1516  TDSTNYGIIREDLGAYTITEDAPANLTSTVLVGPSGIGKTTWALRECQKPSLLVTHLDGL  1337
+                     +R D   +TI            L GPSG+GK++WAL     P L VT +D L
+Sbjct  215   VSGPTLSHLRWDPEWHTI-----------FLCGPSGLGKSSWALANAPVPFLFVTDIDDL  263
+
+Query  1336  RQLNGS-HKSIIFDDMSFTHIPRE----------AQIHLVDRFQPRQIHVRYGTADIPAG  1190
+                +   HK+++FD++  T  P +          +QI L     P  I +RY  A +PA 
+Sbjct  264   GFFDPEVHKALVFDEIRCTGEPNDNSAKGKWPLTSQIKLATWDTPVSIRIRYKIAHLPAH  323
+
+Query  1189  IQKIFTA-NQYPFVPDPAIDRRVNNKNL  1109
+             + KIFT+ + +P   D  I RR+   NL
+Sbjct  324   VPKIFTSCDWFPMNGDEQIRRRIKAFNL  351
+
+
+
+
+>MAG: replication-associated protein [Cressdnaviricota sp.]
+Sequence ID: QJI53681.1 Length: 328
+Range 1: 7 to 315
+
+Score:134 bits(337), Expect:3e-31, 
+Method:Compositional matrix adjust., 
+Identities:98/320(31%), Positives:147/320(45%), Gaps:42/320(13%)
+
+Query  1984  ARENRFRLQCRKLFLTYPHCTASIQEVYDLIHSKKEVKFARICI---EPHSDGTPHIHAA  1814
+             A +   RLQ  +  LTYP C A  ++   L+   KE+ +   CI   E H DG  H+HAA
+Sbjct  7     ASQTTVRLQGNRFLLTYPRCDADPEQ---LVLFLKELPYFERCIVAREQHEDGGNHLHAA  63
+
+Query  1813  IHFTKKVNICNARLFDINDHHCNMESVKNWPATLNYCKKGdnwq--------dfdndddp  1658
+             + F +++       FD +  H N +S  +W   +NYC+K    +        +       
+Sbjct  64    VEFQRRLQR-KFDFFDFDGTHGNYQSCASWGKCVNYCRKNKGGEIIYENCTPEDAALARV  122
+
+Query  1657  dkpiddDLCELAETMP-AKEYWEYCRRKKVPFAYASNALRDKKSMFTITDSTNYGIIRED  1481
+                   D     ET P  ++++ +  R+++P+AYA       +  + I  +       +D
+Sbjct  123   GGRTQSDYIAECETRPRERDWYAFALRERIPYAYA-------EKFWKICHAPRAKTYDDD  175
+
+Query  1480  LGAYTI-------TEDAPANLTSTVLVGPSGIGKTTWALRECQKPSLLVTHLDGLRQLNG  1322
+              G  ++       T   P    + V+ GPSG GKTTWALR   KP +L+TH D LR  + 
+Sbjct  176   PGEGSVPNFQLLATVPGPVGTYNIVVCGPSGAGKTTWALRHAPKPCILITHKDELRWFDE  235
+
+Query  1321  S-HKSIIFDDMSFT----------HIPREAQIHLVDRFQPRQIHVRYGTADIPAGIQKIF  1175
+             + HKSI+FD++  T            P   QI L+    P  +HVRYG A IP  + KIF
+Sbjct  236   TYHKSIVFDEIRCTGETDGWNRRGKWPLVEQIKLLTSDTPVSLHVRYGVARIPPKVVKIF  295
+
+Query  1174  T-ANQYPFVPDPAIDRRVNN  1118
+             T  +   F  D  I RR++ 
+Sbjct  296   TCTDTVLFTEDAQIKRRIHQ  315
+
+
+
+
+>replication-associated protein [Blackfly DNA Virus 16]
+Sequence ID: QCX35051.1 Length: 340
+Range 1: 23 to 328
+
+Score:134 bits(336), Expect:5e-31, 
+Method:Compositional matrix adjust., 
+Identities:98/309(32%), Positives:139/309(44%), Gaps:25/309(8%)
+
+Query  1969  FRLQCRKLFLTYPHCTASIQEVYDLIHSKKEVKFARICIEPHSDGTPHIHAAIHFTKKVN  1790
+             FR+Q ++LFLTYP     +      +  K  V  A  C E H  G  H+HA + FT+K++
+Sbjct  23    FRIQAKRLFLTYPQSDFDLDVFLLWLDDKFHVDKAVACKELHQTGEHHVHATVEFTRKIS  82
+
+Query  1789  ICNARLFDINDHHCNMESVKNWPATLNYCK---------KGdnwqdfdndddpdkpiddD  1637
+               NA  FD    H N+ + +NW A++NY +         K         + +       +
+Sbjct  83    TRNAAHFDYRGRHPNVGATRNWGASVNYLRMDSVEIRYFKCTAEDAIMGNAESPAQTAAE  142
+
+Query  1636  LCELAETMPAKEYWEYCRRKKVPFAYASNALRDK-KSMFTITDSTNYGIIREDLGAYTIT  1460
+             +C  A      E+  YC +K++PF Y S AL D        T + N  +  +    +   
+Sbjct  143   VCRAAANH--IEWMLYCMQKRIPFGY-SKALWDAIHDQHVPTYTANIALPEQVTSLHIRA  199
+
+Query  1459  EDAPANLTSTVLVGPSGIGKTTWALRECQKPSLLVTHLDGLRQLNG-SHKSIIFDDMSFT  1283
+                  +  + VL GPSGIGKT+WAL     P L VT  D LR  +   H++I+FD++  T
+Sbjct  200   LRWVDDYRAVVLCGPSGIGKTSWALANAPTPFLYVTDPDDLRAFDPLLHQAIVFDEVRCT  259
+
+Query  1282  ----------HIPREAQIHLVDRFQPRQIHVRYGTADIPAGIQKIFT-ANQYPFVPDPAI  1136
+                         P   QI L     P  I  RY  A IPA + KIFT  + Y F  D  I
+Sbjct  260   GAWVDGKIKGQWPLTQQIKLCTYDTPVSIRCRYANAKIPARVPKIFTCTDSYMFTRDAQI  319
+
+Query  1135  DRRVNNKNL  1109
+             +RR+   NL
+Sbjct  320   ERRIQLINL  328
+
+
+
+
+>Rep [uncultured virus]
+Sequence ID: AUM61721.1 Length: 145
+Range 1: 30 to 143
+
+Score:127 bits(319), Expect:7e-31, 
+Method:Compositional matrix adjust., 
+Identities:62/114(54%), Positives:77/114(67%), Gaps:1/114(0%)
+
+Query  1450  PANLTSTVLVGPSGIGKTTWALRECQKPSLLVTHLDGLRQLNGS-HKSIIFDDMSFTHIP  1274
+             P +  S V++G +G+GKTTWA     KP+LLV+H+D L+    S HKSIIFDDMSF H+P
+Sbjct  30    PVDEYSIVVIGDTGVGKTTWATARAPKPALLVSHMDQLKNFRPSYHKSIIFDDMSFHHLP  89
+
+Query  1273  REAQIHLVDRFQPRQIHVRYGTADIPAGIQKIFTANQYPFVPDPAIDRRVNNKN  1112
+                QIHLVD  QPR IH+RYGT  +P    KIFT N+ PF   PAI RR++  N
+Sbjct  90    TTGQIHLVDYHQPRAIHIRYGTVTLPKETVKIFTCNELPFTDHPAIRRRIHIIN  143
+
+
+
+
+>MAG: capsid protein [Cressdnaviricota sp.]
+Sequence ID: WAE42308.1 Length: 351
+Range 1: 78 to 347
+
+Score:132 bits(332), Expect:2e-30, 
+Method:Compositional matrix adjust., 
+Identities:94/277(34%), Positives:142/277(51%), Gaps:10/277(3%)
+
+Query  270   SNGIGYSNFRES-RKCYPMVRNMLKAGTLSVYKYVDTKRMEWDAGSQGVLNVATTFGVQQ  446
+             S+G  YS F  + RK     R   KA   + Y      R     G QG + V T F    
+Sbjct  78    SHGGTYSAFYYTPRKVPAAYRKNWKALAKNYYGINTGFRHTQTVGLQGAVIVNTMFTYAD  137
+
+Query  447   LQNVMSNIGASAVGDDTTRMVVKSVTGSLNISNMSNANVLITLYDVVARTDSNTSSAWTN  626
+             + N+   I A      T + ++KS +    I+N  + NV I LYD++AR D +TSS  ++
+Sbjct  138   VNNISQKINAV----QTNKFLIKSCSAETLITNQDSGNVNIVLYDIIARRDLSTSSNLSS  193
+
+Query  627   PLDAWANGLEDTEEGGTIAAARTNIGATPFQSVMFCRKYRVLKVTKIYMEAGRSHIHYIK  806
+             PL A+ N L D  EGG+ +  +  +G TPF S +F + ++V+K+T + +  G+ H H +K
+Sbjct  194   PLAAFQNSLAD--EGGSNSNYQF-VGTTPFSSDLFTQFFKVVKMTHLTLGQGQCHTHRVK  250
+
+Query  807   RNMNSVLNNSILETNETNLANKTHYCFAVGRGFPVNDATTDTNIALGSGALDFVFTETYE  986
+              N+NS+++  +++ N       + +  AV  G P ND+TT T ++ GS A+D V    Y 
+Sbjct  251   FNVNSIIDGELIQYNTNGFKGVSCWTMAVTSGMPYNDSTTKTQVSTGSIAIDIVNKRQYS  310
+
+Query  987   QVWPQYALKRYYFSDQ-QGTIT-SEKLMNAETGEGDV  1091
+               W Q     Y FS+Q  G+ T SE +MN  TG   V
+Sbjct  311   YTWMQDVDTNYSFSNQIAGSFTVSEDIMNEATGTATV  347
+
+
+
+
+>MAG: replication associated protein [Dumus virus 9]
+Sequence ID: WYA80272.1 Length: 328
+Range 1: 25 to 324
+
+Score:131 bits(329), Expect:4e-30, 
+Method:Compositional matrix adjust., 
+Identities:95/305(31%), Positives:142/305(46%), Gaps:26/305(8%)
+
+Query  1972  RFRLQCRKLFLTYPHCTA-SIQEVYDLIHSKKEVKFARICIEPHSDGTPHIHAAIHFTKK  1796
+             +FR Q  ++ LTY      + +E++  +  +  +    +  E H +G  HIH  + F  K
+Sbjct  25    KFRFQAERVLLTYSQTGELTKEEIFFTLAERFHIDLHCLGQENHEEGGWHIHVLLKFKGK  84
+
+Query  1795  VNICNARLFDIND----HHCNMESVK----NWPATLNYCKK-------Gdnwqdfdnddd  1661
+             ++     +FDI D    HH N++ VK    NW     Y +K           +    +  
+Sbjct  85    LDRRGEDIFDIWDGTKNHHPNIKPVKRGNKNWEQAHEYVEKEDPCPLCNIETKLTWKEIG  144
+
+Query  1660  pdkpiddDLCELAETMPAKEYWEYCRRKKVPFAYASNALRDKKSMFTITDSTNYGIIRED  1481
+                   ++   L E    ++++   +R    + YA+   +  K   TI +  +       
+Sbjct  145   EKAATAEEFLTLIEANYPRDFYTNLQR----YEYAAER-KFGKCANTIQEEWHPQYDHTT  199
+
+Query  1480  LGAYTITEDAPANLTST-VLVGPSGIGKTTWALRECQKPSLLVTHLDGLRQLNGSHKSII  1304
+                    E+ P     T ++VGP+G GKTTWA     KP+L V HLD L ++   H+SII
+Sbjct  200   PIELERWEEQPNPFGKTLIIVGPAGCGKTTWAKEHAPKPTLFVRHLDSLARIRPEHRSII  259
+
+Query  1303  FDDMSFTHIPREAQIHLVDRFQPRQIHVRYGTADIPAGIQKIFTANQYPF----VPDPAI  1136
+             FDD+ F H P   Q  LVD     ++H+RY  A IPAGI +IFT N+YPF    V   AI
+Sbjct  260   FDDLDFKHYPVSTQKFLVDYENLSEVHIRYKVARIPAGIPRIFTCNEYPFAEGGVHGDAI  319
+
+Query  1135  DRRVN  1121
+             DRRVN
+Sbjct  320   DRRVN  324
+
+
+
+
+>replication-associated protein [Bromus-associated circular DNA virus 4]
+Sequence ID: YP_009116789.1 Length: 357
+>replication-associated protein [Bromus-associated circular DNA virus 4]
+Sequence ID: AJC52534.1 Length: 357 
+Range 1: 34 to 344
+
+Score:131 bits(330), Expect:4e-30, 
+Method:Compositional matrix adjust., 
+Identities:94/314(30%), Positives:141/314(44%), Gaps:31/314(9%)
+
+Query  1966  RLQCRKLFLTYPHCTASIQEVYDLIHSKKEVKFARICIEPHSDGTPHIHAAIHFTKKVNI  1787
+             R   +K  LTY  C    ++++  I + ++VK A  CIE H DG PHIH A+ F  K+N 
+Sbjct  34    RWSAKKFLLTYSQCCEDPEDIFSRIDALRKVKRAVGCIELHQDGNPHIHIALEFETKLNT  93
+
+Query  1786  CNARLFDI------NDHHCNMESVKNWPATLNYCKKGdnwqdfdndddpdkpiddDLCEL  1625
+              N R FD        + H N+    +WP  +NYC+  +                 DL  +
+Sbjct  94    TNCRYFDYAYNADCKNFHPNVTVADSWPKCINYCRGKNKTLIELYHAAEGGKRKYDLFAV  153
+
+Query  1624  AETMP--AKEYWEYCRRKKVPFAYASNALRDKKSMFTIT--------DSTNYGIIREDLG  1475
+             A       + + ++C    +   + S+  R  ++   ++        D+     I     
+Sbjct  154   AAGFADNQRAWTQWCYEHDISPLWKSDVWRQLRTPVGVSSRDEPMELDAVRPTTIDTRFA  213
+
+Query  1474  AYTITEDAPANLTSTVLVGPSGIGKTTWALR---ECQKPSLLVTHLDGLRQLNGSHKSII  1304
+                + E       S VL+GPS  GKTTWA+    E     L+V  +D LR+L+ +HK I+
+Sbjct  214   FMVLPEHFKQ---SVVLLGPSNCGKTTWAVNHMVERFGKILIVNEIDDLRRLDATHKGIV  270
+
+Query  1303  FDDMSFT--------HIPREAQIHLVDRFQPRQIHVRYGTADIPAGIQKIFTANQ-YPFV  1151
+             FD++ FT          P  +QI LVD    R IH R   A IP G  K+FT  + +PF 
+Sbjct  271   FDEIRFTGDLSTGKGKWPLHSQIALVDNALGRSIHCRNINAWIPKGTPKLFTCTEKFPFT  330
+
+Query  1150  PDPAIDRRVNNKNL  1109
+              +  + RR+N  NL
+Sbjct  331   YNYQVYRRLNIINL  344
+
+
+
+
+>MAG: replication protein catalytic domain-like protein [clidnopec virus 150]
+Sequence ID: XII43281.1 Length: 304
+Range 1: 3 to 290
+
+Score:130 bits(326), Expect:5e-30, 
+Method:Compositional matrix adjust., 
+Identities:95/295(32%), Positives:144/295(48%), Gaps:15/295(5%)
+
+Query  1969  FRLQCRKLFLTYPHCT-ASIQEVYDLIHSKKEVKFARICIEPHSDGTPHIHAAIHFTKKV  1793
+             F+    K +LTY  C       + D++ SK ++K+AR   E H DG  H H    +T++V
+Sbjct  3     FKFDSHKFYLTYAQCGDLEWSAIADVLRSKCDIKWARFGHEEHQDGGWHWHVCGEWTRRV  62
+
+Query  1792  NICNARLFDINDHHCNMESVKNWPATLNYCKK-GdnwqdfdndddpdkpiddDLCELAET  1616
+                + R  D+   H N++S ++  A + Y  K G      D   D  K    +   LA +
+Sbjct  63    QSRSERFLDVAGFHPNIQSTRSTSAVVAYVSKHGQFHDIGDVPADQPKRTIGEALALAGS  122
+
+Query  1615  MPAKEYWEYCRRKKVPFAYASN----ALRDKKSMFTIT-DSTNYGIIREDLGAYTITEDA  1451
+                +EY   C   K+ +  A       LR       +  +  +  +I+E L    I    
+Sbjct  123   ENEQEYLRACIEAKISYCMAKRYRELELRPTCPHTILEYEPPDIELIKEPLRFQPI----  178
+
+Query  1450  PANLTSTVLVGPSGIGKTTWALRECQKPSLLVTHLDGLRQLN-GSHKSIIFDDMSFTHIP  1274
+             P+N +  V+VGP+ IGKT WA   C KP+L V+HL+ L+    G H+++IFDD+++  + 
+Sbjct  179   PSN-SCAVVVGPTAIGKTLWAKWICPKPALFVSHLETLKAYRPGYHRTLIFDDLTWKWMD  237
+
+Query  1273  REAQIHLVDRFQPRQIHVRYGTADIPAGIQKIFTANQYPFVPDPAIDRRVNNKNL  1109
+              + QI L+D + PR I V Y T  IPA   KIFT N +PF    A DR +   +L
+Sbjct  238   CQRQIALLDWYDPRSIRVMYQTVTIPAKTYKIFTCNSWPF--STAEDRPLETWSL  290
+
+
+
+
+>MAG: Rep catalytic domain protein [Circoviridae sp.]
+Sequence ID: AXH73085.1 Length: 293
+Range 1: 1 to 284
+
+Score:129 bits(323), Expect:1e-29, 
+Method:Compositional matrix adjust., 
+Identities:105/302(35%), Positives:140/302(46%), Gaps:32/302(10%)
+
+Query  1987  MARENRFRLQCRKLFLTYPHCTASIQEVYDLIHS-KKEVKFARICIEPHSDGTP---HIH  1820
+             M    +FR+Q   + LTY  C      + D + S   EV    I  E H +      H+H
+Sbjct  1     MTDAKKFRIQYTTVGLTYSRCPLEKSALRDFLLSLPHEVSDYYIVQETHKEANDCLYHLH  60
+
+Query  1819  AAIHFTKKVNICNARLFDINDHHCNMESVK-NWPATLNYCKKGdnwqdfdndddpdkpid  1643
+             A I FT K NI N   FD    H N+   K NW    NY KK D     + +D       
+Sbjct  61    AWIEFTNKPNIRNCNFFDCQGFHPNIGKKKRNW--IWNYLKKQDTEPLTNIEDGYVALAK  118
+
+Query  1642  dDLCELAETMPAKEYWEYCRRKKVPFAYASNALRDKKSMFTITDSTNYGIIREDLGAYTI  1463
+               L + A           C   + P  +  N  R  K++ T+         R+D   Y +
+Sbjct  119   AGLVDRALD---------CFSNQHPKDFIINYERIVKNVHTLGKRK-----RQD-HIYPL  163
+
+Query  1462  TEDA---PANLTSTVLVGPSGIGKTTWA----LRECQKPSLLVTHLDGLRQLNGSHKSII  1304
+             T D      N  S +++GP+G GKT WA        +K  L +TH+DGL++ NG    II
+Sbjct  164   TGDIIDWDMNQQSLLVIGPTGCGKTEWAKSFVTHHLEKTYLRITHIDGLKKYNGE-DFII  222
+
+Query  1303  FDDMSFTHIPREAQIHLVDRFQPRQIHVRYGTADIPAGIQKIFTANQYPFVPD--PAIDR  1130
+             +DD+SF H+PRE  IHL +    R IH R+  A IP GI  IF AN+YPF+ D   AIDR
+Sbjct  223   YDDLSFKHLPRETNIHLAEVRNARDIHCRHAVAPIPPGICNIFLANEYPFLADHHSAIDR  282
+
+Query  1129  RV  1124
+             R+
+Sbjct  283   RL  284
+
+
+
+
+>Rep [uncultured virus]
+Sequence ID: AUM61789.1 Length: 302
+Range 1: 4 to 297
+
+Score:128 bits(322), Expect:2e-29, 
+Method:Compositional matrix adjust., 
+Identities:95/299(32%), Positives:145/299(48%), Gaps:21/299(7%)
+
+Query  1969  FRLQCRKLFLTYPHCTASIQEVYDLIHSKKE--VKFARICI--EPHSDGTPHIHAAIHFT  1802
+             FR+    + LTY     + +E  D++++ +E   KF + CI  E H DG  HIH  + F 
+Sbjct  4     FRISNVAVLLTYSQIGETTKE--DILYTLEERLPKF-QYCIGEEQHQDGGRHIHCVLRFE  60
+
+Query  1801  KKVNICNARLFDIND----HHCNMESVKNWPATLNYCKKGdnwqdfdndddpdkpiddDL  1634
+             +K +  ++ +FD++     HH N++ ++   A L   +  D     D       P     
+Sbjct  61    RKFDSKDSTIFDVSTFDTWHHPNIKKIQRGQANLQ--RSIDYVSKEDPTPLSSFPNTLTW  118
+
+Query  1633  CELAETMPAKEYWEYCRRKKVPFAYASNALRDK---KSMFTITDSTNYGIIREDLGAYTI  1463
+              E+ +     + +    +K  P  Y +N  R +     +F  T   +  +  ++   Y  
+Sbjct  119   SEITQNSATPDEFLENIKKNYPKDYCTNLQRYEYAASKLFPQTSPNDIPVGYQNDYEYPT  178
+
+Query  1462  TEDAPANLTSTVLVGPSGIGKTTWALRECQKPSLLVTHLDGLRQLNGSHKSIIFDDMSFT  1283
+                      STV++G  G GKT+WA     KP+L + HLD L  +   H+SIIFDD+ F 
+Sbjct  179   LNIQTDFSKSTVIIGTPGCGKTSWAKDNAPKPALFIRHLDSLALIRPEHRSIIFDDLDFR  238
+
+Query  1282  HIPREAQIHLVDRFQPRQIHVRYGTADIPAGIQKIFTANQYPFVPDP-----AIDRRVN  1121
+             H+P   Q +LVD     +IHVRY  A I  GI +IFTAN+YPF+ D      AI+RRVN
+Sbjct  239   HLPVSTQKYLVDYENLSEIHVRYKVAKIKPGIPRIFTANEYPFIDDTSIHADAINRRVN  297
+
+
+
+
+>replication-associated protein [Trifolium-associated circular DNA virus 1]
+Sequence ID: YP_009117064.1 Length: 355
+>replication-associated protein [Trifolium-associated circular DNA virus 1]
+Sequence ID: AJC52531.1 Length: 355 
+Range 1: 34 to 344
+
+Score:129 bits(323), Expect:4e-29, 
+Method:Compositional matrix adjust., 
+Identities:93/314(30%), Positives:142/314(45%), Gaps:31/314(9%)
+
+Query  1966  RLQCRKLFLTYPHCTASIQEVYDLIHSKKEVKFARICIEPHSDGTPHIHAAIHFTKKVNI  1787
+             R   +K  LTY  C     +++  I+  +EV+ A  CIE H DG PH+H A+ F KK+N 
+Sbjct  34    RWSAKKFLLTYSQCCEDPDDIFAKINVLREVERAVGCIELHQDGNPHVHIAVEFKKKLNT  93
+
+Query  1786  CNARLFDIN------DHHCNMESVKNWPATLNYCKKGdnwqdfdndddpdkpiddDLCEL  1625
+              N R FD +      ++H N+    +WP  +NYC+  +                 DL  +
+Sbjct  94    TNCRFFDYSFDADCTNYHPNVTVADSWPKCINYCRGKNKTLIELYHAAEGGKKKYDLFAV  153
+
+Query  1624  AETMP--AKEYWEYCRRKKVPFAYASNALRDKKSMFTIT--------DSTNYGIIREDLG  1475
+             A       + + ++C    V   + S+  R  ++   ++        D+     I     
+Sbjct  154   AAGFADNQRAWTQWCYEHDVSPLWKSDVWRQLRTPVGVSSRDEPMELDAVRPTTIDPRFA  213
+
+Query  1474  AYTITEDAPANLTSTVLVGPSGIGKTTWALR---ECQKPSLLVTHLDGLRQLNGSHKSII  1304
+                + E       S VL+GPS  GKTTWA+    E     L+V  +D LR+L+ +HK I+
+Sbjct  214   FMVLPEHF---RQSVVLLGPSNCGKTTWAVNHMVERFGKILVVNEIDDLRRLDATHKGIV  270
+
+Query  1303  FDDMSFT--------HIPREAQIHLVDRFQPRQIHVRYGTADIPAGIQKIFTANQ-YPFV  1151
+             FD++ FT          P  +QI +VD    R IH R   A IP G  K+FT  + + F 
+Sbjct  271   FDEIRFTGDLSTGKGKWPLHSQIAVVDNALGRSIHCRNINAWIPKGTPKLFTCTEKFCFT  330
+
+Query  1150  PDPAIDRRVNNKNL  1109
+              +  + RR+N  NL
+Sbjct  331   YNYQVWRRLNIINL  344
+
+
+
+
+>rep protein [Cressdnaviricota sp.]
+Sequence ID: UOF82679.1 Length: 178
+Range 1: 1 to 173
+
+Score:122 bits(307), Expect:8e-29, 
+Method:Compositional matrix adjust., 
+Identities:74/173(43%), Positives:96/173(55%), Gaps:4/173(2%)
+
+Query  1615  MPAKEYWEYCRRKKVPFAY--ASNALRDKKSMFTITDSTNYGIIREDLGAYTITEDAPAN  1442
+             M    +   C   KVP+ Y  A     +KK+  T+    +    R D     +      +
+Sbjct  1     MTFTSWLTECLALKVPYGYCLAMWTSLEKKNFTTLESFDHSNDSRIDNLLLKVMLPKLDH  60
+
+Query  1441  LTSTVLVGPSGIGKTTWALRECQKPSLLVTHLDGLRQL-NGSHKSIIFDDMSFTHIPREA  1265
+             L S V+VGPSG GKTTWA   C KP+L+VTH+D L+   +G H SI+FDDMSF H+    
+Sbjct  61    LKSYVIVGPSGCGKTTWAKIHCLKPALVVTHMDDLKDFKSGYHCSIVFDDMSFNHLDSVL  120
+
+Query  1264  QIHLVDRFQPRQIHVRYGTADIPAGIQKIFTANQYPF-VPDPAIDRRVNNKNL  1109
+             QI +VDR+  R IH RY  A IP+GIQKIFT N  PF +    I RR+N  +L
+Sbjct  121   QIPIVDRYDNRSIHCRYTVAQIPSGIQKIFTCNIIPFDMSLEQIRRRINLIDL  173
+
+
+
+
+>Rep [uncultured virus]
+Sequence ID: AUM61713.1 Length: 361
+Range 1: 16 to 315
+
+Score:128 bits(321), Expect:9e-29, 
+Method:Compositional matrix adjust., 
+Identities:98/311(32%), Positives:150/311(48%), Gaps:36/311(11%)
+
+Query  1981  RENRFRLQCRKLFLTYPHCTASIQEVYDLIHSKKEVKFARICIEPHSDGTPHIHAAIHFT  1802
+             ++  FR+  ++ FLTYP C    + V D I  ++ ++   I  E H DG  HIHA + F 
+Sbjct  16    KKKEFRINSQQFFLTYPQCPLDPKVVLDHILIEEPLEHYVIAQEQHKDGNMHIHAYLLFA  75
+
+Query  1801  KKVNICNARLFDIN----DHHCNMESVKNWPATLNYCKKGdnwqdfdndddpdkpiddDL  1634
+             KK+N+ N + FDI      +H NM+ V++W   + Y  K  N+    +D   DK      
+Sbjct  76    KKLNVRNEKKFDITVEGVTYHPNMQGVRSWKNVVKYVTKDGNYLTNYDDSVIDKL-----  130
+
+Query  1633  CELAETMPAKEYWEYCRR--KKVPFAYASNALRDKKSMFTITDSTNYG-IIREDLGAYTI  1463
+               + + M   + +   R   K+   + A + L   K   T+ D   +G  I+++L +  +
+Sbjct  131   --IKDNMKVGDIYTKARELAKESKVSEALSVLEHSK---TVRDLVIHGNAIQKNLRSLAV  185
+
+Query  1462  TEDAPA-------------NLTSTVLVGPSGIGKTTWALRECQKPSLLVTHLDGLRQLNG  1322
+                AP                 + V+ GP+  GKT+ A +     SL + H+D L++ + 
+Sbjct  186   KRKAPEYSIEDFRVDFVWDRRRTLVMWGPTDTGKTSLA-KALLPTSLFIRHIDRLKEYDE  244
+
+Query  1321  SH-KSIIFDDMSFTHIPREAQIHLVDRFQPRQIHVRYGTADIPAGIQKIFTANQYP----  1157
+                + +I DDMSF H PREAQIHLVD      I+V++G A IPAG  +I T N  P    
+Sbjct  245   EEFEGLILDDMSFKHWPREAQIHLVDIENDSHINVKHGMAVIPAGTPRIITTNNMPAEIL  304
+
+Query  1156  FVPDPAIDRRV  1124
+                D AI RR+
+Sbjct  305   LADDGAIARRI  315
+
+
+
+
+>MAG: replication associated protein [Cressdnaviricota sp.]
+Sequence ID: WAE42419.1 Length: 302
+Range 1: 2 to 287
+
+Score:125 bits(315), Expect:2e-28, 
+Method:Compositional matrix adjust., 
+Identities:88/298(30%), Positives:146/298(48%), Gaps:27/298(9%)
+
+Query  1969  FRLQCRKLFLTYPHCTASIQEVYDLIHSKKEVKFARICI--EPHSDGTPHIHAAIHFTKK  1796
+             FRL  R LFLTYP CT + +   DLI +K+++K     +  E H DGTPHIH  +   KK
+Sbjct  2     FRLNARHLFLTYPKCTLTKEHALDLIKAKEKLKINEYIVASEAHEDGTPHIHIYLGLEKK  61
+
+Query  1795  VNICNARLFDINDHHCNMESVKNWPATLNYCKKG--------dnwqdfdndddpdkpidd  1640
+             VN+ +A   D+ + H N ++ +       Y +KG        ++ +            + 
+Sbjct  62    VNLTSATYLDLGEFHGNYQAARKSSCVKKYVEKGKDFISNIPESTEVSCYQAARTLATEG  121
+
+Query  1639  DLCELAETMPAKEYWEYCRRKKVPFAYASNALRDKKSMFTITDSTNYGIIREDLGAYTIT  1460
+              L E   T+ A +     +  +    + +   R+  S+ + T +  + +   +   +T+T
+Sbjct  122   KLEEAMSTLSATK-----QGSRDLTLHGTTIRRELSSLISQTRTLKWTL---ETFEWTVT  173
+
+Query  1459  EDAPANLTSTVLVGPSGIGKTTWALRECQKPSLLVTHLDGLRQLNG-SHKSIIFDDMSFT  1283
+              D    L + +L GP+  GKT    +     +++  H+D L+  +   +  +I D+ SF 
+Sbjct  174   WD---RLLTLLLWGPTNTGKTA-LAKALLPLAIMTRHIDKLKGYSPLRNTGVILDEGSFR  229
+
+Query  1282  HIPREAQIHLVDRFQPRQIHVRYGTADIPAGIQKIFTANQYPF----VPDPAIDRRVN  1121
+             H+ REAQI ++D  +  QIHVRYG A++PAG  +I T N+ P     + D AI RR+ 
+Sbjct  230   HLHREAQICVIDVEEDTQIHVRYGIAELPAGTPRIITTNRRPEDILNIEDDAIRRRLQ  287
+
+
+
+
+>replication associated protein [Gopherus associated circular DNA virus 1]
+Sequence ID: YP_009551382.1 Length: 327
+>replication associated protein [Gopherus associated circular DNA virus 1]
+Sequence ID: ATG71340.1 Length: 327 
+Range 1: 16 to 310
+
+Score:125 bits(313), Expect:4e-28, 
+Method:Compositional matrix adjust., 
+Identities:98/307(32%), Positives:142/307(46%), Gaps:34/307(11%)
+
+Query  1978  ENRFRLQCRKLFLTYPHCTASIQEVYDLIHSKKEVKFARI-----CIEPHSDGTPHIHAA  1814
+             + RF L  + LFLTYP C    +E   L+ +    +  RI       E H+DGTPH+H  
+Sbjct  16    QRRFHLNAKTLFLTYPQCDLPREEALSLLEAAFMTRQRRIIEYLIASEKHADGTPHLHCF  75
+
+Query  1813  IHFTKKVNICNARLFDINDHHCNMESVKNWPATLNYCKKGdnwqdfdnddd--------p  1658
+             +   K VN+      D+ +HH N +S ++  A   YC K  N+                 
+Sbjct  76    VKLNKAVNLKRPTELDLKNHHGNYQSCRSPEAVRRYCSKDGNFLTNITSGTDSQEGPWRK  135
+
+Query  1657  dkpiddDLCELAETMPAKEYWEYCRRKKVPFAYA-SNALRDKKSMFTITDS---TNYG-I  1493
+              + I  +  +L E + A E  E   R    +    S ALR  K +  +T     T+YG +
+Sbjct  136   ARKIVKEGGDLKEALLALEETEKTARDLTIYGSTISQALRSLKPVTELTSEQTLTSYGPL  195
+
+Query  1492  IREDLGAYTITEDAPANLTSTVLVGPSGIGKTTWALRECQKPSLLVTHLDGLRQLNGSHK  1313
+              + D   +++           +L G +  GKTT A     K +L V HLD L  L   H 
+Sbjct  196   FQWDQAKHSL-----------LLFGNTETGKTTLAKLLIPK-ALFVRHLDLLLSLTEEHG  243
+
+Query  1312  SIIFDDMSFTHIPREAQIHLVDRFQPRQIHVRYGTADIPAGIQKIFTANQYPF----VPD  1145
+              +I DDM+F H+  EAQI L+D      IHVRY  A +PA + +I T+N+ P+    + +
+Sbjct  244   GVILDDMTFKHLHDEAQIALLDLQDETHIHVRYRVAVLPAKLPRIITSNKEPWEVVNMAN  303
+
+Query  1144  PAIDRRV  1124
+             PAI RRV
+Sbjct  304   PAIARRV  310
+
+
+
+
+>MAG: replication protein catalytic domain-like protein [clidnopec virus 70]
+Sequence ID: XII43200.1 Length: 304
+Range 1: 4 to 298
+
+Score:123 bits(308), Expect:1e-27, 
+Method:Compositional matrix adjust., 
+Identities:94/297(32%), Positives:137/297(46%), Gaps:18/297(6%)
+
+Query  1969  FRLQCRKLFLTYPHCTASI--QEVYDLIHSKKEVKFARICIEPHSDGTPHIHAAIHFTKK  1796
+             FR   ++ F+TY     S   + VY  I  +  +K+  +  E H+ G  HIH    F  K
+Sbjct  4     FRFSAKRAFITYSDVCPSFTKETVYYDIDERYPLKYYFLAEERHASGGRHIHCVFEFRYK  63
+
+Query  1795  VNICNARLFDIND----HHCNMESVKNWPATLNYCKKGdnwqdfdndddpdkpiddDLCE  1628
+             ++  +    D+ D    HH N++ +K   A  + C +       D     +  +     E
+Sbjct  64    IDSKDPSFLDVFDGTCQHHPNVQPIKKGQAHWDRCIE--YAMKEDPLPLANIELKPTWGE  121
+
+Query  1627  LAETMPAKEYWEYCRRKKVPFAYASNALR----DKKSMFTITDST--NYGIIREDLGAYT  1466
+             + +     E++    +   P  YA N  R     K +  T + +T  N+ I  E      
+Sbjct  122   MFDKAVDAEHYLRLVKLHYPRDYALNYSRLVTVAKATFPTYSANTVANFSIDWEFSLPPA  181
+
+Query  1465  ITEDAPANLTSTVLVGPSGIGKTTWALRECQKPSLLVTHLDGLRQLNGSHKSIIFDDMSF  1286
+             +   +P  + S V+VGP+G GKTTWA     KP L V HLD L +L   H++IIFDD+ F
+Sbjct  182   LLSFSPQPMRSVVVVGPAGCGKTTWAKLVAPKPCLFVRHLDSLVELRPHHQAIIFDDLEF  241
+
+Query  1285  THIPREAQIHLVDRFQPRQIHVRYGTADIPAGIQKIFTANQYPFVPD----PAIDRR  1127
+              H+P   Q  L D     +IH+RY  A IP+GI +IFT N  PF        AIDRR
+Sbjct  242   HHLPPATQKFLCDMENLSEIHIRYRVAKIPSGILRIFTGNTDPFRVTEEHREAIDRR  298
+
+
+
+
+>MAG: replication protein catalytic domain-like protein [clidnopec virus 162]
+Sequence ID: XII43426.1 Length: 311
+Range 1: 9 to 285
+
+Score:123 bits(308), Expect:2e-27, 
+Method:Compositional matrix adjust., 
+Identities:93/287(32%), Positives:144/287(50%), Gaps:23/287(8%)
+
+Query  1969  FRLQCRKLFLTYPHCTA-SIQEVYDLIHSK-KEVKFARICIEPHSDGTPHIHAAIHFTKK  1796
+             FR   +K  LT+P   A +  E++  +++K K+    +IC E H DG  H HA +   KK
+Sbjct  9     FRFAGKKFLLTFPQSGALNKAELHSFLNTKLKQECMVKICHEHHEDGNIHTHACVECKKK  68
+
+Query  1795  VNICNARLFDINDHHCNME---SVKNWPATLNYCKKGdnwqdfdndddpdkpiddDLCEL  1625
+             V+I NA   D + HH N++   S+++W   + Y  K D     D      K         
+Sbjct  69    VDIKNANFLDYDGHHPNIKPPASIEHWRNQVKYMDKEDPDVYGDITVAKTKD--------  120
+
+Query  1624  AETMPAKEYWEYCRRKKVPFAYASNA--LRDKKSMFTITDSTNYGIIREDLGAYTITEDA  1451
+              E   A EY + C+ +K  ++ + +   +  K + F     T +   +  + ++ +T   
+Sbjct  121   EEFNDALEYVKQCKTRKQLYSMSPHLKIISSKVTFFENFWKTQHKK-KVTIASFNLTSFN  179
+
+Query  1450  PANLT----STVLVGPSGIGKTTWALRECQKPSLLVTHLDGLRQLN-GSHKSIIFDDMSF  1286
+                +T    S ++ G +G GKT WAL   Q P LLV+H++ L++ +   H  I+FDDMSF
+Sbjct  180   RPAITDWSKSWLIWGKAGSGKTQWALSHFQNP-LLVSHIEDLQEFDEDEHDGIVFDDMSF  238
+
+Query  1285  THIPREAQIHLVDRFQPRQIHVRYGTADIPAGIQKIFTANQYP-FVP  1148
+              H+P +A IHL+D+   R IH RY  A IPA  +KIF  N    F+P
+Sbjct  239   KHLPGQAIIHLLDQDLERSIHNRYANATIPAKTKKIFCHNNADIFIP  285
+
+
+
+
+>MAG: Rep catalytic domain protein [Cressdnaviricota sp.]
+Sequence ID: AXH77346.1 Length: 318
+Range 1: 3 to 314
+
+Score:122 bits(307), Expect:2e-27, 
+Method:Compositional matrix adjust., 
+Identities:97/313(31%), Positives:147/313(46%), Gaps:31/313(9%)
+
+Query  1969  FRLQCRKLFLTYPHCTASIQEVYDLIHS-----KKEVKFARICIEPHSDGTPHIHAAIHF  1805
+             FRL+ ++  L Y  C  +   +Y  +++        V   R+  E H DG+ H H  + F
+Sbjct  3     FRLRGKRFHLIYARCNLAPLLIYTSLNALGNENDNPVTRLRVASEKHQDGSDHRHVTVAF  62
+
+Query  1804  TK---KVNICNARLFDINDHHCNME---SVKNWPATLNYCKK-Gdnwqdfdndddpdkpi  1646
+             T+   +  +   RLFDI ++H  ++   + + W   + Y +K G+           +   
+Sbjct  63    TRAWDRTGLNAERLFDIINYHPQIKPKRTKRQWINAVVYLEKDGNWEDFAQPGHGFEAEE  122
+
+Query  1645  ddDLCELAETMPA-KEYWEYCR----RKKVPF-------AYASNALRDKKSMFTITDSTN  1502
+             D D   L +T  A     EY R    +K+ P+       A A+    D+  +   T    
+Sbjct  123   DADETTLVDTAKATNNLLEYLRIVERQKRNPYLARWVWDAVAAQRDTDRTILAPDTPEIL  182
+
+Query  1501  YGIIRE-DLGAYTITEDAPANLTSTVLVGPSGIGKTTWALRECQKPSLLVTHLDGLRQL-  1328
+             +G I + +L       +      S +L GP+ IGKT+WAL    KP+L V H D L+   
+Sbjct  183   FGRINDHNLRELEYDGNGRNGPVSMILQGPTSIGKTSWALLNTPKPALWVKHSDDLKYFR  242
+
+Query  1327  NGSHKSIIFDDMSFTHIPREAQIHLVDRFQPRQIHVRYGTADIPAGIQKIFTANQYPFVP  1148
+              G H SII DD+   H PR  Q++ VDR  P  +H+RY  A IPAG+ ++FT N+  +VP
+Sbjct  243   EGYHISIIVDDLDLKHTPRSNQLNWVDRRNPTTVHIRYRVATIPAGVHRVFTCNR-DYVP  301
+
+Query  1147  ----DPAIDRRVN  1121
+                 DPAI  RVN
+Sbjct  302   VDIDDPAILARVN  314
+
+
+
+
+>replication-associated protein [Dulem virus 13]
+Sequence ID: WYA80336.1 Length: 357
+Range 1: 56 to 347
+
+Score:123 bits(309), Expect:3e-27, 
+Method:Compositional matrix adjust., 
+Identities:96/300(32%), Positives:144/300(48%), Gaps:27/300(9%)
+
+Query  1969  FRLQCRKLFLTYPHCTASIQEVYDLIHSK--KEVKFARICIEPHSDGT--------PHIH  1820
+             FR  C +  +TY  C  + + V +    K    ++   IC E H DG          HIH
+Sbjct  56    FRFNCIQAGVTYSRCNLTKERVLEAWQQKFGDNIEKYLICREEH-DGEDVTKSGIGEHIH  114
+
+Query  1819  AAIHFTKKVNICNARLFDINDHHCNMESVKNWPATLNYCKKGdnwqdfdndddpdkpidd  1640
+               I + KKVN  + R  DI+  H  +ES+++    + YC K D     + D         
+Sbjct  115   GYIRWRKKVNYKDPRFMDIDGFHPKIESLRSAVKWVQYCVKEDGNPLKNFDVVKKSNHFK  174
+
+Query  1639  DLCELAET---MPAKEYWEYCRRKKVPFAYASNALRDKKSMFTITDSTNYGIIREDLGAY  1469
+             +  ++A+     PA+E+      +  P AY       + ++  +    N  +   +    
+Sbjct  175   EAVDIAKAEGYKPAREHL----IENTPEAYLKFGSAIESNLKKLVPKPNRPL---EYQKD  227
+
+Query  1468  TITEDAPANLT-STVLVGPSGIGKTTWALRECQKPSLLVTHLDGLRQLN-GSHKSIIFDD  1295
+               + D   N + + +L GPSG GKT++A        L V+H+D L++LN   H  +IFDD
+Sbjct  228   QFSLDLKWNRSKALILWGPSGCGKTSYAKALLNGRYLYVSHIDALKRLNLEEHDGVIFDD  287
+
+Query  1294  MSFTHIPREAQIHLVDRFQPRQIHVRYGTADIPAGIQKIFTAN----QYPFVPDPAIDRR  1127
+             M FTH PREAQIHLVD  +   I+VRYGT ++P G+  IFT N    +   + DPAI+RR
+Sbjct  288   MCFTHWPREAQIHLVDVMEDSDINVRYGTVELPYGLPVIFTTNVREGRVVDIDDPAINRR  347
+
+
+
+
+>MAG: replication-associated protein, partial [Phoenicurus auroreus CRESS-DNA-virus sp.]
+Sequence ID: QTE03545.1 Length: 317
+Range 1: 1 to 306
+
+Score:121 bits(304), Expect:6e-27, 
+Method:Compositional matrix adjust., 
+Identities:94/313(30%), Positives:144/313(46%), Gaps:38/313(12%)
+
+Query  1954  RKLFLTYPHCTASIQEVYDLIHSKKEVKFARICIEPHSDGTPHIHAAIHFTKKVNICNAR  1775
+             R+ FLTY        +++  +   K +  A IC E H+DG  H H A+ +T ++    A 
+Sbjct  1     RRFFLTYSQADLDSDDLHTFLAGLKPLHRAIICREHHADGGRHSHVAVEYTGRLQTRRAD  60
+
+Query  1774  LFDINDHHCNMESVKNWPATLNYCKK------------------Gdnwqdfdndddpdkp  1649
+              FD    H N++  + W A + Y +K                         +  +D D  
+Sbjct  61    YFDFGGIHPNVQPARTWAAVVKYVRKDGDVRYYNCTEHDAVLPRAGGRDPAEQGEDIDGA  120
+
+Query  1648  iddDLCELAETMPAKEYWEYCRRKKVPFAYASNALRD---KKSMFTITDSTNYGIIREDL  1478
+                  CE   +   +++   C  +K+ +AY   A+ D    +   T T+    G+I    
+Sbjct  121   ELFVACEGCTSF--RQWLIVCLERKITYAYC-KAVWDCAHGRRAPTFTERPTGGVINN--  175
+
+Query  1477  GAYTITEDAPANLTSTVLV-GPSGIGKTTWALRECQKPSLLVTHLDGLRQLN-GSHKSII  1304
+               + ++     + T T++V GPSG+GKTTWALRE   P LLVT +D L   +   HKSI+
+Sbjct  176   --FELSIRHVGDGTRTIVVCGPSGVGKTTWALREAPLPFLLVTDIDDLGDYDPAVHKSIV  233
+
+Query  1303  FDDMSFTH-------IPREAQIHLVDRFQPRQIHVRYGTADIPAGIQKIFT-ANQYPFVP  1148
+             FD++  T         P  +QI LV    P  I +RY  A +PA + KIFT  +  PF  
+Sbjct  234   FDEIRCTGDAYGKGCWPLTSQIKLVTWDTPVSIRIRYKVAHLPANVVKIFTCTDTLPFTC  293
+
+Query  1147  DPAIDRRVNNKNL  1109
+             DP I+RR++  +L
+Sbjct  294   DPQINRRIDIISL  306
+
+
+
+
+>MAG: capsid protein [Cressdnaviricota sp.]
+Sequence ID: WAE42362.1 Length: 338
+Range 1: 66 to 334
+
+Score:120 bits(302), Expect:2e-26, 
+Method:Compositional matrix adjust., 
+Identities:89/280(32%), Positives:135/280(48%), Gaps:18/280(6%)
+
+Query  273   NGIGYSNFRESRKCYPM-VRNMLKAGTLSVYKYVDTKRMEWDAGSQGVLNVATTFGVQQL  449
+             +G  +SNF    +  P+  +   KA   + Y    + R+  + G QGV  +      Q +
+Sbjct  66    HGGTFSNFYYVPRPVPVQYKKDFKALGKNYYTINSSGRITSNVGQQGVNPLNYMNHYQDV  125
+
+Query  450   QNVMSNIGASAVGDDTTRMVVKSVTGSLNISNMSNANVLITLYDVVARTDSNTSSAWTNP  629
+               +   I A    + T + ++KSV+  +N++N    NV + LYD++AR D  TS    NP
+Sbjct  126   NTISQKINA----NQTNKFLLKSVSSEVNLTNQDAGNVKVILYDIMARRDLATSGNLLNP  181
+
+Query  630   LDAWANGLEDTEEGGTIAAARTNI---GATPFQSVMFCRKYRVLKVTKIYMEAGRSHIHY  800
+               AW+N L D  EG    AA +N    GA P+ S +F + ++V+K T I +  G+SH H 
+Sbjct  182   YAAWSNSLAD--EG----AANSNYNVPGALPYSSDLFTQYFKVVKCTHITLGQGQSHTHR  235
+
+Query  801   IKRNMNSVLNNSILETNETNLANKTHYCFAVGRGFPVNDATTDTNIALGSGALDFVFTET  980
+             IK   N   +   L+ N       T +  +V  G P ND+TT T +++GS A+D+V    
+Sbjct  236   IKFACNKEFDGEYLQYNTNGFKGVTCFTMSVQVGMPYNDSTTKTQVSVGSTAIDYVTQRQ  295
+
+Query  981   YEQVWPQYALKRYYFSDQ---QGTITSEKLMNAETGEGDV  1091
+             Y   W Q  +   Y + Q   Q    SE +MN  TG   V
+Sbjct  296   YSYTWKQ-DVDTTYSTQQNLPQAFSVSEDIMNEATGTATV  334
+
+
+
+
+>replication-associated protein [Tick-associated circular DNA virus]
+Sequence ID: UTM74968.1 Length: 366
+Range 1: 53 to 348
+
+Score:120 bits(302), Expect:3e-26, 
+Method:Compositional matrix adjust., 
+Identities:101/309(33%), Positives:146/309(47%), Gaps:39/309(12%)
+
+Query  1969  FRLQCRKLFLTYPHCTASIQEVYDLI------HSKKEVKFARICIEPHSDGTPHIHAAIH  1808
+             FRL   +LFLTYP C+ + +E  DL+      H++  V +  I  E H+DG  H+HA + 
+Sbjct  53    FRLTGAQLFLTYPQCSLTKEEALDLLTQIAQDHNRSIVSYV-IATEKHADGNDHLHAYLK  111
+
+Query  1807  FTKKVNICNARLFDINDHHCNMESVKNWPATLNYCKKGdnwqdfdndddpdkpiddDLCE  1628
+              +   N  +   +D+   H N ++V++  A   YC+K         + D  +  D  +  
+Sbjct  112   LSSGWNNKDPTSWDLRTWHGNYQAVRSPAAVKKYCQK---------EGDFIQSADVSISP  162
+
+Query  1627  LAETMPAKEYWEYCRRKKVPFAYAS------NALRDKKSMFTITDSTNYGIIRE------  1484
+              A   P K+  E      +  A  +        LRD  +++  + S+N   +        
+Sbjct  163   QAAQTPWKKARETAATGDLKGALEALEGGNERVLRDL-TLYNPSISSNLRSLAPPAPHPK  221
+
+Query  1483  --DLGAYTITEDAPANLTSTVLVGPSGIGKTTWALRECQKP-SLLVTHLDGLRQLN-GSH  1316
+               DL  Y           + VL G +  GKTT  L E   P SLL  HLD L +L  G H
+Sbjct  222   AVDLATYGDLFSWDKAKHTLVLFGETNKGKTT--LAESLLPLSLLTRHLDRLGELKPGFH  279
+
+Query  1315  KSIIFDDMSFTHIPREAQIHLVDRFQPRQIHVRYGTADIPAGIQKIFTANQYPF----VP  1148
+             +  I DDMSF+H+  EAQI L+D  +  Q+HVRY  A IPAG  +I T N+ PF    + 
+Sbjct  280   EGFILDDMSFSHLHDEAQIALLDIERDSQVHVRYRIAHIPAGTPRIITTNKIPFEILNLA  339
+
+Query  1147  DPAIDRRVN  1121
+             +PAI RRV 
+Sbjct  340   NPAIRRRVQ  348
+
+
+
+
+>Rep [uncultured virus]
+Sequence ID: AUM61624.1 Length: 378
+Range 1: 14 to 315
+
+Score:120 bits(302), Expect:4e-26, 
+Method:Compositional matrix adjust., 
+Identities:100/311(32%), Positives:152/311(48%), Gaps:28/311(9%)
+
+Query  1984  ARENRFRLQCRKLFLTYPHCTASIQEVYDLIHSKKEVKFARICIEPHSDGTPHIHAAIHF  1805
+             ++   FRL  ++LFLTY  C  +++ + + + S  E+    +  E H DG  HIH  +  
+Sbjct  14    SKPKEFRLNSQQLFLTYSQCPINLELILNHLKSLVEIDKYIVAQEKHQDGNLHIHCYLLL  73
+
+Query  1804  TKKVNICNARLFDINDHHCNMESVKNWPATLNYCKKGdnwqdfdndddpdkpiddDLCEL  1625
+               K+N+ N R FD  ++H  +E  +++   + Y  K  N+      D  +K        +
+Sbjct  74    KSKLNLKNPRKFDYQEYHPKVEGCRSYKNVIKYVTKDGNYITNYERDILEKI-------I  126
+
+Query  1624  AETMPAKEYWEYCRRKKVPFAYASNALRDKKSMFTITDSTNYG-IIREDLGA--------  1472
+              +   A E +   R+  V        ++  +   T  D   +G  IR +L +        
+Sbjct  127   NDNKKASEIYVEARKLAVE-DKVEEGMKILEHAKTARDLCIHGNTIRRNLESLVPKRRKI  185
+
+Query  1471  -YTITE---DAPANLTST-VLVGPSGIGKTTWALRECQKPSLLVTHLDGLRQLNG-SHKS  1310
+              + +++   D   + T T +L GP+  GK++ A +     SL V+H+D LR  N  S+  
+Sbjct  186   VFALSDFRIDFEWDRTKTLILWGPTNTGKSSLA-KALLPDSLFVSHIDRLRDYNSKSYTG  244
+
+Query  1309  IIFDDMSFTHIPREAQIHLVDRFQPRQIHVRYGTADIPAGIQKIFTANQYP----FVPDP  1142
+             IIFDDMSF HIPR+ Q+HLVD +  R IH RY  A IPAG  KI T+N  P     V DP
+Sbjct  245   IIFDDMSFKHIPRDGQLHLVDNYDDRDIHCRYAPAFIPAGTPKIITSNNPPSEILLVLDP  304
+
+Query  1141  AIDRRVNNKNL  1109
+             AI RRV   N+
+Sbjct  305   AIARRVQIVNI  315
+
+
+
+
+>Rep [uncultured virus]
+Sequence ID: AUM62043.1 Length: 376
+Range 1: 14 to 315
+
+Score:119 bits(297), Expect:2e-25, 
+Method:Compositional matrix adjust., 
+Identities:99/311(32%), Positives:151/311(48%), Gaps:28/311(9%)
+
+Query  1984  ARENRFRLQCRKLFLTYPHCTASIQEVYDLIHSKKEVKFARICIEPHSDGTPHIHAAIHF  1805
+             ++   FRL  ++LFLTY  C   ++ + + + S  E+    +  E H DG  HIH  +  
+Sbjct  14    SKPKEFRLNSQQLFLTYSQCPIDLELILNHLKSLVEIDKYIVAQEKHQDGNLHIHCYLLL  73
+
+Query  1804  TKKVNICNARLFDINDHHCNMESVKNWPATLNYCKKGdnwqdfdndddpdkpiddDLCEL  1625
+               K+N+ N R FD  ++H  +E  +++   + Y  K  N+      D  +K        +
+Sbjct  74    KSKLNLKNPRKFDYQEYHPKIEGCRSYKNVIKYVTKDGNYITNYEKDILEKI-------I  126
+
+Query  1624  AETMPAKEYWEYCRRKKVPFAYASNALRDKKSMFTITDSTNYG-IIREDLGA--------  1472
+              +   A E +   R+  V        ++  +   T  D   +G  IR +L +        
+Sbjct  127   NDNKKASEIYVEARKLAVE-DKVEEGMKILEHAKTARDLCIHGNTIRRNLESLVPKRRKI  185
+
+Query  1471  -YTITE---DAPANLTST-VLVGPSGIGKTTWALRECQKPSLLVTHLDGLRQLNG-SHKS  1310
+              + +++   D   + T T +L GP+  GK++ A +     SL V+H+D LR  N  ++  
+Sbjct  186   VFPLSDFRIDFEWDRTKTLILWGPTNTGKSSLA-KALLPDSLFVSHIDRLRDYNSKNYTG  244
+
+Query  1309  IIFDDMSFTHIPREAQIHLVDRFQPRQIHVRYGTADIPAGIQKIFTANQYP----FVPDP  1142
+             IIFDDMSF HIPR+ Q+HLVD +  R IH RY  A IPAG  KI T+N  P     V DP
+Sbjct  245   IIFDDMSFKHIPRDGQLHLVDNYDDRDIHCRYAPAFIPAGTPKIITSNNPPSEILLVLDP  304
+
+Query  1141  AIDRRVNNKNL  1109
+             AI RRV   N+
+Sbjct  305   AIARRVQIVNI  315
+
+
+
+
+>MAG: replication protein catalytic domain-like protein [clidnopec virus 139]
+Sequence ID: XII43404.1 Length: 314
+Range 1: 2 to 306
+
+Score:116 bits(290), Expect:4e-25, 
+Method:Compositional matrix adjust., 
+Identities:94/310(30%), Positives:143/310(46%), Gaps:27/310(8%)
+
+Query  1972  RFRLQCRKLFLTYPHCTA--SIQEVYDLIHS----KKEVKFARICIEPHSDGTPHIHAAI  1811
+             R R  C   F T+   T    ++  ++ IHS     + +++AR+  E H DG  H HA +
+Sbjct  2     RLRGDC--FFFTWSQVTVPDDVENAHEYIHSLLSTWEPIRYARVAREHHQDGGTHFHAIV  59
+
+Query  1810  HFTKKVNICNARLFDINDHHCNME---SVKNWPATLNYCKKGdnwqdfdn--dddpdkpi  1646
+              F ++++   +    +     N++   S + + +  +Y +K  +++ F    + +     
+Sbjct  60    KFERRLDRVLSESLFLFGKRPNVKPKGSRRQFDSADSYLEKEGDYESFGERPEPEETDVA  119
+
+Query  1645  ddDLCELAETMPAKEYWEYCRRKKVPFAYASNALR-DKKSMFTITDSTNYG--IIREDLG  1475
+                L    E     EY   C    + F YA  A    + +  TITD  +    ++ + L 
+Sbjct  120   SSVLRRAGEFASYLEYLYACADTGLGFGYAQAAWNASQGTSETITDGVDDSAHVVYQSLR  179
+
+Query  1474  AYTITEDAPANLTSTVLVGPSGIGKTTWALRECQKPSLLVTHLDGLRQLN-GSHKSIIFD  1298
+             +     +    L   V+VGP+G GKT+WA     KP+L V+H D L+    G HKSI+FD
+Sbjct  180   SRRWDLEREPVL---VIVGPAGCGKTSWARTHAPKPALFVSHGDDLKSFRAGFHKSIVFD  236
+
+Query  1297  DMSFT-------HIPREAQIHLVDRFQPRQIHVRYGTADIPAGIQKIFTANQYPFVPDPA  1139
+             D+SF          P E+QI L D    R IH RY  A IPA   KIFT N  P    PA
+Sbjct  237   DVSFMGGIDGRGRWPTESQIALCDFNHSRSIHCRYTVARIPAKTYKIFTCNSRPLAEHPA  296
+
+Query  1138  IDRRVNNKNL  1109
+             IDRR+   +L
+Sbjct  297   IDRRITYIDL  306
+
+
+
+
+>MAG: putative capsid protein [Circoviridae sp.]
+Sequence ID: AYP28807.1 Length: 352
+Range 1: 99 to 351
+
+Score:116 bits(290), Expect:9e-25, 
+Method:Compositional matrix adjust., 
+Identities:88/257(34%), Positives:134/257(52%), Gaps:11/257(4%)
+
+Query  351   LSVYKYVDTK--RMEWDAGSQGVLNVATTFGVQQLQNVMSNIGASAVGDDTTRMVVKSVT  524
+             L   +Y+D +  R  W  G+QG     TT     +Q +    G+S +G D+ RM +  + 
+Sbjct  99    LQTSQYLDVRSERFGWAIGTQGAFLADTTGETDVIQKIYGLFGSSGLGLDSARMELVDIK  158
+
+Query  525   GSLNISNMSNANVL-ITLYDVVARTDSN-TSSAWTNPLDAWANGLEDTEEGGTIAAARTN  698
+              +L I+N S  +++ +T+YD V R D N  + A + P DAW  GL      G++    T+
+Sbjct  159   STLTIANRSEWSMMKMTIYDCVYRKDFNDVAVAGSTPTDAWNAGLALIP--GSMLT--TS  214
+
+Query  699   IGATPFQSVMFCRKYRVLKVTKIYMEAGRSHIHYIKRNMNSVLNNSILET-NETNLANK-  872
+              GATPF S MFC  Y V+KV+ +Y+  G +HIH++KR +N V NN   +T    +   + 
+Sbjct  215   YGATPFMSPMFCANYNVVKVSVVYVRQGGTHIHHVKRRINHVFNNEEFDTLGAASYVRRY  274
+
+Query  873   -THYCFAVGRGFPVNDATTDTNIALGSGALDFVFTETYEQVWPQYALKRYYFSDQQGTIT  1049
+              T     V +G P+ND+T  TN++ G+GA+D +    Y     Q + K    +    TIT
+Sbjct  275   LTMTSMVVCQGMPINDSTVTTNVSTGAGAIDVLHERKYNVRMFQVSTKFAKNAIVLPTIT  334
+
+Query  1050  SEKLMNAETGEGDVYEE  1100
+             +EK MN   G   VY +
+Sbjct  335   TEKDMNELVGGSVVYAD  351
+
+
+
+
+>MAG: capsid protein [Cressdnaviricota sp.]
+Sequence ID: WAE42454.1 Length: 338
+Range 1: 58 to 329
+
+Score:115 bits(289), Expect:1e-24, 
+Method:Compositional matrix adjust., 
+Identities:81/280(29%), Positives:133/280(47%), Gaps:10/280(3%)
+
+Query  246   IGNKIISASNGIGYSNFRESRKCYPMVRNMLKAGTLSVYKYVD-TKRMEWDAGSQGVLNV  422
+             +  K I    G  +S F   R+  P     +       Y+ ++ + R+  ++GSQ    +
+Sbjct  58    LNQKAIHEGTGGSFSKFFYGRRRIPKRMRAVYKNCAKNYQVINNSGRLTANSGSQSFNGI  117
+
+Query  423   ATTFGVQQLQNVMSNIGASAVGDDTTRMVVKSVTGSLNISNMSNANVLITLYDVVARTDS  602
+              T F    L    +NI A    + T + +  + +  L +SN    N  I LYDV+ R D 
+Sbjct  118   LTMFSTADLTGFSTNISA----NKTNKFLAMNCSAELMLSNQDEGNCRIVLYDVICRRDI  173
+
+Query  603   NTSSAWTNPLDAWANGLEDTEEGGTIAAARTNIGATPFQSVMFCRKYRVLKVTKIYMEAG  782
+              T S  ++P +A+ N L D  EGG+  A  +++G TPF S +F + Y+VLK+T I + AG
+Sbjct  174   -TQSNISDPANAFKNSLAD--EGGS-NANWSSVGTTPFASDLFTQFYKVLKITHIILGAG  229
+
+Query  783   RSHIHYIKRNMNSVLNNSILETNETNLANKTHYCFAVGRGFPVNDATTDTNIALGSGALD  962
+             + H H +   +N   +N  L+     +   T +  A+  G P ND+TT T ++ G   +D
+Sbjct  230   QFHTHRVHFGLNRQFDNEQLQYTPNGIKGATCFTVAMIYGAPYNDSTTKTQVSTGQVTVD  289
+
+Query  963   FVFTETYEQVWPQYALKRYYFSDQQ-GTITSEKLMNAETG  1079
+             FV  + Y   W Q     YY ++   G    E +++  +G
+Sbjct  290   FVSKKQYSYTWVQDQDTNYYLTNNLVGFTVGEDILSIASG  329
+
+
+
+
+>Rep [uncultured virus]
+Sequence ID: AUM61719.1 Length: 330
+Range 1: 21 to 300
+
+Score:114 bits(286), Expect:2e-24, 
+Method:Compositional matrix adjust., 
+Identities:86/291(30%), Positives:130/291(44%), Gaps:31/291(10%)
+
+Query  1969  FRLQCRKLFLTYPHCTASIQEVYDLIHSKKEVKFARICIEPHSDGTPHIHAAIHFTKKVN  1790
+             FRL  + LFLTYP C  + ++  + +    +++   I  E H DGT H+HA +    K+N
+Sbjct  21    FRLNTQTLFLTYPKCKMTPEQALEQLQLIVKIEVYLIAEEQHMDGTMHLHAYLRLDHKMN  80
+
+Query  1789  ICNARLFDI----NDHHCNMESVKNWPATLNY-CKKGdnwqdfdndddpdkpiddDLCEL  1625
+             I + R FD+      +H NM+  ++  A + Y CK G    +       +   ++     
+Sbjct  81    IKDERKFDLRLDGELYHPNMQGARSPKAVIKYVCKDGKYVTNMSQATIDEAIHNNVKV--  138
+
+Query  1624  AETMPAKEYWEYCRRKKVPFAYASNALRDKKSMFTITDSTNYG-IIREDLGAYTITEDAP  1448
+                     Y E   + K  F      L   K   T  D   +G  I  ++ A    +  P
+Sbjct  139   -----GDLYKEAMEKAKESFEEGMKVLEHSK---TFRDLAIHGEAIERNMRARKKQKTEP  190
+
+Query  1447  A-------------NLTSTVLVGPSGIGKTTWALRECQKPSLLVTHLDGLRQLN-GSHKS  1310
+                              + VL GP+  GKT+ A +     +L + H+D L++   G +  
+Sbjct  191   KFSLDLFKVSFEWDKTKTLVLWGPTNTGKTSLA-KALLPNALFIRHIDALKEYKTGQYTG  249
+
+Query  1309  IIFDDMSFTHIPREAQIHLVDRFQPRQIHVRYGTADIPAGIQKIFTANQYP  1157
+             +IFDDMSF H PREAQIHL+D     QI+V++  A IP G  +I T N  P
+Sbjct  250   LIFDDMSFKHWPREAQIHLLDTDNVSQINVKHSIAIIPEGTPRIITTNMMP  300
+
+
+
+
+>replication-associated protein [Capybara virus 2_cap1_255]
+Sequence ID: QDJ95211.1 Length: 314
+Range 1: 1 to 307
+
+Score:113 bits(283), Expect:3e-24, 
+Method:Compositional matrix adjust., 
+Identities:102/312(33%), Positives:142/312(45%), Gaps:29/312(9%)
+
+Query  1987  MARENRFRLQCRKLFLTYPHCTASIQEVYDL-IHSKKEVKFAR-ICIEP-HSDGTPHIHA  1817
+             MA + R R+     FLT+         V DL +     VK  R IC E  H+DG  H HA
+Sbjct  1     MAEQGR-RVTGHGFFLTWSQVEGG--SVADLELFIAAIVKPTRYICAEEQHADGGLHYHA  57
+
+Query  1816  AIHFTKKVNICNARLFDINDHHCNMESVKNWPATLN---YCKKGdnwqdfdndddpdkp-  1649
+                +  +++    R +D +  H N++      A  N   YC K   ++  D  +D     
+Sbjct  58    YFEYETRIDRRIKRQWDYHGQHPNIQQKTKADARENAFYYCTKDGWFRCSDEWEDGYVSV  117
+
+Query  1648  ---iddDLCELAETMPAK----EYWEYCRRKKVPFAYASNALRDKKS-MFTITDSTNYGI  1493
+                       LA+ + A     +Y ++     +P    S      KS   T+TD T   I
+Sbjct  118   CPGSTHVRARLADGLEASSSLLQYMQWGLDNDIPPGAISATWNASKSNADTLTDDTE--I  175
+
+Query  1492  IREDLG-AYTITEDAPANLTSTVLVGPSGIGKTTWALRECQKPSLLVTHLDGLRQLN-GS  1319
+             + E L     +         S V++G SGIGKTTW  +   KP+L+V+H+D L+Q   G 
+Sbjct  176   VGEILSPELQLRTYETTTRRSVVVIGRSGIGKTTWVRKHAPKPALMVSHIDDLKQFRPGY  235
+
+Query  1318  HKSIIFDDMSFTH-------IPREAQIHLVDRFQPRQIHVRYGTADIPAGIQKIFTANQY  1160
+             H S+IFDDM F          PR +QIHLVDR   R I+V++    IP G+ K FT N Y
+Sbjct  236   HVSLIFDDMHFNGDESGKGAWPRTSQIHLVDRDLGRSINVKHSVVHIPRGVHKFFTGNSY  295
+
+Query  1159  PFVPDPAIDRRV  1124
+              F  D +I RRV
+Sbjct  296   MFKVDESIARRV  307
+
+
+
+
+>replication-associated protein [Bromus-associated circular DNA virus 1]
+Sequence ID: YP_009116647.1 Length: 361
+>replication-associated protein [Bromus-associated circular DNA virus 1]
+Sequence ID: AJC52517.1 Length: 361 
+Range 1: 38 to 347
+
+Score:111 bits(277), Expect:5e-23, 
+Method:Compositional matrix adjust., 
+Identities:89/312(29%), Positives:131/312(41%), Gaps:27/312(8%)
+
+Query  1969  FRLQCRKLFLTYPHCTASIQEVYDLIHSKKEVKFARICIEPHSDGTPHIHAAIHFTKKVN  1790
+             FRL  ++  LTY  C     +++  +  K+ +  A  CIE H+DG PHIH A+ F KK+N
+Sbjct  38    FRLSAKRYLLTYAQCPEDPDDIFRQLDRKRAIARAVGCIELHADGNPHIHIAVEFAKKLN  97
+
+Query  1789  ICNARLFDI------NDHHCNMESVKNWPATLNYCKKGdnwqdfdndddpdkpiddDLCE  1628
+               + + FD         +H N+   ++WP  +NYC+     +   +      P  D   +
+Sbjct  98    SVDTKYFDYAYDDTCESYHPNISPAQSWPKCINYCRG--KNKTLTDASGIRGPKPDLFVQ  155
+
+Query  1627  LAETMPAKEYW-EYCRRKKVPFAYASNALRDKKSMFTITDSTNYGIIREDLGAY----TI  1463
+                    KE W ++     V         R   +            IRE + A      +
+Sbjct  156   ARACNGNKELWLQWLFEHNVQPTLGLEVWRSLHAPPAFQTFETLMDIREPIAATFDQRLL  215
+
+Query  1462  TEDAPANLT-STVLVGPSGIGKTTWALR---ECQKPSLLVTHLDGLRQLN-GSHKSIIFD  1298
+                 P + T S V++GPSG GKT WA     E   P L V  +D L+      H  I+FD
+Sbjct  216   YLQLPDDFTKSVVIIGPSGSGKTVWAFNRMFERFGPGLSVGDIDDLKLFRPEQHSCIVFD  275
+
+Query  1297  DMSF--------THIPREAQIHLVDRFQPRQIHVRYGTADIPAGIQKIFT-ANQYPFVPD  1145
+             ++ F             E QI L D  + R I  R+G   I A   ++FT     PF  D
+Sbjct  276   EVRFGGDFQTGKGRFKLETQIALCDTARSRTIRCRHGNGFIAANTPRVFTCTGTLPFTQD  335
+
+Query  1144  PAIDRRVNNKNL  1109
+               I+RR++  NL
+Sbjct  336   YQIERRIHIINL  347
+
+
+
+
+>replication-associated protein [Bromus-associated circular DNA virus 1]
+Sequence ID: AJC52521.1 Length: 361
+Range 1: 38 to 347
+
+Score:111 bits(277), Expect:5e-23, 
+Method:Compositional matrix adjust., 
+Identities:89/312(29%), Positives:131/312(41%), Gaps:27/312(8%)
+
+Query  1969  FRLQCRKLFLTYPHCTASIQEVYDLIHSKKEVKFARICIEPHSDGTPHIHAAIHFTKKVN  1790
+             FRL  ++  LTY  C     +++  +  K+ +  A  CIE H+DG PHIH A+ F KK+N
+Sbjct  38    FRLSAKRYLLTYAQCPEDPDDIFRQLDRKRAIARAVGCIELHADGNPHIHIAVEFAKKLN  97
+
+Query  1789  ICNARLFDI------NDHHCNMESVKNWPATLNYCKKGdnwqdfdndddpdkpiddDLCE  1628
+               + + FD         +H N+   ++WP  +NYC+     +   +      P  D   +
+Sbjct  98    SVDTKYFDYAYDDTCESYHPNISPAQSWPKCINYCRG--KNKTLTDASGIRGPKPDLFVQ  155
+
+Query  1627  LAETMPAKEYW-EYCRRKKVPFAYASNALRDKKSMFTITDSTNYGIIREDLGAY----TI  1463
+                    KE W ++     V         R   +            IRE + A      +
+Sbjct  156   ARACNGNKELWLQWLFEHNVQPTLGLEVWRSLHAPPAFQTFETLMEIREPIAATFDQRLL  215
+
+Query  1462  TEDAPANLT-STVLVGPSGIGKTTWALR---ECQKPSLLVTHLDGLRQLN-GSHKSIIFD  1298
+                 P + T S V++GPSG GKT WA     E   P L V  +D L+      H  I+FD
+Sbjct  216   YLQLPDDFTKSVVIIGPSGSGKTVWAFNRMFERFGPGLSVGDIDDLKLFRPEQHSCIVFD  275
+
+Query  1297  DMSF--------THIPREAQIHLVDRFQPRQIHVRYGTADIPAGIQKIFT-ANQYPFVPD  1145
+             ++ F             E QI L D  + R I  R+G   I A   ++FT     PF  D
+Sbjct  276   EVRFGGDFQTGKGRFKLETQIALCDTARSRTIRCRHGNGFIAANTPRVFTCTGTLPFTQD  335
+
+Query  1144  PAIDRRVNNKNL  1109
+               I+RR++  NL
+Sbjct  336   YQIERRIHIINL  347
+
+
+
+
+>MAG: capsid protein [Cressdnaviricota sp.]
+Sequence ID: WAE42143.1 Length: 354
+Range 1: 118 to 316
+
+Score:109 bits(273), Expect:1e-22, 
+Method:Compositional matrix adjust., 
+Identities:64/205(31%), Positives:108/205(52%), Gaps:6/205(2%)
+
+Query  381  RMEWDAGSQGVLNVATTFGVQQLQNVMSNIGASAVGDDTTRMVVKSVTGSLNISNMSNAN  560
+            R+    G+Q  +     F    LQ + +++G +   + T R + +  +    I+N  + N
+Sbjct  118  RLGASVGTQNSVIANRMFNTTDLQTISTSVGGA---NSTVRWLARKCSSETMITNQDSGN  174
+
+Query  561  VLITLYDVVARTDSNTSSAWTNPLDAWANGLEDTEEGGTIAAARTNIGATPFQSVMFCRK  740
+              IT+YD++AR DSN+S   ++P+ AW N   D  EGG  A +   +G  PF S +F + 
+Sbjct  175  CRITIYDIIARRDSNSSVNTSDPVVAWNNSYLD--EGGANANSAL-VGTLPFSSDLFTQF  231
+
+Query  741  YRVLKVTKIYMEAGRSHIHYIKRNMNSVLNNSILETNETNLANKTHYCFAVGRGFPVNDA  920
+            ++VLKVT I + AG++H H I   +N +++   ++   ++L   T Y   V  G P ND 
+Sbjct  232  FKVLKVTTILLGAGQTHFHRISFKLNKIIDQETVKYITSSLKGTTCYQMVVVSGVPYNDV  291
+
+Query  921  TTDTNIALGSGALDFVFTETYEQVW  995
+            TT T ++ G+  +D+V    Y+  W
+Sbjct  292  TTTTQVSTGACNVDWVSRREYKYTW  316
+
+
+
+
+>MAG: capsid protein [Cressdnaviricota sp.]
+Sequence ID: WAE42971.1 Length: 333
+Range 1: 57 to 295
+
+Score:108 bits(271), Expect:2e-22, 
+Method:Compositional matrix adjust., 
+Identities:74/247(30%), Positives:120/247(48%), Gaps:15/247(6%)
+
+Query  276  GIG-----YSNFRESRKCYPM-VRNMLKAGTLSVYKYVDTKRMEWDAGSQGVLNVATTFG  437
+            GIG     Y+ F  + +  P+  +   KA + + Y      R     G Q    + + F 
+Sbjct  57   GIGGHGGTYTTFYYTPRKMPLSFKRNFKALSKNYYTINGAIRYTSAVGLQNSNTIQSMFN  116
+
+Query  438  VQQLQNVMSNIGASAVGDDTTRMVVKSVTGSLNISNMSNANVLITLYDVVARTDSNTSSA  617
+               L  +   + A    + T ++++KS +  L I+N   AN  I +YD++AR D  T+S 
+Sbjct  117  YTDLNAISQKVSA----NQTNKVLMKSCSSELMITNQDAANSNIIIYDIIARRDLATTSN  172
+
+Query  618  WTNPLDAWANGLEDTEEGGTIAAARTNI-GATPFQSVMFCRKYRVLKVTKIYMEAGRSHI  794
+               P  AWA    D  EG T   +  NI G+TPF + +F + YRV K++ + +  G+ H 
+Sbjct  173  LATPDVAWARSYGD--EGAT--NSNWNIPGSTPFSADLFTQFYRVCKISHVTLGQGQCHT  228
+
+Query  795  HYIKRNMNSVLNNSILETNETNLANKTHYCFAVGRGFPVNDATTDTNIALGSGALDFVFT  974
+            H +K + N +++  +++ N   L   T +   V  GFP ND TT + ++LG   LDFV+ 
+Sbjct  229  HRVKFSPNIIIDGELIQYNTNGLKGVTCFTMVVQSGFPQNDVTTKSQVSLGQTTLDFVYK  288
+
+Query  975  ETYEQVW  995
+            + Y   W
+Sbjct  289  KQYSYTW  295
+
+
+
+
+>MAG: replication-associated protein, partial [Ficedula parva CRESS-DNA-virus sp.]
+Sequence ID: QTE03484.1 Length: 361
+Range 1: 184 to 299
+
+Score:107 bits(268), Expect:6e-22, 
+Method:Compositional matrix adjust., 
+Identities:61/118(52%), Positives:80/118(67%), Gaps:11/118(9%)
+
+Query  1453  APANLTSTVLV-GPSGIGKTTWALRECQKPSLLVTHLDGLRQLNGSHKSIIFDDMSFTHI  1277
+             +P +L+ +VL+ GPSG GKT +AL   + P L V+H+D L+QLN  H  I+FDDMS+THI
+Sbjct  184   SPLDLSKSVLLTGPSGTGKTQFALAHFKNP-LFVSHMDKLKQLNCDHDGIVFDDMSWTHI  242
+
+Query  1276  PREAQIHLVDRFQPRQIHVRYGTADIPAGIQKIFTANQ-YPFVPDP-------AIDRR  1127
+               EA IHL+D    R IH+RYGTA IPA ++KIFT N+  PF  +P       AI+RR
+Sbjct  243   HHEAVIHLLD-LDERDIHIRYGTATIPANMRKIFTTNKNNPFYVEPIEAEQRHAIERR  299
+
+
+
+
+>MAG: replication-associated protein [Cressdnaviricota sp.]
+Sequence ID: AXH75780.1 Length: 283
+Range 1: 169 to 275
+
+Score:105 bits(261), Expect:2e-21, 
+Method:Compositional matrix adjust., 
+Identities:55/108(51%), Positives:69/108(63%), Gaps:5/108(4%)
+
+Query  1435  STVLVGPSGIGKTTWALRECQKPSLLVTHLDGLRQLNGSHKSIIFDDMSFTHIPREAQIH  1256
+             S ++ GP+G+GKT +AL     P L V+H+D L+  N  +  I+FDDM F HIPR AQIH
+Sbjct  169   SHIIWGPAGVGKTQFALAHFSNP-LFVSHVDDLKTFNNDYDGIVFDDMCFAHIPRTAQIH  227
+
+Query  1255  LVDRFQPRQIHVRYGTADIPAGIQKIFTANQYPF----VPDPAIDRRV  1124
+             LVD   PR IH+RYG A IPA  +KIFT N+       + D AI RRV
+Sbjct  228   LVDIDTPRSIHIRYGCARIPANTKKIFTTNEEHGEIFDLLDGAIARRV  275
+
+
+
+
+
+
+
+		
+
+
