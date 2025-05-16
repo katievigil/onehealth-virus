@@ -2,5 +2,4 @@
 metagenomic sequencing of viruses from mussels, oysters, seawater and marine mammals.
 
 Publication Title: 
-Metagenomic sequencing of zoonotic viruses from oysters, mussels and water to address One Health surveillance
-Virus Metagenomic sequencing project
+Metagenomic analysis of viruses associated with bivalves, environmental water and marine mammals using a nanopore end-to-end sequencing workflow to address One Health surveillance
