@@ -2,4 +2,4 @@
 metagenomic sequencing of viruses from mussels, oysters, seawater and marine mammals.
 
 Publication Title: 
-Metagenomic analysis of viruses associated with bivalves, environmental water and marine mammals using a nanopore end-to-end sequencing workflow to address One Health surveillance
+Metagenomic characterization of viral communities across coastal matrices highlights bivalves as integrative sentinel hosts within a One Health framework
