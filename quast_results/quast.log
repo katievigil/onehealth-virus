@@ -1,0 +1,61 @@
+/work/kvigil/.conda/envs/votu_env/bin/quast -o quast_results -t 8 /work/kvigil/hecatomb_out_hostfiltered/results/merged_assembly.fasta
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-4.18.0-477.27.1.el8_8.x86_64-x86_64-with-redhat-8.8-Ootpa (linux_64)
+  Python version: 3.6.15
+  CPUs number: 64
+
+Started: 2026-02-28 15:10:37
+
+Logging to /ddnB/work/kvigil/vOTU/quast_results/quast.log
+
+CWD: /ddnB/work/kvigil/vOTU
+Main parameters: 
+  MODE: default, threads: 8, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+  /work/kvigil/hecatomb_out_hostfiltered/results/merged_assembly.fasta ==> merged_assembly
+
+2026-02-28 15:10:52
+Running Basic statistics processor...
+  Contig files: 
+    merged_assembly
+  Calculating N50 and L50...
+    merged_assembly, N50 = 1339, L50 = 77552, Total length = 281548523, GC % = 41.44, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /ddnB/work/kvigil/vOTU/quast_results/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /ddnB/work/kvigil/vOTU/quast_results/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /ddnB/work/kvigil/vOTU/quast_results/basic_stats/GC_content_plot.pdf
+  Drawing merged_assembly GC content plot...
+    saved to /ddnB/work/kvigil/vOTU/quast_results/basic_stats/merged_assembly_GC_content_plot.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding or --glimmer option to enable it.
+
+2026-02-28 15:11:03
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2026-02-28 15:11:06
+RESULTS:
+  Text versions of total report are saved to /ddnB/work/kvigil/vOTU/quast_results/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /ddnB/work/kvigil/vOTU/quast_results/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) is saved to /ddnB/work/kvigil/vOTU/quast_results/report.html
+  PDF version (tables and plots) is saved to /ddnB/work/kvigil/vOTU/quast_results/report.pdf
+  Icarus (contig browser) is saved to /ddnB/work/kvigil/vOTU/quast_results/icarus.html
+  Log is saved to /ddnB/work/kvigil/vOTU/quast_results/quast.log
+
+Finished: 2026-02-28 15:11:06
+Elapsed time: 0:00:29.279555
+NOTICEs: 1; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!
